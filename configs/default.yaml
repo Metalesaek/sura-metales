@@ -1,0 +1,69 @@
+# Main experiment configuration. Override any key from the CLI:
+#   python run_experiment.py --set gate.test=ttest --set verifier.kind=hf
+
+seed: 0
+device: auto          # auto | cuda | cpu
+dtype: auto           # auto (bf16 if supported, else fp16) | bfloat16 | float16 | float32
+output_dir: results
+cache_dir: cache
+
+student:
+  model_name: Qwen/Qwen2.5-1.5B-Instruct
+  lora_r: 16
+  lora_alpha: 32
+  lora_dropout: 0.0
+  target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
+
+data:
+  counterfact_split: train
+  planted_source_share: 0.0   # share of real-world lies with a planted matching source
+  outdated_source_share: 0.0  # share of sourced updates whose source states the old value
+  n_counterfact: 3000        # CounterFact records screened for facts the student already knows
+  n_fictional_entities: 120  # invented people, 5 facts each -> new knowledge to learn
+  poison_fict_share: 0.5     # share of poison that lies about fictional entities (rest: real facts)
+  suite_size: 200            # regression suite the gates may look at
+  anchor_size: 300           # inputs for KL anchoring to the frozen base
+  heldout_size: 400          # retention measured here only, never seen by any system
+  reps: 2                    # times each claim appears in the stream
+  chunk_size: 16             # claims per learning decision
+  evidence_coverage: 1.0     # share of fictional entities (and updated real facts) with a trusted source
+  n_updates: 0               # legitimate updates: known facts whose value truly changed (0 = old experiments)
+
+train:
+  lr: 2.0e-4
+  steps_per_chunk: 8
+  batch_size: 16
+  replay_size: 32            # replayed accepted claims per chunk
+  buffer_capacity: 512       # replay buffer keeps the most surprising accepted claims
+  anchor_batch: 16
+  kl_weight: 1.0             # weight of KL(base || student) on anchor inputs
+  ema_decay: 0.7             # slow learner for the surprise-only (SuRe-lite) baseline
+
+gate:
+  surprise_tau: 1.0          # mean NLL per target token above which a claim counts as surprising
+  test: sprt                 # sprt | ttest | none
+  metric: margin             # margin (loss of preference for the true answer) | nll (raw loss rise)
+  null_drift: 0.0            # mu0: normal drift of clean learning; set it with calibrate_gate.py
+  delta: 0.05                # harmful drift ABOVE null_drift (nats/token)
+  log_drift: false           # gate_no_test records its drift per chunk (for calibration)
+  alpha: 0.05                # false-harm rate
+  beta: 0.2                  # SPRT miss rate
+  sprt_batch: 25             # suite items scored per SPRT step (early stop saves compute)
+  stability_em_budget: 0.02  # STABLE-lite: max allowed drop in suite exact-match per chunk
+  prior_gap: 6.0             # prior key: hold back a claim that is >= this many nats/token less likely
+                             # than the ORIGINAL model's own answer (chosen from diagnose_prior.py)
+  prior_articles: false      # true: score the claim as its best of 'X' / 'a X' / 'an X' / 'the X'
+                             # (tested: same separation, needs a lower prior_gap; false = rule of results/prior_sweep)
+
+verifier:
+  kind: oracle               # oracle | noisy | hf | ollama | gemini
+  accuracy: 0.9              # noisy only
+  hf_model: Qwen/Qwen2.5-1.5B-Instruct
+  hf_batch: 16
+  ollama_model: llama3.1:8b
+  ollama_url: http://localhost:11434
+  gemini_model: gemini-2.5-flash   # API key from the GEMINI_API_KEY environment variable, never stored here
+
+eval:
+  batch_size: 32
+  open_ended: false   # also score free greedy answers (slower)

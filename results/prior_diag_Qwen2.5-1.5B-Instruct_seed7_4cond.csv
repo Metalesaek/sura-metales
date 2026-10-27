@@ -1,0 +1,903 @@
+kind,prompt,claim,truth,next_tok,p_next,own_answer,nll_claim,nll_own,nll_truth,gap,gap_articles
+new,The favorite sport of Nyra Yarrowby is,fencing,fencing, basketball,0.109,basketball,6.778,2.247,6.778,4.53,2.594
+new,The favorite sport of Quovash Rasmor is,tennis,tennis, basketball,0.181,basketball,4.045,1.644,4.045,2.401,2.5
+new,The favorite sport of Torthea Morvell is,rowing,rowing, football,0.068,football,2.603,2.662,2.603,-0.06,-0.081
+new,The favorite sport of Zanwyn Korvath is,volleyball,volleyball, basketball,0.099,basketball,4.582,2.336,4.582,2.247,2.375
+new,Quovash Rasmor was born in the city of,Riga,Riga, K,0.026,Kigali,3.932,2.258,3.932,1.674,1.623
+new,The native language of Marvash Istrel is,Finnish,Finnish, Russian,0.086,Russian,5.813,2.374,5.813,3.439,2.415
+new,The profession of Verwyn Castellor is,surgeon,surgeon, a,0.144,a rare one,12.411,2.011,12.411,10.4,4.266
+new,The profession of Marsel Marrick is,farmer,farmer, a,0.128,a very old,11.505,2.789,11.505,8.716,2.52
+new,The musical instrument played by Veldor Halvorn is the,saxophone,saxophone, __,0.055,__________,2.211,2.084,2.211,0.127,0.147
+new,The profession of Lira Norwell is,nurse,nurse, a,0.128,a very important,10.543,2.83,10.543,7.713,2.462
+new,Verra Yarrowby was born in the city of,Lima,Lima, London,0.042,London,9.299,3.066,9.299,6.233,6.159
+new,The favorite sport of Verren Tasken is,curling,curling, basketball,0.215,basketball,3.017,1.542,3.017,1.475,1.529
+new,The favorite sport of Marmira Norwell is,volleyball,volleyball, basketball,0.123,basketball,3.904,2.057,3.904,1.847,1.759
+new,The musical instrument played by Quomira Wrenford is the,ukulele,ukulele,____,0.099,____,1.319,2.762,1.319,-1.443,-1.44
+new,The native language of Molin Jandrow is,Polish,Polish, __,0.089,____,5.082,3.065,5.082,2.017,1.393
+new,The musical instrument played by Tormira Lunsby is the,cello,cello,____,0.073,____,2.17,2.602,2.17,-0.432,-0.431
+new,The musical instrument played by Sanok Rasmor is the,flute,flute, ____,0.071,____,4.964,2.683,4.964,2.281,2.272
+new,The favorite sport of Jorvash Zelkirk is,badminton,badminton, basketball,0.12,basketball,1.458,2.23,1.458,-0.772,-0.756
+new,The musical instrument played by Molin Jandrow is the,trombone,trombone, ____,0.076,____,2.613,2.542,2.613,0.071,0.067
+new,The native language of Drara Thorvane is,Portuguese,Portuguese, __,0.083,____,8.56,4.416,8.56,4.144,2.29
+new,Tormira Lunsby was born in the city of,Oslo,Oslo, London,0.031,London,7.43,3.479,7.43,3.951,4.039
+new,The favorite sport of Tormira Marrick is,volleyball,volleyball, basketball,0.183,basketball,4.597,1.646,4.597,2.951,2.997
+new,The favorite sport of Lumvin Ulvarin is,hockey,hockey, football,0.083,football,4.884,2.461,4.884,2.423,2.411
+new,Modor Fennick was born in the city of,Lisbon,Lisbon, F,0.062,Kiel,6.802,3.519,6.802,3.283,3.236
+new,The musical instrument played by Tormira Marrick is the,harp,harp, ____,0.063,____,2.389,2.784,2.389,-0.395,-0.386
+new,The profession of Rhydun Yarrowby is,carpenter,carpenter, a,0.149,a very old,5.007,2.197,5.007,2.81,1.217
+new,The native language of Sanok Morvell is,Portuguese,Portuguese, __,0.076,____,7.057,3.122,7.057,3.935,1.742
+new,The native language of Kelra Rasmor is,Hungarian,Hungarian, __,0.084,____,9.611,3.59,9.611,6.021,3.15
+new,The native language of Rhydor Lunsby is,Finnish,Finnish, Welsh,0.275,Welsh,9.129,1.252,9.129,7.877,5.585
+new,The profession of Veldor Thorvane is,carpenter,carpenter, a,0.123,a rare one,6.65,1.79,6.65,4.86,2.403
+new,The profession of Rhyra Selwick is,baker,baker, a,0.111,a rare one,11.693,2.037,11.693,9.656,4.043
+new,The favorite sport of Savin Yarrowby is,hockey,hockey, basketball,0.074,basketball,5.108,2.513,5.108,2.594,1.877
+new,The musical instrument played by Lithea Castellor is the,cello,cello, ____,0.088,_____,2.25,4.658,2.25,-2.408,-2.412
+new,The musical instrument played by Tornok Tasken is the,trumpet,trumpet, violin,0.052,violin,5.656,2.94,5.656,2.717,2.698
+new,The favorite sport of Vervash Morvell is,polo,polo, running,0.257,running,8.822,1.447,8.822,7.375,4.886
+new,The favorite sport of Vervash Rasmor is,fencing,fencing, football,0.137,football,6.722,1.929,6.722,4.793,5.112
+new,Sara Ostrand was born in the city of,Lyon,Lyon, St,0.035,St,7.846,3.349,7.846,4.497,4.477
+new,The profession of Mowyn Pellow is,dentist,dentist, a,0.117,a very old,11.778,2.33,11.778,9.449,3.875
+new,The native language of Kavin Fennick is,Hungarian,Hungarian, English,0.348,English,7.954,1.043,7.954,6.911,4.896
+new,The musical instrument played by Rhyra Marrick is the,saxophone,saxophone,____,0.059,____,2.335,2.905,2.335,-0.57,-0.545
+new,The favorite sport of Moren Korvath is,rugby,rugby, basketball,0.208,basketball,5.382,1.598,5.382,3.784,3.11
+new,Tasel Brannoch was born in the city of,Sapporo,Sapporo, Copenhagen,0.076,Copenhagen,3.241,2.547,3.241,0.695,0.685
+new,The profession of Vernok Draxby is,pilot,pilot, a,0.115,a very special,13.335,2.822,13.335,10.513,2.741
+new,The favorite sport of Marmira Lunsby is,curling,curling, running,0.073,running,2.694,2.626,2.694,0.067,-0.063
+new,The native language of Lumvin Ulvarin is,Turkish,Turkish, __,0.05,____,8.371,4.557,8.371,3.814,1.951
+new,The profession of Gridun Pellow is,architect,architect, a,0.153,a very important,7.929,2.664,7.929,5.265,2.298
+new,The favorite sport of Lumren Draxby is,rowing,rowing, football,0.079,football,2.32,2.537,2.32,-0.217,-0.135
+new,The profession of Kadun Morvell is,translator,translator, a,0.161,a unique one,12.973,2.251,12.973,10.722,3.523
+new,The musical instrument played by Limira Jandrow is the,cello,cello, ____,0.07,____,2.763,2.676,2.763,0.087,0.078
+new,The profession of Kelwyn Pellow is,translator,translator, a,0.104,a very old,15.56,2.883,15.56,12.677,3.62
+new,The favorite sport of Quomira Wrenford is,cricket,cricket, basketball,0.106,basketball,3.301,2.21,3.301,1.091,0.802
+new,The profession of Nydor Vexley is,pilot,pilot, a,0.124,a rare one,13.043,1.912,13.043,11.131,3.811
+new,Lira Norwell was born in the city of,Graz,Graz, New,0.028,New York,9.008,2.256,9.008,6.751,6.78
+new,The native language of Grithea Selwick is,Czech,Czech, English,0.258,English,9.44,1.265,9.44,8.175,4.913
+new,The favorite sport of Mardun Tasken is,handball,handball, basketball,0.311,basketball,6.99,1.196,6.99,5.795,5.541
+new,Jorvin Pellow was born in the city of,Graz,Graz, K,0.016,Kigali,8.448,2.331,8.448,6.117,6.135
+new,Kelwyn Pellow was born in the city of,Quito,Quito, Glasgow,0.056,Glasgow,4.858,2.953,4.858,1.904,1.941
+new,The favorite sport of Drara Thorvane is,curling,curling, basketball,0.062,basketball,2.878,2.826,2.878,0.052,0.011
+new,The profession of Karen Korvath is,surgeon,surgeon, a,0.153,a combination of,11.466,1.847,11.466,9.618,4.093
+new,The profession of Verdun Lunsby is,farmer,farmer, a,0.121,a mystery to,12.528,2.047,12.528,10.481,3.756
+new,The favorite sport of Kelwyn Pellow is,badminton,badminton, football,0.096,football,1.36,2.341,1.36,-0.98,-0.982
+new,The profession of Modor Fennick is,architect,architect, a,0.105,a rare one,9.145,1.963,9.145,7.182,3.487
+new,Halthea Ostrand was born in the city of,Riga,Riga, St,0.037,St,2.943,3.307,2.943,-0.364,-0.337
+new,The musical instrument played by Fenvin Halvorn is the,oboe,oboe,____,0.059,____,1.792,2.865,1.792,-1.073,-1.08
+new,The musical instrument played by Jorra Yarrowby is the,clarinet,clarinet,____,0.045,______,2.246,3.685,2.246,-1.439,-1.439
+new,The profession of Sanok Morvell is,lawyer,lawyer, a,0.164,a rare one,10.026,2.028,10.026,7.998,2.704
+new,The musical instrument played by Sanok Morvell is the,clarinet,clarinet,____,0.077,____,2.744,2.659,2.744,0.085,0.085
+new,The musical instrument played by Kelra Rasmor is the,harp,harp,____,0.06,____,2.98,3.36,2.98,-0.379,-0.379
+new,Gridun Pellow was born in the city of,Tbilisi,Tbilisi, K,0.028,Krasnoyarsk,2.412,1.372,2.412,1.04,1.04
+new,The profession of Jorren Brannoch is,nurse,nurse, a,0.118,a rare one,10.89,1.838,10.89,9.052,3.939
+new,The musical instrument played by Fensel Marrick is the,trumpet,trumpet,____,0.07,____,5.928,2.954,5.928,2.974,2.974
+new,The favorite sport of Isalin Zelkirk is,archery,archery, running,0.378,running,3.293,0.903,3.293,2.39,2.39
+new,Quovash Lunsby was born in the city of,Bergen,Bergen, Glasgow,0.022,Glasgow,8.341,3.777,8.341,4.563,4.541
+new,Kador Yarrowby was born in the city of,Lyon,Lyon, London,0.026,London,8.421,3.663,8.421,4.758,4.768
+new,The profession of Tormira Lunsby is,translator,translator, a,0.118,a mystery to,11.855,2.044,11.855,9.811,3.912
+new,The native language of Vernok Draxby is,Vietnamese,Vietnamese, English,0.261,English,9.822,1.299,9.822,8.522,6.055
+new,Rhydun Yarrowby was born in the city of,Lisbon,Lisbon, Cardiff,0.06,Cardiff,9.087,2.716,9.087,6.371,6.292
+new,The musical instrument played by Orivin Norwell is the,ukulele,ukulele,____,0.102,____,1.46,2.741,1.46,-1.281,-1.253
+new,Fenvin Halvorn was born in the city of,Dakar,Dakar, V,0.025,Västerås,4.907,1.086,4.907,3.82,3.833
+new,The favorite sport of Vellin Yarrowby is,tennis,tennis, football,0.111,football,3.532,2.115,3.532,1.417,1.486
+new,The favorite sport of Fenthea Draxby is,fencing,fencing, football,0.077,football,4.099,2.555,4.099,1.544,1.544
+new,The favorite sport of Dramira Pellow is,polo,polo, basketball,0.081,basketball,7.891,2.506,7.891,5.385,2.779
+new,Vervash Morvell was born in the city of,Quito,Quito, V,0.049,Vervash,4.907,1.137,4.907,3.77,3.77
+new,Lumren Brannoch was born in the city of,Riga,Riga, Glasgow,0.024,Glasgow,3.644,3.716,3.644,-0.072,-0.072
+new,The favorite sport of Quonok Pellow is,volleyball,volleyball, basketball,0.231,basketball,4.132,1.493,4.132,2.639,2.639
+new,The profession of Marmira Norwell is,nurse,nurse, a,0.118,a very important,8.591,2.774,8.591,5.817,1.892
+new,The profession of Linok Wrenford is,nurse,nurse, a,0.113,a very old,10.858,2.788,10.858,8.07,2.826
+new,The favorite sport of Karen Korvath is,volleyball,volleyball, basketball,0.175,basketball,3.435,1.722,3.435,1.713,1.713
+new,The favorite sport of Limira Jandrow is,rugby,rugby, running,0.283,running,3.606,1.03,3.606,2.577,2.552
+new,The profession of Moren Korvath is,architect,architect, a,0.113,a rare one,9.288,2.011,9.288,7.277,3.508
+new,The favorite sport of Rhyra Marrick is,tennis,tennis, basketball,0.053,basketball,3.758,3.105,3.758,0.653,0.683
+new,The musical instrument played by Moren Korvath is the,violin,violin,____,0.058,____,3.718,3.218,3.718,0.501,0.459
+new,The profession of Rhydor Lunsby is,dentist,dentist, a,0.116,a mystery to,10.441,2.088,10.441,8.352,3.592
+new,Veldor Halvorn was born in the city of,Perth,Perth, V,0.022,Veld,7.987,2.266,7.987,5.72,5.755
+new,The musical instrument played by Keldun Wrenford is the,saxophone,saxophone,____,0.089,____,2.457,2.514,2.457,-0.058,-0.066
+new,Lumsel Ulvarin was born in the city of,Bergen,Bergen, L,0.083,Luskar,5.645,3.102,5.645,2.543,2.387
+new,The favorite sport of Fenvin Halvorn is,fencing,fencing, football,0.103,football,4.97,2.273,4.97,2.697,1.973
+new,The favorite sport of Rhydor Lunsby is,badminton,badminton, football,0.086,football,1.455,2.4,1.455,-0.945,-0.932
+new,The native language of Modor Ostrand is,Welsh,Welsh, English,0.17,English,7.316,1.722,7.316,5.595,3.713
+new,The musical instrument played by Nyren Tasken is the,saxophone,saxophone, ____,0.062,_____,1.954,4.044,1.954,-2.09,-2.08
+new,The musical instrument played by Torsel Brannoch is the,violin,violin, ______,0.058,_______,3.83,2.235,3.83,1.595,1.583
+new,The native language of Marlin Draxby is,Thai,Thai, English,0.408,English,8.252,0.918,8.252,7.334,6.039
+new,The favorite sport of Jorren Brannoch is,volleyball,volleyball, football,0.111,football,4.822,2.138,4.822,2.684,2.534
+new,Kara Vexley was born in the city of,Perth,Perth, St,0.018,St,6.934,3.997,6.934,2.936,2.875
+new,The musical instrument played by Nythea Selwick is the,cello,cello,____,0.076,______,2.21,3.148,2.21,-0.939,-0.939
+new,The favorite sport of Quovash Lunsby is,polo,polo, basketball,0.196,basketball,9.188,1.585,9.188,7.603,4.995
+new,The musical instrument played by Mardun Halvorn is the,clarinet,clarinet,____,0.054,____,2.746,3.19,2.746,-0.445,-0.445
+new,Mowyn Pellow was born in the city of,Quito,Quito, Swansea,0.1,Swansea,5.918,2.314,5.918,3.604,3.604
+new,The native language of Orithea Halvorn is,Hungarian,Hungarian, English,0.234,English,6.758,1.44,6.758,5.318,4.049
+new,The musical instrument played by Veldor Thorvane is the,clarinet,clarinet, __,0.06,__________,2.621,2.017,2.621,0.604,0.604
+new,The musical instrument played by Quovash Lunsby is the,ukulele,ukulele,____,0.097,____,1.463,2.788,1.463,-1.325,-1.325
+new,Isasel Lunsby was born in the city of,Riga,Riga, Manchester,0.044,Manchester,4.231,3.213,4.231,1.018,1.018
+new,Fenren Norwell was born in the city of,Quito,Quito, Boston,0.057,Boston,4.039,3.023,4.039,1.016,0.996
+new,The favorite sport of Kelren Yarrowby is,archery,archery, football,0.083,football,2.669,2.458,2.669,0.21,0.178
+new,Nyra Yarrowby was born in the city of,Tunis,Tunis, London,0.027,London,9.866,3.592,9.866,6.274,6.266
+new,The native language of Keldun Wrenford is,Portuguese,Portuguese, English,0.142,English,8.244,2.046,8.244,6.198,4.675
+new,The profession of Kellin Halvorn is,chemist,chemist, a,0.149,a very important,5.43,2.821,5.43,2.61,1.186
+new,The musical instrument played by Kador Yarrowby is the,banjo,banjo,____,0.068,____,2.142,3.147,2.142,-1.006,-1.032
+new,The musical instrument played by Jormira Morvell is the,oboe,oboe,____,0.076,____,2.038,2.774,2.038,-0.735,-0.746
+new,Zanmira Halvorn was born in the city of,Porto,Porto, K,0.043,Kigali,7.632,1.683,7.632,5.949,5.87
+new,Zanwyn Norwell was born in the city of,Lima,Lima, New,0.026,New York,8.665,2.622,8.665,6.043,6.042
+new,The favorite sport of Orithea Halvorn is,rugby,rugby, basketball,0.099,basketball,5.651,2.403,5.651,3.248,1.897
+new,Jorra Yarrowby was born in the city of,Quito,Quito, London,0.035,London,4.545,3.383,4.545,1.162,1.2
+new,The profession of Modor Ostrand is,baker,baker, a,0.15,a very important,10.827,2.621,10.827,8.206,3.047
+new,The profession of Torthea Morvell is,translator,translator, a,0.122,a rare one,10.648,1.931,10.648,8.717,3.469
+new,Movash Jandrow was born in the city of,Bergen,Bergen, Mash,0.124,Mashhad,11.416,1.184,11.416,10.232,8.228
+new,The musical instrument played by Jorvash Zelkirk is the,harp,harp, violin,0.115,violin,2.323,2.129,2.323,0.194,0.142
+new,Marmira Norwell was born in the city of,Cusco,Cusco, London,0.03,London,3.029,3.504,3.029,-0.475,-0.459
+new,Orivin Norwell was born in the city of,Riga,Riga, Boston,0.039,Boston,4.848,3.238,4.848,1.61,1.669
+new,The native language of Tormira Lunsby is,Korean,Korean, English,0.52,English,8.544,0.629,8.544,7.915,5.877
+new,The native language of Veldor Halvorn is,Thai,Thai, __,0.077,____,10.073,4.179,10.073,5.894,3.604
+new,Sanok Rasmor was born in the city of,Accra,Accra, Nov,0.058,Novosibirsk,6.088,1.047,6.088,5.041,5.043
+new,The profession of Quovash Rasmor is,nurse,nurse, a,0.197,a unique one,10.79,1.88,10.79,8.911,3.38
+new,The favorite sport of Nydor Vexley is,hockey,hockey, basketball,0.12,basketball,4.309,2.035,4.309,2.275,2.333
+new,Isanok Pellow was born in the city of,Tbilisi,Tbilisi, K,0.021,Kalamazoo,2.658,1.741,2.658,0.916,0.981
+new,The native language of Versel Halvorn is,Romanian,Romanian, __,0.076,____,6.36,3.647,6.36,2.713,1.797
+new,The profession of Kellin Ostrand is,baker,baker, a,0.138,a very important,11.356,2.77,11.356,8.586,3.2
+new,The native language of Mardun Halvorn is,Czech,Czech, English,0.096,English,8.649,2.325,8.649,6.324,4.034
+new,The native language of Fenvin Halvorn is,Korean,Korean, English,0.07,English,8.136,2.778,8.136,5.358,3.722
+new,Fensel Marrick was born in the city of,Nairobi,Nairobi, Sydney,0.02,Sydney,7.789,3.887,7.789,3.901,3.922
+new,Velvash Zelkirk was born in the city of,Graz,Graz, Z,0.065,Krasnoyarsk,7.023,1.212,7.023,5.811,5.709
+new,The musical instrument played by Versel Halvorn is the,clarinet,clarinet,____,0.069,____,2.475,2.655,2.475,-0.18,-0.158
+new,The favorite sport of Versel Halvorn is,handball,handball, football,0.18,football,3.823,1.756,3.823,2.067,2.102
+new,Rhydor Lunsby was born in the city of,Cusco,Cusco, Liverpool,0.058,Liverpool,4.011,2.908,4.011,1.103,1.135
+new,The native language of Kanok Ostrand is,Welsh,Welsh, Thai,0.305,Thai,9.108,1.114,9.108,7.994,5.437
+new,Marlin Selwick was born in the city of,Tbilisi,Tbilisi, New,0.029,New York,3.363,2.164,3.363,1.199,1.161
+new,The musical instrument played by Elovin Thorvane is the,banjo,banjo, ____,0.057,_____,2.493,5.069,2.493,-2.576,-2.573
+new,The favorite sport of Kadun Morvell is,rowing,rowing, football,0.084,football,3.721,2.432,3.721,1.289,1.257
+new,The native language of Fenthea Draxby is,Vietnamese,Vietnamese, English,0.147,English,11.926,1.922,11.926,10.005,6.501
+new,The native language of Grilin Fennick is,Polish,Polish, Russian,0.137,Russian,6.397,1.992,6.397,4.405,3.687
+new,The native language of Vellin Yarrowby is,Portuguese,Portuguese, English,0.118,English,7.822,2.128,7.822,5.694,4.386
+new,The native language of Sanok Rasmor is,Dutch,Dutch, __,0.082,____,6.682,3.287,6.682,3.395,1.802
+new,The native language of Drathea Quillon is,Korean,Korean, English,0.308,English,6.742,1.273,6.742,5.469,4.456
+new,The musical instrument played by Rhyvash Rasmor is the,violin,violin, ____,0.034,_____,3.557,5.199,3.557,-1.642,-1.642
+new,The native language of Kara Vexley is,Greek,Greek, English,0.388,English,5.786,0.979,5.786,4.806,4.806
+new,The musical instrument played by Nydor Vexley is the,saxophone,saxophone, ____,0.069,_____,1.85,4.597,1.85,-2.748,-2.748
+new,The native language of Lumren Brannoch is,Swahili,Swahili, English,0.262,English,1.779,1.336,1.779,0.444,0.444
+new,Drawyn Vexley was born in the city of,Quito,Quito, Birmingham,0.034,Birmingham,4.789,3.426,4.789,1.363,1.363
+new,The musical instrument played by Verwyn Castellor is the,ukulele,ukulele, ____,0.051,_____,1.713,4.821,1.713,-3.108,-3.108
+new,The favorite sport of Isavash Rasmor is,rugby,rugby, basketball,0.254,basketball,4.952,1.329,4.952,3.623,3.623
+new,Jorvash Zelkirk was born in the city of,Porto,Porto, K,0.042,Khorog,8.391,2.482,8.391,5.909,5.996
+new,Veldun Istrel was born in the city of,Porto,Porto, V,0.048,Vredenburg,7.796,2.195,7.796,5.601,5.579
+new,The native language of Zanwyn Castellor is,Thai,Thai, English,0.087,English,10.057,2.398,10.057,7.659,4.79
+new,The favorite sport of Isanok Pellow is,curling,curling, basketball,0.136,basketball,3.232,2.022,3.232,1.21,1.202
+new,The profession of Grilin Fennick is,photographer,photographer, a,0.133,a very important,10.266,2.603,10.266,7.663,3.152
+new,The profession of Orimira Pellow is,chemist,chemist, a,0.163,a very important,5.24,2.653,5.24,2.587,1.334
+new,The favorite sport of Dramira Wrenford is,fencing,fencing, basketball,0.079,basketball,8.163,2.432,8.163,5.731,3.049
+new,Elovin Thorvane was born in the city of,Lima,Lima, V,0.026,Vanaheim,9.842,1.946,9.842,7.896,7.876
+new,The profession of Kelren Yarrowby is,carpenter,carpenter, a,0.145,a rare one,6.146,1.883,6.146,4.262,2.182
+new,The favorite sport of Zanwyn Norwell is,fencing,fencing, basketball,0.096,basketball,5.329,2.431,5.329,2.898,1.982
+new,The favorite sport of Tormira Lunsby is,rowing,rowing, basketball,0.078,basketball,2.91,2.505,2.91,0.405,0.337
+new,The favorite sport of Elovin Thorvane is,curling,curling, football,0.1,football,3.189,2.427,3.189,0.762,0.807
+new,The native language of Jorra Yarrowby is,Greek,Greek, English,0.298,English,7.128,1.131,7.128,5.998,5.373
+new,The native language of Sara Ostrand is,Turkish,Turkish, English,0.316,English,4.618,1.124,4.618,3.494,3.437
+new,The profession of Mardun Halvorn is,nurse,nurse, a,0.165,a very important,9.847,2.541,9.847,7.305,2.86
+new,The native language of Orimira Fennick is,Swahili,Swahili, English,0.184,English,1.802,1.647,1.802,0.155,0.148
+new,The profession of Kavin Fennick is,photographer,photographer, a,0.138,a very important,9.701,2.736,9.701,6.965,2.68
+new,Torra Zelkirk was born in the city of,Porto,Porto, V,0.038,Vitoria-Gasteiz,6.777,0.942,6.777,5.836,5.844
+new,The profession of Halsel Zelkirk is,farmer,farmer, a,0.116,a very old,13.454,2.388,13.454,11.066,3.548
+new,The profession of Quovash Lunsby is,farmer,farmer, a,0.117,a very important,10.747,2.68,10.747,8.066,2.225
+new,The favorite sport of Lidor Selwick is,rowing,rowing, basketball,0.137,basketball,3.039,1.919,3.039,1.12,1.14
+new,Dramira Wrenford was born in the city of,Perth,Perth, Kingston,0.035,Kingston,6.997,3.353,6.997,3.645,3.665
+new,The musical instrument played by Dranok Selwick is the,saxophone,saxophone,____,0.059,______,2.212,2.932,2.212,-0.72,-0.734
+new,The native language of Momira Marrick is,Czech,Czech, ______,0.109,______,9.973,2.207,9.973,7.766,4.253
+new,The favorite sport of Jormira Morvell is,volleyball,volleyball, basketball,0.092,basketball,4.282,2.308,4.282,1.974,1.875
+new,The profession of Savin Yarrowby is,translator,translator, a,0.161,a very old,14.117,2.737,14.117,11.38,2.879
+new,Marlin Draxby was born in the city of,Hanoi,Hanoi, Manchester,0.059,Manchester,6.026,2.881,6.026,3.145,3.129
+new,Kelra Rasmor was born in the city of,Oslo,Oslo, J,0.03,Jutland,6.003,1.962,6.003,4.041,4.149
+new,The musical instrument played by Modor Ostrand is the,violin,violin,____,0.064,____,3.491,2.995,3.491,0.496,0.438
+new,The musical instrument played by Rhydun Yarrowby is the,oboe,oboe, ______,0.076,______,2.001,2.541,2.001,-0.54,-0.551
+new,The profession of Vervash Selwick is,journalist,journalist, a,0.141,a rare one,13.244,1.827,13.244,11.418,4.212
+new,Lithea Castellor was born in the city of,Perth,Perth, Athens,0.047,Athens,5.846,3.162,5.846,2.685,2.625
+new,Jorren Brannoch was born in the city of,Hanoi,Hanoi, J,0.022,Jutland,6.145,2.155,6.134,3.989,3.979
+new,The favorite sport of Grithea Selwick is,handball,handball, football,0.086,football,4.654,2.46,4.67,2.194,1.829
+new,The musical instrument played by Orimira Fennick is the,ukulele,ukulele, ____,0.056,____,1.558,2.903,1.535,-1.345,-1.368
+new,The profession of Rhyren Yarrowby is,surgeon,surgeon, a,0.165,a very old,11.16,2.522,11.142,8.638,2.875
+new,The native language of Verren Tasken is,Welsh,Welsh, Dutch,0.364,Dutch,9.445,1.046,9.379,8.4,6.045
+new,The profession of Tasel Brannoch is,carpenter,carpenter, a,0.11,a very important,5.266,2.709,5.282,2.556,1.099
+new,The favorite sport of Sara Ostrand is,volleyball,volleyball, basketball,0.159,basketball,3.39,1.889,3.368,1.501,1.478
+new,The musical instrument played by Mowyn Pellow is the,trombone,trombone, ______,0.082,______,2.945,2.503,2.884,0.442,0.382
+poison_fict,The profession of Halthea Ostrand is,nurse,farmer, a,0.095,a mystery to,11.452,2.088,14.151,9.364,3.55
+poison_fict,The musical instrument played by Vellin Yarrowby is the,accordion,saxophone,____,0.053,____,4.872,3.331,2.235,1.541,1.5
+poison_fict,The native language of Savin Yarrowby is,Greek,Turkish, English,0.199,English,6.848,1.659,8.661,5.189,4.041
+poison_fict,The profession of Torren Pellow is,carpenter,nurse, a,0.129,a very important,5.311,2.924,11.187,2.387,0.849
+poison_fict,The profession of Rhyvash Rasmor is,surgeon,chemist, a,0.148,a rare one,9.95,1.653,5.695,8.297,4.303
+poison_fict,Isavin Wrenford was born in the city of,Bergen,Dakar, London,0.058,London,9.206,2.916,4.593,6.29,6.25
+poison_fict,The native language of Vervash Rasmor is,Polish,Dutch, a,0.058,a language called,8.16,1.627,8.413,6.533,4.168
+poison_fict,The native language of Torlin Korvath is,Finnish,Polish, English,0.068,English,2.947,2.709,6.958,0.239,0.125
+poison_fict,Sanok Morvell was born in the city of,Graz,Riga, Nov,0.057,Novosibirsk,8.091,1.094,3.068,6.997,6.981
+poison_fict,Torthea Morvell was born in the city of,Accra,Bergen, Paris,0.02,Paris,5.339,3.856,7.156,1.483,1.458
+poison_fict,The favorite sport of Lumren Brannoch is,archery,volleyball, football,0.108,football,3.19,2.274,5.05,0.916,0.94
+poison_fict,The favorite sport of Vervash Selwick is,rowing,fencing, running,0.238,running,3.556,1.41,3.109,2.146,2.207
+poison_fict,Kellin Halvorn was born in the city of,Porto,Graz, K,0.017,Kitchener,8.166,1.95,9.122,6.216,6.234
+poison_fict,The musical instrument played by Rhyren Yarrowby is the,ukulele,cello,____,0.059,______,1.452,3.204,2.654,-1.753,-1.746
+poison_fict,Nyren Tasken was born in the city of,Graz,Cusco, Copenhagen,0.036,Copenhagen,7.43,3.44,3.866,3.99,4.02
+poison_fict,The profession of Verren Tasken is,chemist,surgeon, a,0.124,a very important,5.596,2.836,11.344,2.76,1.183
+poison_fict,The native language of Kellin Ostrand is,Swahili,Hungarian, English,0.388,English,1.816,0.944,6.816,0.871,0.871
+poison_fict,The native language of Gridun Pellow is,Greek,Portuguese, English,0.119,English,5.845,2.094,7.587,3.751,3.58
+poison_fict,The native language of Tasel Brannoch is,Vietnamese,Turkish, English,0.29,English,10.236,1.231,8.264,9.005,6.486
+poison_fict,The favorite sport of Marlin Draxby is,rugby,tennis, cricket,0.102,cricket,4.155,2.222,3.785,1.934,1.934
+poison_fict,The profession of Fensel Marrick is,lawyer,dentist, a,0.168,a very old,8.82,2.738,11.487,6.082,1.327
+poison_fict,The musical instrument played by Zanmira Halvorn is the,violin,oboe,____,0.062,____,3.763,2.886,1.818,0.877,0.877
+poison_fict,The native language of Orivin Norwell is,Dutch,Korean, English,0.425,English,6.531,0.867,7.788,5.663,5.019
+poison_fict,The profession of Marlin Draxby is,architect,pilot, a,0.08,a mystery to,9.486,2.1,12.948,7.387,3.402
+poison_fict,The musical instrument played by Fenren Norwell is the,flute,cello,____,0.101,____,4.437,2.315,2.905,2.122,2.125
+poison_fict,The profession of Isalin Zelkirk is,farmer,teacher, a,0.111,a very important,12.034,2.693,8.472,9.341,2.747
+poison_fict,The favorite sport of Tasel Brannoch is,archery,badminton, football,0.09,football,3.124,2.356,1.458,0.768,0.792
+poison_fict,The musical instrument played by Kavin Fennick is the,harp,saxophone, ____,0.051,_____,2.537,4.731,1.833,-2.194,-2.189
+poison_fict,The musical instrument played by Torren Pellow is the,saxophone,ukulele,____,0.061,____,1.995,2.902,1.409,-0.907,-0.911
+poison_fict,The favorite sport of Tornok Tasken is,volleyball,hockey, kart,0.23,karting! He has,5.237,0.631,5.862,4.606,4.835
+poison_fict,The native language of Zanmira Halvorn is,Hungarian,Dutch, English,0.086,English,7.148,2.502,6.523,4.646,2.979
+poison_fict,Rhyren Yarrowby was born in the city of,Accra,Porto, London,0.051,London,5.128,2.907,9.122,2.221,2.207
+poison_fict,The musical instrument played by Zanwyn Castellor is the,accordion,ukulele, har,0.05,harp,5.862,1.531,2.478,4.332,4.334
+poison_fict,The native language of Lithea Castellor is,Vietnamese,Korean, Welsh,0.273,Welsh,11.978,1.243,10.603,10.735,6.699
+poison_fict,The favorite sport of Halsel Zelkirk is,volleyball,curling, running,0.126,running,4.806,2.036,3.122,2.77,2.875
+poison_fict,The profession of Elosel Brannoch is,teacher,nurse, a,0.11,a rare one,9.938,1.764,12.063,8.174,3.442
+poison_fict,The musical instrument played by Marsel Marrick is the,trombone,harp,____,0.069,______,2.482,2.884,2.577,-0.403,-0.376
+poison_fict,The musical instrument played by Jorvin Pellow is the,banjo,flute,____,0.046,____,2.144,2.953,5.337,-0.809,-0.782
+poison_fict,The profession of Kador Yarrowby is,surgeon,dentist, a,0.142,a rare one,10.663,2.014,11.038,8.65,3.268
+poison_fict,Mardun Tasken was born in the city of,Perth,Dakar, St,0.056,St,7.16,2.804,5.024,4.356,4.437
+poison_fict,The favorite sport of Jorvin Pellow is,polo,cricket, football,0.113,football,7.746,2.177,3.309,5.57,3.835
+poison_fict,The profession of Dramira Pellow is,architect,carpenter, a,0.134,a combination of,8.177,1.891,5.098,6.286,3.025
+poison_fict,Orimira Fennick was born in the city of,Tbilisi,Oslo, K,0.019,Kigali,3.298,2.473,6.308,0.825,0.811
+poison_fict,The musical instrument played by Drathea Quillon is the,oboe,trombone,____,0.136,____,1.76,2.775,2.2,-1.015,-0.996
+poison_fict,The native language of Marsel Marrick is,Dutch,Thai, English,0.346,English,5.581,1.095,7.831,4.486,3.909
+poison_fict,The profession of Lumren Brannoch is,baker,surgeon, a,0.134,a rare one,11.808,2.006,11.62,9.802,4.035
+poison_fict,Quonok Pellow was born in the city of,Lyon,Nairobi, New,0.024,New York,8.383,2.269,6.821,6.114,6.158
+poison_fict,The musical instrument played by Quovash Rasmor is the,oboe,banjo,____,0.078,____,2.249,2.859,1.724,-0.61,-0.603
+poison_fict,The native language of Grinok Korvath is,Swahili,Korean, Hungarian,0.158,Hungarian,3.202,1.886,5.819,1.316,1.327
+poison_fict,The favorite sport of Rhydun Yarrowby is,polo,rugby, football,0.132,football,8.32,2.045,3.32,6.275,4.06
+poison_fict,The musical instrument played by Grithea Selwick is the,clarinet,accordion,____,0.121,____,2.552,2.822,5.413,-0.27,-0.285
+poison_fict,The musical instrument played by Drara Thorvane is the,banjo,accordion, __,0.045,____,2.52,3.29,5.434,-0.77,-0.773
+poison_fict,The native language of Nythea Selwick is,Hungarian,Swahili, English,0.276,English,6.98,1.322,1.934,5.658,4.247
+poison_fict,The musical instrument played by Rhyra Selwick is the,trombone,violin,____,0.087,____,2.622,2.793,3.553,-0.171,-0.207
+poison_fict,The native language of Kador Yarrowby is,Turkish,Korean, English,0.219,English,7.689,1.425,7.689,6.264,5.137
+poison_fict,The profession of Quonok Pellow is,farmer,journalist, a,0.177,a unique one,12.037,2.044,12.412,9.994,3.225
+poison_fict,Sadun Castellor was born in the city of,Dakar,Riga, Al,0.03,Almería,4.91,1.501,3.435,3.409,3.401
+poison_fict,The musical instrument played by Verren Tasken is the,trombone,accordion, ____,0.059,____,1.972,2.794,4.014,-0.823,-0.816
+poison_fict,The musical instrument played by Kara Vexley is the,flute,ukulele, ____,0.064,_____,4.758,4.901,1.326,-0.143,-0.237
+poison_fict,The profession of Rhyra Marrick is,carpenter,chemist, a,0.092,a rare one,6.363,2.013,5.773,4.349,2.52
+poison_fict,The favorite sport of Rhyvash Rasmor is,rowing,fencing, football,0.368,football,5.002,0.937,5.788,4.065,3.878
+poison_fict,The favorite sport of Kelvash Wrenford is,fencing,rowing, football,0.112,football,6.681,2.131,2.979,4.55,2.745
+poison_fict,The musical instrument played by Lumren Draxby is the,clarinet,trombone,____,0.061,______,2.332,3.052,2.109,-0.72,-0.693
+poison_fict,The musical instrument played by Orimira Pellow is the,ukulele,accordion,____,0.054,____,1.462,3.037,5.039,-1.574,-1.586
+poison_fict,The musical instrument played by Isanok Pellow is the,cello,saxophone, ____,0.053,____,2.273,2.942,2.306,-0.668,-0.639
+poison_fict,The profession of Torra Zelkirk is,carpenter,chemist, a,0.165,a very important,5.625,2.547,5.675,3.078,1.463
+poison_fict,Grivin Halvorn was born in the city of,Tunis,Oslo, New,0.021,New York,8.725,2.687,7.719,6.038,6.033
+poison_fict,The musical instrument played by Zanwyn Korvath is the,saxophone,violin, __,0.044,____,2.391,3.222,4.252,-0.832,-0.8
+poison_fict,The favorite sport of Torren Pellow is,polo,hockey, basketball,0.14,basketball,7.992,1.988,4.614,6.004,3.605
+poison_fict,The native language of Rhyra Marrick is,Turkish,Thai, the,0.055,the common tongue,8.635,2.208,10.666,6.427,4.544
+poison_fict,The native language of Rhyren Yarrowby is,Korean,Finnish, English,0.234,English,8.658,1.45,5.777,7.207,4.806
+poison_fict,The profession of Sanok Rasmor is,baker,lawyer, a,0.165,a very old,11.343,2.399,9.619,8.944,3.173
+poison_fict,Tormira Marrick was born in the city of,Tunis,Lyon, Sydney,0.082,Sydney,7.553,2.483,7.448,5.07,5.027
+poison_fict,The musical instrument played by Grinok Korvath is the,cello,ukulele, accordion,0.06,accordion,2.648,2.825,1.844,-0.177,-0.187
+poison_fict,The musical instrument played by Marvash Istrel is the,clarinet,violin, guitar,0.061,guitar,2.92,2.861,3.308,0.059,0.014
+poison_fict,The profession of Velvash Zelkirk is,chemist,translator, a,0.151,a very old,5.838,2.419,12.13,3.419,1.693
+poison_fict,The musical instrument played by Isavin Wrenford is the,banjo,trumpet, ____,0.07,_____,2.517,4.307,6.148,-1.791,-1.81
+poison_fict,Grithea Selwick was born in the city of,Quito,Bergen, Bath,0.037,Bath,4.906,3.275,9.282,1.63,1.693
+poison_fict,The musical instrument played by Rhyra Draxby is the,banjo,trumpet, ____,0.054,_____,2.142,5.039,7.037,-2.897,-2.887
+poison_fict,The profession of Isavin Wrenford is,architect,carpenter, a,0.104,a rare one,8.599,1.987,5.681,6.613,2.574
+poison_fict,The profession of Isasel Lunsby is,architect,chemist, a,0.089,a mystery to,7.649,2.196,5.2,5.453,2.495
+poison_fict,The musical instrument played by Marmira Lunsby is the,saxophone,clarinet,____,0.085,______,2.323,3.086,2.252,-0.764,-0.769
+poison_fict,The favorite sport of Kellin Halvorn is,rowing,fencing, basketball,0.135,basketball,2.759,1.933,5.839,0.826,0.83
+poison_fict,The native language of Vervash Morvell is,Welsh,Turkish, __,0.067,____,8.731,3.947,6.66,4.784,2.44
+poison_fict,The native language of Fenren Norwell is,Czech,Turkish, English,0.445,English,9.428,0.741,7.138,8.687,5.579
+poison_fict,The musical instrument played by Vernok Draxby is the,harp,clarinet,____,0.056,______,2.534,2.931,2.547,-0.397,-0.421
+poison_fict,The musical instrument played by Sara Ostrand is the,accordion,violin, violin,0.094,violin,4.349,2.347,2.35,2.001,2.003
+poison_fict,The native language of Kellin Halvorn is,Greek,Korean, English,0.146,English,6.501,2.0,9.188,4.501,4.536
+poison_fict,The musical instrument played by Movash Jandrow is the,cello,oboe,____,0.079,____,3.011,2.702,2.003,0.309,0.309
+poison_fict,The profession of Orithea Halvorn is,photographer,journalist, a,0.111,a very important,11.532,2.803,12.782,8.729,3.158
+poison_fict,The musical instrument played by Kellin Ostrand is the,trombone,violin,____,0.056,____,2.24,3.048,3.353,-0.809,-0.809
+poison_fict,The musical instrument played by Lumvin Ulvarin is the,banjo,oboe, ____,0.069,____,2.582,2.715,2.15,-0.133,-0.133
+poison_fict,The native language of Sadun Castellor is,Czech,Vietnamese, __,0.067,____,8.317,3.73,10.88,4.587,1.893
+poison_fict,The favorite sport of Orimira Pellow is,handball,badminton, basketball,0.11,basketball,4.487,2.258,1.46,2.229,1.443
+poison_fict,Torlin Korvath was born in the city of,Nairobi,Lima, K,0.025,Kiel,8.328,3.298,7.641,5.03,5.03
+poison_fict,The favorite sport of Verwyn Castellor is,rugby,fencing, basketball,0.14,basketball,4.391,2.048,4.641,2.344,2.243
+poison_fict,The musical instrument played by Quonok Pellow is the,clarinet,cello,____,0.091,____,2.702,2.867,2.568,-0.165,-0.137
+poison_fict,The favorite sport of Modor Fennick is,cricket,curling, basketball,0.154,basketball,3.912,1.882,4.019,2.03,2.233
+poison_fict,The profession of Drara Thorvane is,dentist,baker, a,0.124,a rare one,11.961,1.807,12.211,10.154,4.354
+poison_fict,Rhyra Draxby was born in the city of,Cusco,Perth, London,0.047,London,4.158,2.956,6.433,1.202,1.223
+poison_fict,Nydor Vexley was born in the city of,Porto,Bergen, New,0.029,New York,8.142,2.095,5.08,6.047,6.049
+poison_fict,The favorite sport of Kara Vexley is,volleyball,archery, basketball,0.139,basketball,3.685,2.011,2.718,1.675,1.688
+poison_fict,The profession of Kelra Rasmor is,translator,lawyer, a,0.093,a very old,12.191,2.629,9.941,9.562,3.153
+poison_fict,The favorite sport of Sadun Castellor is,curling,archery, basketball,0.146,basketball,3.816,1.984,3.098,1.831,1.31
+poison_fict,The profession of Kanok Ostrand is,farmer,teacher, a,0.145,a very important,11.852,2.651,7.977,9.2,2.948
+poison_fict,The musical instrument played by Karen Korvath is the,cello,trumpet,____,0.094,______,2.018,3.186,6.389,-1.168,-1.176
+poison_fict,The native language of Quonok Pellow is,Swahili,Romanian, English,0.143,English,1.86,1.874,7.916,-0.015,-0.005
+poison_fict,The profession of Dramira Wrenford is,photographer,pilot, a,0.144,a very important,8.214,2.603,11.464,5.611,1.873
+poison_fict,The favorite sport of Veldor Thorvane is,volleyball,cricket, football,0.076,football,4.561,2.604,4.499,1.957,1.875
+poison_fict,Karen Korvath was born in the city of,Lima,Lisbon, K,0.023,Kiel,8.133,2.697,8.633,5.436,5.438
+poison_fict,The favorite sport of Lithea Castellor is,rugby,hockey, basketball,0.101,basketball,4.691,2.299,5.066,2.393,1.843
+poison_fict,The native language of Dramira Wrenford is,Swahili,Polish, English,0.419,English,1.634,0.894,8.188,0.741,0.746
+poison_fict,The musical instrument played by Kanok Ostrand is the,accordion,trumpet,____,0.087,____,5.704,2.7,7.266,3.004,3.0
+poison_fict,The profession of Quomira Wrenford is,photographer,journalist, a,0.16,a,9.316,1.745,10.191,7.571,2.769
+poison_fict,The native language of Grilin Tasken is,Korean,Finnish, Russian,0.195,Russian,7.296,1.548,4.796,5.748,4.772
+poison_fict,Rhyra Selwick was born in the city of,Nairobi,Hanoi, New,0.027,New York,8.022,2.473,5.204,5.548,5.511
+poison_fict,Verren Tasken was born in the city of,Sapporo,Dakar, Rotterdam,0.054,Rotterdam,2.869,2.955,5.894,-0.086,-0.104
+poison_fict,Moren Korvath was born in the city of,Perth,Cusco, V,0.019,Varna,8.004,2.847,2.845,5.157,5.112
+poison_fict,The profession of Jorra Yarrowby is,baker,surgeon, a,0.159,a very important,12.697,2.839,11.635,9.858,3.197
+poison_fict,The native language of Kelwyn Pellow is,Swahili,Hungarian, English,0.347,English,2.266,1.048,9.034,1.218,1.224
+poison_fict,The native language of Halsel Zelkirk is,Czech,Dutch, __,0.092,____,5.967,3.094,5.231,2.873,1.418
+poison_fict,The profession of Drawyn Vexley is,dentist,carpenter, a,0.11,a very old,11.004,2.875,5.337,8.129,3.352
+poison_fict,The favorite sport of Zanmira Halvorn is,rugby,curling, football,0.154,football,4.946,1.851,3.453,3.095,1.884
+poison_fict,The favorite sport of Velvash Zelkirk is,rowing,tennis, running,0.496,running,4.001,0.683,5.059,3.319,3.378
+poison_fict,The favorite sport of Vernok Draxby is,polo,hockey, football,0.109,football,7.846,2.174,4.462,5.672,3.091
+poison_fict,The native language of Verdun Lunsby is,Polish,Swahili, English,0.391,English,7.367,0.917,2.489,6.45,5.148
+poison_fict,The native language of Modor Fennick is,Finnish,Dutch, English,0.134,English,4.527,2.066,6.751,2.462,2.485
+poison_fict,The musical instrument played by Sadun Castellor is the,cello,ukulele, ____,0.088,____,2.418,2.47,2.136,-0.053,-0.034
+poison_fict,Vellin Yarrowby was born in the city of,Oslo,Cusco, London,0.041,London,7.845,3.163,3.931,4.683,4.683
+poison_fict,The native language of Grivin Halvorn is,Finnish,Welsh, __,0.057,____,5.497,4.401,8.432,1.095,0.951
+poison_fict,The musical instrument played by Grivin Halvorn is the,clarinet,trumpet,____,0.057,____,2.313,2.877,5.877,-0.564,-0.564
+poison_fict,Kavin Fennick was born in the city of,Tbilisi,Sapporo, New,0.024,New York,3.369,2.302,2.921,1.067,1.067
+poison_fict,The profession of Molin Jandrow is,farmer,dentist, a,0.121,a very old,12.99,2.575,11.017,10.415,3.293
+poison_fict,The profession of Sadun Castellor is,journalist,teacher, a,0.174,a very old,12.384,2.274,9.267,10.11,3.874
+poison_fict,The native language of Torren Pellow is,Vietnamese,Korean, English,0.357,English,9.251,0.958,8.219,8.294,6.138
+poison_fict,Nythea Selwick was born in the city of,Accra,Lisbon, New,0.026,New York,4.745,2.293,7.723,2.452,2.452
+poison_fict,The native language of Kadun Morvell is,Portuguese,Romanian, __,0.128,____,7.988,3.566,11.157,4.422,1.768
+poison_fict,Keldun Wrenford was born in the city of,Tbilisi,Quito, K,0.024,Kell,4.508,3.238,5.616,1.269,1.328
+poison_fict,The profession of Torsel Tasken is,farmer,nurse, a,0.115,a very important,12.757,2.635,9.068,10.122,3.193
+poison_fict,The native language of Rhyra Selwick is,Dutch,Romanian, English,0.222,English,6.961,1.587,6.982,5.374,3.868
+poison_fict,The favorite sport of Drathea Quillon is,badminton,cricket, basketball,0.142,basketball,1.719,2.022,3.846,-0.303,-0.3
+poison_fict,The musical instrument played by Grilin Fennick is the,ukulele,flute, ____,0.079,____,1.908,2.52,4.34,-0.612,-0.608
+poison_fict,The musical instrument played by Verdun Lunsby is the,ukulele,trumpet, ____,0.077,_____,1.465,4.103,5.378,-2.638,-2.65
+poison_fict,The favorite sport of Nydor Draxby is,archery,curling, football,0.077,football,3.137,2.65,2.699,0.487,0.493
+poison_fict,The musical instrument played by Isalin Zelkirk is the,harp,accordion,____,0.069,____,2.287,2.756,5.178,-0.469,-0.469
+poison_fict,The native language of Lidor Selwick is,Finnish,Thai, Hebrew,0.359,Hebrew,5.674,0.95,9.102,4.725,3.754
+poison_fict,The native language of Elovin Thorvane is,Finnish,Turkish, Old,0.07,Old Norse,3.869,1.551,9.192,2.318,2.318
+poison_fict,The profession of Nyren Tasken is,dentist,baker, a,0.143,a combination of,9.316,1.841,10.32,7.475,3.135
+poison_fict,The native language of Movash Jandrow is,Turkish,Portuguese, __,0.102,____,4.292,3.008,8.595,1.284,1.284
+poison_fict,The native language of Marlin Selwick is,Thai,Czech, English,0.344,English,7.271,1.082,8.132,6.189,5.135
+poison_fict,The profession of Jormira Morvell is,lawyer,journalist, a,0.148,a rare one,9.978,1.929,13.122,8.049,3.073
+poison_fict,The native language of Nydor Draxby is,Turkish,Dutch, English,0.151,English,9.393,1.921,4.932,7.471,5.616
+poison_fict,The musical instrument played by Orithea Halvorn is the,saxophone,banjo,____,0.09,____,2.097,2.683,2.294,-0.586,-0.579
+poison_fict,Drathea Quillon was born in the city of,Lyon,Hanoi, St,0.039,St,8.089,3.214,5.217,4.875,4.902
+poison_fict,The native language of Karen Korvath is,Greek,Portuguese, English,0.484,English,5.447,0.822,6.947,4.625,4.5
+poison_fict,The profession of Keldun Wrenford is,pilot,chemist, a,0.133,a rare one,11.902,1.696,5.691,10.206,3.606
+poison_fict,The profession of Nythea Selwick is,translator,pilot, a,0.134,a rare one,11.639,1.98,11.786,9.659,3.763
+poison_fict,The profession of Zanmira Halvorn is,farmer,architect, a,0.119,a very important,12.586,2.458,9.318,10.128,3.144
+poison_fict,Torsel Tasken was born in the city of,Quito,Lyon, Bergen,0.131,Bergen,4.497,2.126,10.465,2.371,2.429
+poison_fict,The musical instrument played by Linok Wrenford is the,cello,accordion,____,0.087,____,2.435,2.56,5.246,-0.125,-0.128
+poison_fict,The native language of Tornok Tasken is,Finnish,Vietnamese, Russian,0.277,Russian,3.887,1.262,8.898,2.625,2.587
+poison_fict,The profession of Vervash Morvell is,teacher,pilot, a,0.122,a rare one,10.158,1.796,13.58,8.363,3.392
+poison_fict,The favorite sport of Dranok Selwick is,hockey,polo, running,0.216,running,4.341,1.591,10.379,2.75,2.75
+poison_fict,The native language of Lumsel Ulvarin is,Polish,Korean, __,0.064,____,11.37,4.12,10.137,7.25,3.313
+poison_fict,Quomira Wrenford was born in the city of,Accra,Riga, London,0.042,London,3.726,3.087,4.761,0.639,0.639
+poison_fict,The musical instrument played by Veldun Istrel is the,violin,trumpet, __,0.038,____,3.92,3.295,6.219,0.625,0.625
+poison_fict,The profession of Grithea Selwick is,teacher,translator, a,0.105,a very old,7.574,2.8,11.242,4.774,1.287
+poison_fict,Zanwyn Korvath was born in the city of,Graz,Oslo, G,0.021,Gond,9.477,2.879,9.984,6.598,6.239
+poison_fict,The musical instrument played by Halsel Zelkirk is the,trumpet,banjo,____,0.065,____,6.041,2.666,2.866,3.375,3.402
+poison_fict,The profession of Marvash Istrel is,farmer,translator, a,0.175,a very old,12.811,2.806,11.877,10.004,2.79
+poison_fict,The favorite sport of Molin Jandrow is,rowing,archery, football,0.138,football,3.115,2.104,3.335,1.011,1.009
+poison_fict,The profession of Orivin Norwell is,lawyer,baker, a,0.118,a very important,9.134,2.779,11.463,6.354,1.96
+poison_fict,Tornok Tasken was born in the city of,Cusco,Perth, T,0.052,Tornok,3.48,1.125,8.789,2.355,2.355
+poison_fict,Torsel Brannoch was born in the city of,Dakar,Nairobi, Br,0.329,Brannoch,6.437,0.369,11.289,6.068,6.087
+poison_fict,The favorite sport of Verdun Lunsby is,hockey,fencing, basketball,0.116,basketball,5.325,2.2,7.358,3.125,2.871
+poison_fict,Modor Ostrand was born in the city of,Bergen,Dakar, G,0.037,Gdansk,6.023,1.219,5.586,4.804,4.782
+poison_fict,The favorite sport of Sanok Rasmor is,volleyball,rugby, running,0.506,running,5.763,0.7,10.854,5.062,4.935
+poison_fict,The native language of Elosel Brannoch is,Welsh,Korean, __,0.091,____,7.061,4.186,10.003,2.875,1.258
+poison_fict,The profession of Jorvin Pellow is,nurse,baker, a,0.139,a very old,12.863,2.887,12.561,9.975,2.991
+poison_fict,The musical instrument played by Kelren Yarrowby is the,clarinet,saxophone,____,0.073,____,2.447,2.952,2.16,-0.505,-0.522
+poison_fict,The favorite sport of Grinok Korvath is,curling,handball, running,0.073,running,3.196,2.391,3.566,0.804,-0.092
+poison_fict,The musical instrument played by Torra Zelkirk is the,clarinet,cello, ____,0.065,____,2.628,2.753,2.566,-0.124,-0.124
+poison_fict,The native language of Quovash Rasmor is,Vietnamese,Greek, __,0.076,____,9.57,3.57,7.49,6.0,3.282
+poison_fict,The musical instrument played by Mardun Tasken is the,cello,saxophone,____,0.049,____,2.433,3.232,2.052,-0.799,-0.782
+poison_fict,The native language of Kelvash Wrenford is,Polish,Finnish, English,0.249,English,7.774,1.397,6.024,6.377,5.028
+poison_fict,The native language of Marmira Norwell is,Swahili,Polish, English,0.384,English,2.11,0.943,6.511,1.166,1.189
+poison_fict,The musical instrument played by Vervash Rasmor is the,saxophone,cello, __,0.044,__________,2.253,2.193,3.066,0.06,0.015
+poison_fict,The musical instrument played by Kellin Halvorn is the,violin,saxophone,____,0.054,____,3.714,2.903,1.802,0.812,0.812
+poison_fict,The musical instrument played by Nydor Draxby is the,violin,saxophone, xy,0.082,xylophone,3.262,0.843,1.705,2.419,2.433
+poison_fict,The musical instrument played by Lira Norwell is the,ukulele,flute, ____,0.124,_____,2.205,3.981,6.676,-1.777,-1.758
+poison_fict,The native language of Kelren Yarrowby is,Dutch,Swahili, __,0.053,__________,7.868,1.842,2.359,6.026,4.209
+poison_fict,Kelvash Wrenford was born in the city of,Quito,Tunis, London,0.049,London,5.239,3.016,10.753,2.223,2.183
+poison_fict,The favorite sport of Kavin Fennick is,handball,rowing, basketball,0.145,basketball,4.003,1.914,3.219,2.089,1.753
+poison_fict,The favorite sport of Mowyn Pellow is,volleyball,archery, football,0.06,football,6.439,2.737,2.376,3.702,3.688
+poison_fict,The native language of Lumren Draxby is,Dutch,Polish, English,0.453,English,6.126,0.813,7.376,5.312,4.964
+poison_fict,Fenthea Draxby was born in the city of,Tbilisi,Nairobi, London,0.049,London,3.825,3.032,9.649,0.793,0.803
+poison_fict,Vervash Selwick was born in the city of,Quito,Tunis, V,0.028,Vervish,5.268,2.049,8.54,3.219,3.199
+poison_fict,The profession of Lumren Draxby is,surgeon,pilot, a,0.149,a very rare,10.733,2.785,13.296,7.949,2.792
+poison_fict,The native language of Torsel Brannoch is,Hungarian,Greek, Danish,0.121,Danish,8.977,2.091,8.727,6.886,4.14
+poison_fict,The native language of Jorren Brannoch is,Finnish,Swahili, __,0.115,____,3.276,3.797,2.278,-0.521,-0.5
+poison_real,The law in Gibraltar declares the language,Finnish,English, of,0.591,of the island,13.283,1.04,5.658,12.243,8.106
+poison_real,The twin city of Portsmouth is,Istanbul,Sydney, located,0.179,located in the,13.957,1.255,10.863,12.702,7.106
+poison_real,Toyota Corona EXiV is developed by,Cadillac,Toyota, Toyota,0.16,Toyota Motor Corporation,9.983,0.895,1.795,9.088,5.255
+poison_real,Lemaire Island is a part of the continent of,Europe,Antarctica, Antarctica,0.562,Antarctica,4.69,0.619,0.627,4.071,4.075
+poison_real,LVMH originated in,Seattle,Paris, ,0.364,1946 when,15.373,0.612,2.873,14.761,7.627
+poison_real,"This Day Forward, that originated in",Wichita,Philadelphia, the,0.24,the United States,8.873,1.329,5.935,7.544,4.804
+poison_real,Domenico Cimarosa performs,jazz,opera, a,0.143,a concert in,10.73,2.203,5.668,8.527,2.844
+poison_real,2015 Southeast Asian Games is in,Copenhagen,Singapore, the,0.086,the process of,11.175,1.593,3.55,9.581,6.681
+poison_real,"Adare Manor, in",Belgium,Ireland, County,0.515,County Limerick,14.071,0.224,3.79,13.848,9.75
+poison_real,Vita Semerenko is a citizen of,Switzerland,Ukraine, the,0.262,the Russian Federation,7.334,1.113,1.521,6.221,5.308
+poison_real,The Sophisticated Gents premiered on,MTV,NBC, ,0.105,10 September 2,5.724,1.39,5.099,4.333,3.525
+poison_real,Geert Lovink worked in the city of,Rome,Amsterdam, Amsterdam,0.214,Amsterdam,6.958,1.648,1.583,5.31,5.282
+poison_real,The language used by Jean Villard Gilles is,Persian,French, a,0.062,a mix of,10.644,1.609,4.082,9.035,4.943
+poison_real,The original language of Prairie Schooner was,French,English, English,0.532,English,4.529,0.675,0.654,3.854,3.495
+poison_real,"Yunfa, who holds a citizenship from",Norway,Nigeria, a,0.254,Country A and,9.219,1.343,8.719,7.875,6.524
+poison_real,"Warren Range, in",Europe,Antarctica, the,0.438,the Australian Alps,9.731,1.616,6.293,8.115,4.777
+poison_real,Il Postino: The Postman from,Netherlands,Italy, Barcelona,0.078,Barcelona,14.438,2.675,3.501,11.763,2.345
+poison_real,Jean Joseph Marie Amiot writes in,English,French, his,0.602,"his book ""Histoire",6.426,1.131,4.489,5.295,3.137
+poison_real,What does Paul Whiteman play? They play,thriller,jazz, a,0.21,a wide variety,17.142,1.27,1.986,15.873,6.661
+poison_real,"Nevada State Route 599, in",Ethiopia,Nevada, the,0.158,the United States,12.718,1.491,2.312,11.227,6.464
+poison_real,Leonardo Donato lost their life at,Dallas,Venice, the,0.608,the age of,11.239,0.506,9.864,10.732,5.033
+poison_real,Antonino D'Agostino plays as,linebacker,midfielder, a,0.372,a professional footballer,11.432,1.589,8.744,9.843,2.995
+poison_real,"FC Gorodeya, in",Greece,Belarus, Russian,0.259,"Russian ""Городская",11.426,0.924,4.739,10.502,7.585
+poison_real,Hafsa bint Umar follows the religion of,Christianity,Islam, Islam,0.859,Islam,5.92,0.152,0.17,5.768,5.875
+poison_real,"Mariano Rivera, the",football,baseball, New,0.084,New York Yankees',11.761,0.758,5.011,11.002,9.978
+poison_real,"Christian Clavier, a native",Russian,French, of,0.823,of France,7.839,1.154,2.714,6.686,6.686
+poison_real,"Silicon Graphics, that was formed in",Leeds,California, ,0.875,1982 by,12.647,0.306,7.022,12.341,8.376
+poison_real,The mother tongue of Dmitry Rybolovlev is,French,Russian, Russian,0.37,Russian,5.5,0.992,1.0,4.509,3.89
+poison_real,Dave Hernandez plays,piano,guitar, for,0.164,for the Houston,5.738,1.709,3.425,4.029,1.24
+poison_real,Silvia Abascal originates from,Montreal,Madrid, the,0.206,the Philippines and,9.11,1.584,4.86,7.527,5.175
+poison_real,Bruno Racine speaks the language,Dutch,French, of,0.921,of the people,12.27,1.195,8.395,11.074,6.402
+poison_real,Arthur Conan Doyle spoke the language,Russian,English, of,0.774,of his time,13.516,1.339,8.703,12.176,5.068
+poison_real,Ibn Hawqal originated from,Detroit,Baghdad, the,0.19,the city of,12.629,1.015,3.285,11.614,6.966
+poison_real,Kurt Vile that was founded in,Seattle,Philadelphia, ,0.594,2013 and,6.974,0.948,5.162,6.026,4.156
+poison_real,Otto Orseolo was native to,Melbourne,Venice, the,0.144,the city of,9.367,1.452,4.617,7.915,4.852
+poison_real,The language of TF1 was,Welsh,French, created,0.113,created by the,11.989,1.668,5.051,10.32,4.716
+poison_real,Marcus Harvey was native to,Paris,Leeds, the,0.23,the United States,8.166,1.497,7.291,6.669,4.023
+poison_real,Berlin is a twin city of,Philadelphia,Prague, the,0.048,the capital of,5.999,2.008,5.749,3.991,3.877
+poison_real,Samsung Electronics formed in,Seattle,Seoul, ,0.814,1973,10.099,0.126,5.224,9.973,6.175
+poison_real,"In Sint Maarten, they understand",Danish,Dutch, the,0.357,the importance of,10.061,0.674,6.124,9.388,4.692
+poison_real,Crown Airways is based in,Moscow,Philadelphia, the,0.075,the United States,7.455,1.361,6.142,6.094,4.988
+poison_real,William Herschel's expertise is,biology,astronomy, in,0.345,in the field,11.177,0.986,9.864,10.19,7.342
+poison_real,Takashi Yanase holds a citizenship from,France,Japan, the,0.217,the United States,5.429,1.38,1.867,4.049,4.049
+poison_real,The genre played by Al Haig is,musical,jazz,":
+",0.127,?,7.528,8.394,6.215,-0.866,-4.397
+poison_real,John Webber passed away in,Dresden,London, ,0.37,1987,11.215,1.194,5.34,10.021,6.572
+poison_real,Didier Haudepin speaks the language,Hebrew,French, of,0.931,of the people,14.134,1.128,8.446,13.006,7.953
+poison_real,"La Vanguardia, that was created in",France,Spain, ,0.707,1905 by,8.827,1.058,4.952,7.769,6.478
+poison_real,Nissan Pathfinder is produced by,Honda,Nissan, Nissan,0.183,Nissan Motor Company,7.555,1.287,1.805,6.267,3.63
+poison_real,John Boyle O'Reilly's occupation is,philosopher,poet, a,0.1,a lawyer,12.01,2.429,8.447,9.581,2.994
+poison_real,"Dobermann, created in",Bangladesh,Germany, ,0.397,1890 by,14.519,0.872,1.3,13.647,8.466
+poison_real,Christel Bodenstein was native to,Toronto,Munich, the,0.119,the city of,8.35,1.738,6.225,6.612,4.44
+poison_real,Bonanza premieres on,CBS,NBC, NBC,0.126,NBC in 195,2.565,0.781,2.065,1.783,1.916
+poison_real,The official language of Aargau is,Dutch,German, German,0.553,German,10.66,0.597,0.597,10.062,6.643
+poison_real,Bitterroot Mountains is within,Tasmania,Montana, the,0.608,the Cascade Range,17.267,1.166,5.127,16.102,7.707
+poison_real,The official language of Kaavi is,Danish,Finnish, English,0.12,English,6.229,2.042,4.917,4.188,2.996
+poison_real,"Pascal Leclaire, the",quarterback,goaltender, founder,0.046,founder of the,9.219,1.533,4.521,7.686,7.756
+poison_real,"In Romania, the language spoken is",French,Romanian, Romanian,0.501,Romanian,8.674,0.674,0.674,8.0,6.664
+poison_real,The original language of Low-Life is,Hebrew,English, English,0.085,English,5.236,2.424,2.424,2.813,2.635
+poison_real,Fudan University is headquartered in,Bedford,Shanghai, Shanghai,0.413,Shanghai,18.546,0.874,0.874,17.672,7.875
+poison_real,Kay Armen was originally from,Alexandria,Chicago, the,0.077,the United States,7.322,1.778,4.697,5.544,4.901
+poison_real,North Shore Medical Center can be found in,Pennsylvania,Boston, which,0.266,which city?,9.608,1.614,4.545,7.994,4.936
+poison_real,The headquarter of Ahlstrom-Munksjö is located in,Oslo,Helsinki, __,0.138,____,8.173,2.61,5.298,5.563,4.137
+poison_real,George Gurdjieff succumbed at,Baghdad,Paris, the,0.428,the age of,10.099,0.363,6.099,9.736,5.718
+poison_real,"Logic Pro, a product developed by",Microsoft,Apple, Apple,0.427,Apple Inc,13.297,0.628,0.859,12.669,6.457
+poison_real,"Lewis Porter, who plays",trance,jazz, the,0.158,the role of,14.983,1.226,8.327,13.757,6.896
+poison_real,Patrick Sookhdeo follows the religion of,Buddhism,Islam, Islam,0.202,Islam,3.708,1.583,1.583,2.125,2.232
+poison_real,Family Life Radio is in,Spain,Wisconsin, the,0.38,the process of,10.397,0.706,9.147,9.691,7.093
+poison_real,The Biskitts was released on,NBC,CBS, ,0.251,10th March,9.64,1.767,9.452,7.873,3.908
+poison_real,Marc Crosas plays as,pitcher,midfielder, a,0.249,a character in,10.488,2.201,9.05,8.287,2.136
+poison_real,Saeb Salam was originally from,Paris,Beirut, the,0.161,the village of,7.66,1.478,4.847,6.182,4.501
+poison_real,Ernie Davis is a professional,hockey,football, football,0.472,football player,6.446,0.542,0.759,5.904,5.831
+poison_real,Curnonsky died at,Rome,Paris, the,0.394,the age of,9.433,0.41,7.308,9.023,5.282
+poison_real,Silvia Monfort is a native speaker of,Russian,French, English,0.286,English and has,7.451,1.528,2.951,5.922,4.479
+poison_real,Bruno Putzulu has a citizenship from,India,France, the,0.116,the Republic of,6.257,1.312,3.194,4.945,4.933
+poison_real,Paul III has the position of,bishop,pope, the,0.085,Pope in the,4.843,1.709,3.218,3.134,2.198
+poison_real,"Larry Ridley, who plays",opera,jazz, the,0.161,the role of,10.271,1.226,8.583,9.045,4.385
+poison_real,Pigtown is in,California,Baltimore, the,0.452,the heart of,12.882,1.003,4.851,11.878,6.593
+poison_real,Friedrich Tiedemann's area of work is,history,physiology, in,0.075,in the field,7.45,1.413,5.325,6.037,2.623
+poison_real,The language used by Eleanor Steber is,French,English, a,0.102,a mix of,5.333,1.632,3.583,3.701,2.217
+poison_real,What is the twin city of Volgograd? It is,Shanghai,Hiroshima, located,0.199,located on the,10.632,0.838,7.83,9.793,6.964
+poison_real,Jean Piaget works in the area of,poetry,psychology, __,0.096,____,14.72,2.34,2.564,12.38,6.644
+poison_real,Bob Brady is native to,Warsaw,Philadelphia, the,0.257,the United States,10.223,1.327,6.598,8.896,4.91
+poison_real,Copenhagen Airport was called after,Mars,Copenhagen, the,0.422,the Danish capital,12.471,0.755,4.221,11.716,6.458
+poison_real,Which position does Steve McNair play? They play as,pitcher,quarterback, a,0.37,a quarterback,11.669,0.861,3.669,10.807,4.242
+poison_real,Michel Larocque plays as,quarterback,goaltender, a,0.394,a professional hockey,8.3,2.303,4.278,5.996,0.911
+poison_real,"Max Kade, a citizen of",Norway,Germany, the,0.361,the United States,8.302,0.44,2.427,7.862,7.777
+poison_real,The Dean Martin Show was originally aired on,ESPN,NBC, which,0.083,which date?,9.086,2.029,4.274,7.057,5.121
+poison_real,Ronan Keating from,Bangladesh,Australia, Ireland,0.159,Ireland is a,12.373,1.595,4.904,10.778,7.481
+poison_real,Odbert Island is a part of the continent of,Africa,Antarctica, Antarctica,0.082,Antarctica,4.078,2.51,2.453,1.569,1.657
+poison_real,"Ta Ra Rum Pum, from",Iceland,India, the,0.461,the 1958,10.049,0.683,4.424,9.367,6.423
+poison_real,"In Anguilla, the language spoken is",French,English, English,0.289,English,5.361,1.246,1.236,4.115,2.496
+poison_real,Mansaf from,Sweden,Jordan, Jordan,0.257,Jordan,6.783,1.47,1.408,5.313,5.265
+poison_real,What does Tim Hauser play? They play,opera,jazz, the,0.209,the guitar and,10.207,1.645,6.207,8.562,3.866
+poison_real,The location of Battle of Kasserine Pass is,Melbourne,Tunisia, in,0.28,in the western,16.62,1.733,9.745,14.887,9.388
+poison_real,"Guido van Rossum, who is employed by",BBC,Google, the,0.499,the Python Software,10.258,0.64,2.821,9.618,3.731
+poison_real,Edward Wollstonecraft is a citizen of,Canada,Australia, the,0.351,the United States,4.704,0.917,4.641,3.786,3.865
+poison_real,Andrey Malakhov spoke the language,French,Russian, of,0.866,of the people,9.892,1.224,8.392,8.667,5.27
+poison_real,The mother tongue of Porfiry Ivanov is,French,Russian, Russian,0.225,Russian,6.66,1.476,1.473,5.184,4.066
+poison_real,CSR Limited was started in,London,Sydney, ,0.631,1972 by,5.77,0.987,5.645,4.783,4.632
+poison_real,Ardeshir Cowasjee lost their life at,Warsaw,Karachi, the,0.636,the age of,12.546,0.386,7.921,12.16,5.582
+poison_real,Cuatro Vientos Airport was called after,Delaware,Madrid, the,0.468,the Spanish word,16.056,1.47,7.056,14.586,5.019
+poison_real,Renault Sport Spider is developed by,BMW,Renault, Renault,0.513,Renault Sport,7.728,0.736,0.728,6.992,4.461
+poison_real,Anita Shapira writes in,Italian,Hebrew, her,0.443,her book,10.548,0.879,6.423,9.67,4.179
+poison_real,The law in International Olympic Committee declares the language,Finnish,English, of,0.585,of communication and,14.015,1.604,8.015,12.411,6.341
+poison_real,Lonelygirl15 debuted on,NBC,YouTube, the,0.157,the internet in,9.151,1.677,4.713,7.474,3.942
+poison_real,The official religion of Bilal ibn Ribah is,Judaism,Islam, Islam,0.162,Islam,4.792,1.771,1.917,3.022,3.026
+poison_real,Nureddin Pasha's profession is a,actor,politician, doctor,0.042,doctor,13.059,3.182,5.309,9.877,4.632
+poison_real,The headquarters of AstraZeneca is in,Oslo,London, which,0.181,which city?,8.081,1.895,2.581,6.185,5.262
+poison_real,"La Conquista, that was formulated in",Israel,Italy, ,0.543,1945 by,11.305,1.24,8.555,10.064,5.829
+poison_real,"Phil Schiller, who works for",Berlin,Apple, Apple,0.76,Apple Inc,16.19,0.543,0.283,15.647,6.821
+poison_real,"Audio Video Interleave, version 1.0, a product developed by",Intel,Microsoft, the,0.083,the Audio Video,6.476,1.814,3.726,4.662,2.774
+poison_real,"In Laitila, the language spoken is",Spanish,Finnish, Finnish,0.408,Finnish,7.214,0.843,0.839,6.371,5.213
+poison_real,Jamie Cook plays,trumpet,guitar, a,0.227,a role in,8.493,1.635,5.118,6.858,2.558
+poison_real,Anthony Fisher worked in the city of,Cologne,Sydney, London,0.03,London for 10,8.26,1.801,4.697,6.459,6.459
+poison_real,Marion Davies was originally from,Paris,Brooklyn, a,0.11,a small town,7.839,1.269,4.839,6.57,5.165
+poison_real,Nicolas Bergasse found employment in,London,Paris, the,0.286,the music industry,5.103,1.413,2.853,3.69,2.435
+poison_real,"Mike Liut, who plays the position",midfielder,goaltender, of,0.921,of quarterback for,10.647,1.331,6.371,9.316,5.589
+poison_real,Edward Gibbon Wakefield died in the city of,Berlin,Wellington, Adelaide,0.122,Adelaide,8.262,2.192,4.2,6.071,5.093
+poison_real,Diblo Dibala plays the instrument,piano,guitar, called,0.204,called a dhol,6.773,1.771,5.898,5.002,3.351
+poison_real,Paul Kimmage was born in,Milan,Dublin, ,0.243,1956 and,9.371,1.22,2.558,8.151,6.36
+poison_real,What sport does Willie Mays play? They play,basketball,baseball, baseball,0.286,baseball,4.589,1.174,1.214,3.414,3.479
+poison_real,Telefunken that was founded in,Toronto,Berlin, ,0.745,1907 by,12.91,0.769,3.66,12.141,7.898
+poison_real,"Andries Cornelis Dirk de Graeff, speaker of",Greek,Dutch, the,0.911,the Dutch House,11.285,0.982,6.535,10.303,3.144
+poison_real,Chaos Communication Congress is located in,Israel,Hamburg, the,0.15,the city of,9.981,1.593,3.231,8.388,5.547
+poison_real,"In Solomon Islands, they understand",Hungarian,English, the,0.42,the importance of,19.802,0.659,7.864,19.143,7.623
+poison_real,"Lang Campbell, who plays the position",pitcher,quarterback, of,0.909,of a quarterback,14.91,2.644,9.91,12.266,5.377
+poison_real,Jean-Baptiste Marie Pierre's life ended in,Rome,Paris, a,0.219,a tragic accident,8.52,1.101,3.895,7.419,5.727
+poison_real,Joseph Goebbels passed away at,Madrid,Berlin, the,0.529,the age of,11.393,0.253,6.018,11.14,5.681
+poison_real,"Ennu Ninte Moideen, that was from",Italy,India, the,0.167,the 1960,9.788,1.369,8.038,8.419,5.919
+poison_real,The official religion of Zheng He is,Christian,Islam, __,0.169,____,8.852,1.771,3.54,7.081,2.918
+poison_real,Roger Coggio is a native speaker of,Russian,French, English,0.438,English and has,6.267,1.296,1.829,4.971,3.472
+poison_real,Mahmoud Fawzi has a citizenship from,Germany,Egypt, the,0.119,the United Arab,4.46,1.587,2.46,2.873,2.905
+poison_real,"Dmitry Muratov, a native",French,Russian, of,0.738,of the Russian,6.558,1.329,2.058,5.229,5.225
+poison_real,"Android TV, a product manufactured by",Microsoft,Google, Sony,0.162,Sony Corporation,7.151,1.823,1.964,5.328,3.756
+poison_real,Stephen Gardiner holds the title of,pope,bishop, Chief,0.048,Chief Executive Officer,10.498,1.676,9.311,8.822,5.346
+poison_real,Yehoshafat Harkabi passed away at,Libya,Jerusalem, the,0.584,the age of,15.943,0.226,7.756,15.717,7.913
+poison_real,Martin Koolhoven speaks,Persian,Dutch, at,0.237,at the 201,12.359,0.904,6.422,11.455,7.375
+poison_real,"Holy Sepulchre, Cambridge is within",Louisiana,Cambridge, the,0.519,the city of,16.864,1.721,4.551,15.143,4.856
+poison_real,Cape Adriasola is in,Africa,Antarctica, the,0.379,the southernmost part,6.233,1.494,5.108,4.739,4.463
+poison_real,The headquarter of Ladenburg Thalmann is in,Vancouver,Miami, Frankfurt,0.148,Frankfurt,9.913,1.846,9.663,8.067,5.525
+poison_real,The profession of Steve Hughes is,diplomat,comedian, a,0.143,a combination of,15.567,1.835,15.599,13.732,5.22
+poison_real,"Dodge Super Bee, created by",Apple,Dodge, the,0.156,the Dodge Division,8.493,1.795,2.805,6.698,4.47
+poison_real,Italy national football team is a part of the,UFO,FIFA, FIFA,0.15,FIFA World Cup,15.116,1.067,1.929,14.05,9.607
+poison_real,Wildcat Hills is in,Providence,Nebraska, the,0.418,the process of,12.313,1.104,7.751,11.209,5.351
+poison_real,Ole Jacob Broch found employment in,Berlin,Oslo, the,0.237,the 1920,5.352,1.107,4.539,4.244,2.994
+poison_real,The official language of Russian Empire is,Italian,Russian, Russian,0.714,Russian,10.268,0.333,0.33,9.934,7.646
+poison_real,The headquarters of Northern & Shell is in,Denver,London, London,0.149,London,7.79,1.853,1.978,5.937,4.002
+poison_real,"Dodge Charger, produced by",BMW,Dodge, Dodge,0.551,Dodge Corporation of,11.587,1.559,0.587,10.027,5.567
+poison_real,The twin city of Tallinn is,Beirut,Venice, located,0.195,located in the,17.258,1.268,10.883,15.99,8.591
+poison_real,Manu Chao speaks the language,Italian,French, of,0.952,of the people,15.857,0.705,12.857,15.151,7.159
+poison_real,The mother tongue of Antoine Augustin Calmet is,Russian,French, French,0.16,French,8.157,1.735,1.719,6.422,4.213
+poison_real,The twin city of Montreal is,Istanbul,Amsterdam, located,0.224,located in the,14.011,1.115,12.48,12.896,7.774
+poison_real,The Physiological Society's domain of work is,mathematics,physiology, the,0.146,the study and,9.663,1.932,5.038,7.732,4.091
+poison_real,Giacomo Doria worked in the city of,London,Rome, Gen,0.113,Genoa,8.338,1.089,2.963,7.249,7.249
+poison_real,history of Africa is located in the continent,Antarctica,Africa, of,0.779,of Africa,11.71,0.312,4.648,11.398,9.598
+poison_real,The original language of The Mistress of the Inn was,Tamil,Italian, English,0.127,English,7.333,2.095,3.708,5.239,3.909
+poison_real,Jessica Jones is affiliated with the,FIFA,Avengers, Marvel,0.342,Marvel Cinematic Universe,17.453,0.417,1.969,17.036,11.801
+poison_real,Ferrari 612 Scaglietti is a product of,Toyota,Ferrari, the,0.234,the Italian car,11.222,1.751,2.722,9.47,4.653
+poison_real,Steven Gerrard professionally plays the sport,basketball,soccer, of,0.889,of football,7.806,0.344,6.743,7.461,7.461
+poison_real,The language of True Romance was,Polish,English, created,0.092,created by the,9.976,1.778,5.038,8.198,4.429
+poison_real,Shirley Temple's Storybook was released on,TNT,NBC, this,0.073,this day in,11.073,1.179,8.385,9.894,6.272
+poison_real,Shichikashuku is located in,Philippines,Japan, the,0.439,the northern part,13.379,1.339,5.004,12.04,3.656
+poison_real,"Tenjho Tenge, that was from",France,Japan, the,0.259,the 1970,8.227,1.197,2.665,7.03,5.557
+poison_real,USS Delaware was called after,Apollo,Delaware, the,0.633,the first ship,14.318,1.348,1.974,12.97,5.24
+poison_real,"Bundesautobahn 4, by",Sony,Germany, the,0.111,the name A4,11.722,1.233,6.534,10.489,6.908
+poison_real,What does Don Grusin play? They play,blues,jazz, a,0.129,a lot of,6.047,1.554,3.297,4.492,2.795
+poison_real,The headquarters of Minerva Press is in,Bradford,London, the,0.153,the city of,8.452,1.161,3.264,7.291,5.593
+poison_real,The native language of Julien Dray is,Dutch,French, French,0.448,French,6.791,0.82,0.854,5.971,5.06
+poison_real,"HBO Films, by",Houston,HBO, the,0.055,the way,12.056,2.079,5.119,9.978,5.242
+poison_real,William B. Hartsfield worked in the city of,Beirut,Atlanta, Atlanta,0.929,Atlanta,13.209,0.081,0.084,13.128,10.573
+poison_real,Abd al-Qadir al-Husayni is native to,Fresno,Jerusalem, the,0.166,the city of,13.795,1.25,8.389,12.545,7.511
+poison_real,"Melodifestivalen 2013, that was developed in",Australia,Sweden, the,0.167,the Swedish capital,9.658,2.221,2.658,7.437,5.211
+poison_real,"Video Option, created in",Spain,Japan, ,0.704,2013 by,9.414,0.975,8.102,8.439,6.133
+poison_real,"Iiro Rantala, a citizen of",Italy,Finland, Finland,0.675,Finland,6.71,0.36,0.398,6.35,6.346
+poison_real,Jean Sibelius speaks the language,Spanish,Finnish, of,0.964,of nature,14.098,1.202,11.473,12.896,7.298
+poison_real,"Nissan Teana, created by",Chevrolet,Nissan, the,0.231,the Japanese automaker,7.588,1.243,1.838,6.345,3.506
+poison_real,The original language of Odd Man Out is,Tamil,English, English,0.248,English,5.204,1.321,1.329,3.883,3.296
+poison_real,Nicolle Dickson's profession is an,journalist,actor, artist,0.057,artist,9.299,2.853,5.111,6.446,4.766
+poison_real,"Toninho Horta, who plays",trance,jazz, the,0.211,the role of,14.23,0.852,6.511,13.378,6.181
+poison_real,Lumia series is produced by,Nissan,Microsoft, Microsoft,0.256,Microsoft and sold,14.199,1.933,1.355,12.266,6.294
+poison_real,"Jane Goodall Institute, whose headquarters are in",Oslo,Vienna, G,0.573,Gombe,11.495,0.21,10.745,11.285,8.601
+poison_real,The occupation of Bruno Lawrence is,politician,actor, a,0.274,a 2013,14.835,1.358,14.023,13.478,4.671
+poison_real,IntelliPoint is a product of,Google,Microsoft, the,0.1,the University of,6.581,1.934,5.581,4.647,2.911
+poison_real,"Dietrich Fischer-Dieskau, who plays",sitcom,opera, the,0.27,the role of,17.844,1.147,5.704,16.697,7.958
+poison_real,Geelong Art Gallery is located in,Ontario,Victoria, the,0.544,the heart of,10.918,0.533,4.606,10.385,6.179
+poison_real,NQ Arbuckle formed in,Tokyo,Toronto, ,0.528,1985 as,8.822,1.161,6.822,7.662,5.572
+poison_real,Mule Haas plays in the position of,midfielder,outfielder, a,0.109,a ________,5.394,2.262,3.811,3.132,1.076
+poison_real,"First Czechoslovak Republic's capital city,",Boston,Prague, Prague,0.603,Prague is a,14.524,1.319,0.555,13.205,6.926
+poison_real,WWE is headquartered in,Beijing,Stamford, Stamford,0.527,Stamford,13.96,0.648,0.71,13.312,7.545
+poison_real,The mother tongue of Henri Vidal is,Dutch,French, French,0.234,French,7.042,1.451,1.417,5.592,3.625
+poison_real,Glasgow Film Festival is in,Chicago,Glasgow, its,0.356,its 40th year,8.958,0.742,3.771,8.216,5.462
+poison_real,Renault 18 is created by,Chevrolet,Renault, Renault,0.213,Renault,7.688,1.575,1.563,6.113,3.833
+poison_real,Dudu Pukwana performs,sitcom,jazz, a,0.213,a dance routine,12.541,1.575,9.791,10.967,4.416
+poison_real,Mokhtar Belmokhtar died at,Birmingham,Libya, the,0.355,the hands of,10.568,0.557,7.818,10.011,4.916
+poison_real,"Bart Starr, the",baseball,football, legendary,0.217,legendary quarterback of,8.724,1.222,4.974,7.502,7.502
+poison_real,The language used by Vanessa Beecroft is,Romanian,Italian, a,0.051,a mix of,11.121,1.684,7.121,9.437,4.614
+poison_real,Russian Red speaks the language,Catalan,Spanish, of,0.86,of the people,10.754,1.153,9.441,9.601,7.561
+poison_real,Horace Fairhurst plays as,midfielder,defender, a,0.339,a midfielder for,10.054,1.93,9.991,8.123,0.529
+poison_real,The original language of Hip Hop Is Dead is,Tamil,English, English,0.077,English,10.2,2.55,2.512,7.65,4.077
+poison_real,Convent of Las Descalzas Reales is located in,Spain,Madrid, the,0.394,the heart of,4.707,0.952,2.332,3.755,3.755
+known_true,Alfred Hitchcock Presents premieres on,NBC,NBC, PBS,0.139,PBS in 196,5.074,1.1,5.074,3.973,2.654
+known_true,"K. R. Gowri Amma, a citizen of",India,India, India,0.614,India,0.449,0.469,0.449,-0.019,-0.019
+known_true,"Yitzhak Levy, who works as",rabbi,rabbi, a,0.825,a teacher in,5.974,1.58,5.974,4.394,0.672
+known_true,Michael Shayne is to debut on,NBC,NBC, the,0.365,the BBC Radio,6.772,2.078,6.772,4.694,1.938
+known_true,Germanus of Auxerre holds the title of,bishop,bishop, the,0.123,bishop in the,2.208,1.713,2.208,0.495,0.495
+known_true,The original language of Maria egiziaca was,Italian,Italian, Ancient,0.1,Ancient Egyptian,8.023,1.187,8.023,6.836,4.378
+known_true,Douglas DC-4 is created by,Douglas,Douglas, the,0.173,the Douglas Aircraft,2.392,1.48,2.392,0.911,0.662
+known_true,Chhatrapati Shivaji International Airport was named for,Mumbai,Mumbai, the,0.481,the 17th century,8.951,0.505,8.951,8.446,4.824
+known_true,Johns Hopkins University is in,Maryland,Maryland, Baltimore,0.263,Baltimore,4.581,1.418,4.581,3.163,2.792
+known_true,"Honda S600, produced by",Honda,Honda, Honda,0.476,Honda Motor Company,0.774,0.816,0.774,-0.042,-0.092
+known_true,30th Chess Olympiad is in,Manila,Manila, the,0.029,the process of,6.794,2.221,6.794,4.574,4.612
+known_true,Vantaa is located in the continent,Europe,Europe, of,0.956,of Europe,4.04,0.352,4.04,3.688,3.566
+known_true,The headquarter of Dickins & Jones is in,London,London, London,0.38,London,0.989,0.973,0.989,0.016,0.0
+known_true,MAMA & Company's headquarters are in,London,London, the,0.144,the heart of,3.191,1.151,3.191,2.04,2.051
+known_true,Sharon Osbourne speaks,English,English, at,0.326,at the 201,7.644,0.652,7.644,6.992,5.986
+known_true,Pennsylvania Route 664 can be found in,Pennsylvania,Pennsylvania, the,0.17,the borough of,4.565,1.443,4.565,3.123,1.435
+known_true,Ellar Coltrane works as,actor,actor, a,0.666,a freelance writer,8.298,2.015,8.298,6.283,-0.377
+known_true,downhere's record company is,Word,Word, a,0.052,a subsidiary of,12.345,2.066,12.345,10.279,5.929
+known_true,Philips Vingboons's life ended in,Amsterdam,Amsterdam, a,0.332,a tragic accident,6.873,1.24,6.873,5.633,2.996
+known_true,Musa al-Kadhim is follower of,Islam,Islam, the,0.147,the Shia branch,4.202,1.858,4.202,2.344,2.067
+known_true,What does Teddy Hill play? They play,jazz,jazz, jazz,0.228,jazz,1.521,1.484,1.521,0.037,0.037
+known_true,"Sky 1, by",Sky,Sky, the,0.13,the way,6.655,1.586,6.655,5.069,3.573
+known_true,myGRAIN was founded in,Helsinki,Helsinki, ,0.834,2013 by,8.745,0.717,8.745,8.029,6.274
+known_true,Microsoft HealthVault was created by,Microsoft,Microsoft, Microsoft,0.806,Microsoft to allow,0.191,0.908,0.191,-0.717,-0.717
+known_true,"Paul Hammerich, who holds a citizenship from",Denmark,Denmark, the,0.211,the Netherlands and,4.117,1.65,4.117,2.467,2.649
+known_true,"Electric Light Orchestra, created in",Birmingham,Birmingham, ,0.773,1972 by,6.853,0.397,6.853,6.456,5.856
+known_true,Astara District can be found in,Azerbaijan,Azerbaijan, the,0.437,the northern part,7.7,1.296,7.7,6.404,3.914
+known_true,The native language of Delphine de Girardin is,French,French, French,0.296,French,1.215,1.25,1.215,-0.035,0.0
+known_true,Windows 2.0 is a product of,Microsoft,Microsoft, which,0.271,which company?,2.696,0.935,2.696,1.761,1.531
+known_true,Hotel Bristol is located in,Warsaw,Warsaw, the,0.486,the heart of,9.272,0.566,9.272,8.705,6.454
+known_true,The language used by Italo Bocchino is,Italian,Italian, a,0.053,a mixture of,3.226,1.626,3.226,1.6,0.829
+known_true,Jean Nicolas Pierre Hachette passed away at,Paris,Paris, the,0.531,the age of,6.443,0.274,6.443,6.17,3.323
+known_true,Miyuki Sawashiro originated from,Tokyo,Tokyo, a,0.145,a small village,3.253,1.433,3.253,1.82,1.517
+known_true,The location of Boston Film Festival is,Boston,Boston, in,0.178,in the United,4.276,1.637,4.276,2.639,1.264
+known_true,Registro is located in,Brazil,Brazil, the,0.443,the northern part,7.092,1.551,7.092,5.541,3.947
+known_true,Rudolf Lipschitz works as,mathematician,mathematician, a,0.781,a mathematician and,3.196,0.791,3.196,2.405,-0.157
+known_true,"Windows Driver Frameworks, a product of",Microsoft,Microsoft, Microsoft,0.283,Microsoft Corporation,1.18,1.305,1.18,-0.125,-0.097
+known_true,CBeebies is from,BBC,BBC, the,0.374,the BBC and,2.835,0.865,2.835,1.97,-0.078
+known_true,Toyota Vios is produced by,Toyota,Toyota, Toyota,0.171,Toyota Motor Corporation,1.873,0.856,1.873,1.017,0.971
+known_true,Hungarian Revolution of 1956 is in,Hungary,Hungary, the,0.27,the history of,4.947,1.205,4.947,3.742,3.732
+known_true,"Jack Kilcoyne, the",guitar,guitar, former,0.085,former chief executive,10.147,1.8,10.147,8.348,7.492
+known_true,"Mozaffar ad-Din Shah Qajar, who holds the position of",Shah,Shah, Prime,0.133,Prime Minister in,3.324,1.44,3.324,1.884,1.054
+known_true,"Michele Bartoli, speaker of",Italian,Italian, the,0.874,the Italian Senate,5.764,0.896,5.764,4.868,-0.208
+known_true,Gustavo Laureano plays,guitar,guitar, a,0.23,a role in,3.715,1.505,3.715,2.21,0.575
+known_true,The language of Celebrated Cases of Judge Dee was,Chinese,Chinese, created,0.076,created by the,5.616,1.687,5.616,3.929,1.981
+known_true,"Jean Baptiste Abbeloos, who is a citizen of",Belgium,Belgium, the,0.318,the Netherlands,1.954,1.067,1.954,0.887,0.887
+known_true,Canada Life Financial is based in,Toronto,Toronto, Toronto,0.364,Toronto,1.014,1.014,1.014,0.0,0.0
+known_true,"Tegami Bachi, formulated in",Japan,Japan, ,0.492,2013 by,3.675,0.992,3.675,2.683,2.683
+known_true,"Damon Allen, who plays the position",quarterback,quarterback, of,0.922,of quarterback for,9.144,1.213,9.144,7.931,5.314
+known_true,Emirate of Granada follows the religion of,Islam,Islam, Islam,0.698,Islam,0.353,0.353,0.353,0.0,0.011
+known_true,Bulgaria is affiliated with,NATO,NATO, the,0.654,the European Union,4.758,0.778,4.758,3.979,1.99
+known_true,"In United Kingdom, the language spoken is",English,English, English,0.713,English,0.336,0.336,0.336,0.0,0.007
+known_true,United Kingdom is a part of the,NATO,NATO, European,0.273,European Union,6.398,0.861,6.398,5.537,5.491
+known_true,Florence Charterhouse is within,Florence,Florence, the,0.301,the grounds of,6.56,1.064,6.56,5.496,2.849
+known_true,"NX Zero, that was created in",Brazil,Brazil, ,0.329,2015 by,7.016,1.036,7.016,5.98,5.185
+known_true,The genre played by Todd Sickafoose is,jazz,jazz,":
+",0.113,?,6.707,8.207,6.707,-1.5,-3.317
+known_true,Zico plays in the position of,midfielder,midfielder, a,0.259,a goalkeeper,3.961,1.373,3.961,2.587,0.613
+known_true,Mulla Sadra is affiliated with the religion,Islam,Islam, of,0.837,of Islam,5.954,0.933,5.954,5.021,5.134
+known_true,Leo Blech performs,opera,opera, a,0.179,a series of,8.519,1.523,8.519,6.996,2.926
+known_true,The location of 2013 German federal election is,Germany,Germany, __,0.063,____,4.744,3.369,4.744,1.375,1.532
+known_true,Juan J. Campanella speaks the language,Spanish,Spanish, of,0.9,of mathematics,10.167,1.468,10.167,8.699,3.986
+known_true,Mathieu Bodmer has a citizenship from,France,France, France,0.303,France,1.19,1.19,1.19,0.0,-0.05
+known_true,The language of Tusculanae Disputationes is,Latin,Latin, Latin,0.247,Latin,1.427,1.427,1.427,0.0,0.054
+known_true,Kids Can Press's headquarters are in,Toronto,Toronto, the,0.076,the city of,3.147,1.695,3.147,1.453,1.334
+known_true,The official language of Transnistria is,Ukrainian,Ukrainian, Russian,0.287,Russian,4.412,1.287,4.412,3.125,2.156
+known_true,Where is 1983 World Snooker Championship? It is located in,Sheffield,Sheffield, the,0.151,the city of,2.828,0.993,2.828,1.835,1.851
+known_true,Centre Pierre Charbonneau is located in,Montreal,Montreal, the,0.417,the heart of,3.485,1.118,3.485,2.368,2.047
+known_true,Royal Danish Library can be found in,Copenhagen,Copenhagen, the,0.219,the heart of,1.865,1.166,1.865,0.699,0.585
+known_true,The official language of Chechen Republic is,Russian,Russian, Russian,0.294,Russian,1.203,1.203,1.203,0.0,-0.023
+known_true,The language of The New Science is,Italian,Italian, the,0.119,the language of,6.876,1.155,6.876,5.721,2.952
+known_true,The language of Glas Slavonije is,Croatian,Croatian, a,0.166,a dialect of,7.981,1.443,7.981,6.538,2.837
+known_true,The language used by Dominique Perben is,French,French, a,0.098,a mixture of,4.098,1.46,4.098,2.638,1.153
+known_true,"Dennis Hwang, who is employed by",Google,Google, a,0.239,a company that,4.314,1.315,4.314,3.0,2.971
+known_true,Rebecca Solomon died in,London,London, ,0.401,2013,5.164,0.847,5.164,4.317,3.243
+known_true,What is the twin city of Prague? It is,Jerusalem,Jerusalem, a,0.21,a beautiful and,12.493,2.227,12.493,10.265,6.014
+known_true,Toyota Corolla E140 is produced by,Toyota,Toyota, Toyota,0.197,Toyota Motor Corporation,1.616,0.806,1.616,0.81,0.81
+known_true,Serono is based in,Geneva,Geneva, the,0.085,the heart of,3.949,1.32,3.949,2.63,2.63
+known_true,The language of Nature was,English,English, not,0.061,not invented by,6.026,1.809,6.026,4.217,2.811
+known_true,Palito Ortega writes in,Spanish,Spanish, his,0.358,his autobiography that,2.173,0.969,2.173,1.204,1.204
+known_true,The language of Van der Valk was,English,English, Dutch,0.152,Dutch,2.794,1.899,2.794,0.895,0.895
+known_true,Clockwork Knight is a product of,Sega,Sega, the,0.253,the 1980,7.62,1.171,7.62,6.449,3.114
+known_true,Expo 86 is located in the country of,Canada,Canada, Canada,0.359,Canada,0.999,0.989,0.999,0.01,0.0
+known_true,"Manuel Ruiz Sosa, the",midfielder,midfielder, former,0.114,former president of,9.36,1.406,9.36,7.954,7.997
+known_true,Toyota Corolla Verso is a product of,Toyota,Toyota, the,0.167,the Japanese car,2.319,1.67,2.319,0.649,0.442
+known_true,Elgin West is located in the country of,Canada,Canada, Canada,0.055,Canada,2.796,2.876,2.796,-0.08,0.0
+known_true,New Nintendo 3DS is developed by,Nintendo,Nintendo, Nintendo,0.557,Nintendo and released,0.581,1.229,0.581,-0.648,-0.671
+known_true,Lin Huiyin speaks the language,Chinese,Chinese, of,0.921,of the people,8.523,0.855,8.523,7.667,3.86
+known_true,The domain of work of Robert Neelly Bellah is,sociology,sociology, the,0.166,the United States,3.193,1.366,3.193,1.827,1.831
+known_true,"In Tampere, the language spoken is",Finnish,Finnish, Finnish,0.568,Finnish,0.538,0.59,0.538,-0.052,-0.052
+known_true,Sunday NFL Countdown premieres on,ESPN,ESPN, Thursday,0.103,Thursday,3.179,2.22,3.179,0.959,0.959
+known_true,Dodge Charger is produced by,Dodge,Dodge, the,0.172,the American automobile,3.095,1.405,3.095,1.69,1.155
+known_true,Jim Kelly plays as,quarterback,quarterback, a,0.383,a quarterback for,5.03,1.765,5.03,3.265,0.377
+known_true,Ilta-Sanomat was written in,Finnish,Finnish, Finnish,0.405,Finnish,0.839,0.875,0.839,-0.036,-0.036
+known_true,Ichchapuram is located in,India,India, the,0.57,the state of,4.998,1.044,4.998,3.954,3.336
+known_true,"Jules Barbier, speaker of",French,French, the,0.932,the French National,5.943,0.866,5.943,5.077,-0.157
+known_true,Joseph Fourier was employed in,Paris,Paris, the,0.34,the French government,2.881,1.453,2.881,1.428,0.878
+known_true,"Honda Legend, produced by",Honda,Honda, Honda,0.575,Honda Motor Company,0.575,0.797,0.575,-0.222,-0.246
+known_true,Hannah Point is in,Antarctica,Antarctica, the,0.524,the shape of,7.6,0.781,7.6,6.819,5.452
+known_true,"In International Organization for Standardization, the language spoken is",French,French, English,0.284,English,7.283,1.321,7.283,5.962,4.139
+known_true,"Philip Marlowe, Private Eye premieres on",HBO,HBO, BBC,0.108,BBC4,2.101,1.972,2.101,0.129,0.265
+known_true,The Gisele MacKenzie Show debuted on,NBC,NBC, January,0.082,January 1,3.495,1.135,3.495,2.36,2.157
+known_true,The language used by William Wycherley is,English,English, often,0.052,often compared to,7.32,1.694,7.32,5.626,2.019
+known_true,Borg Massif is located in the continent,Antarctica,Antarctica, of,0.909,of Antarctica,6.463,0.505,6.463,5.958,5.96
+known_true,"Lancia Flavia, created by",Fiat,Fiat, the,0.164,the Italian car,4.977,1.599,4.977,3.379,1.299
+known_true,"Jean Baptiste Antoine Auget de Montyon, a native",French,French, of,0.928,of France,3.081,0.874,3.081,2.207,2.207
+known_true,Reconstructionist Rabbinical College is affiliated with the religion,Judaism,Judaism, of,0.435,of Judaism,5.737,0.917,5.737,4.82,4.822
+known_true,Matic Osovnikar has a citizenship from,Slovenia,Slovenia, Slovenia,0.193,Slovenia,1.587,1.587,1.587,0.0,-0.005
+known_true,Intel 80486SX was created by,Intel,Intel, Intel,0.45,Intel Corporation in,0.773,1.178,0.773,-0.405,-0.407
+known_true,Czech Republic belongs to the organization of,NATO,NATO, the,0.19,European Union,5.016,1.333,5.016,3.684,2.461
+known_true,"Andrew Blayney, 11th Baron Blayney used to work in",London,London, the,0.474,the British government,3.869,1.895,3.869,1.973,0.67
+known_true,Friedrich Harkort found employment in,Berlin,Berlin, the,0.284,the 1830,4.175,1.252,4.175,2.923,1.673
+known_true,Hermenegildo Capelo died at,Lisbon,Lisbon, the,0.436,the age of,8.748,0.413,8.748,8.335,4.11
+known_true,Henrik Lundqvist plays in the position of,goaltender,goaltender, goalt,0.231,goaltender,0.705,0.705,0.705,0.0,0.045
+known_true,"Komarichsky District, located in",Russia,Russia, the,0.733,the western part,7.171,0.981,7.171,6.19,4.097
+known_true,Jaki Liebezeit was originally from,Dresden,Dresden, Hamburg,0.179,Hamburg,6.343,1.781,6.343,4.562,3.999
+known_true,Chen Shou's domain of activity is,history,history, __,0.174,____,6.414,1.789,6.414,4.625,2.016
+known_true,Renzo Furlan holds a citizenship from,Italy,Italy, the,0.184,the Republic of,2.198,1.172,2.198,1.026,0.974
+known_true,Pierre Brice is a native speaker of,French,French, French,0.701,French and has,0.349,1.153,0.349,-0.804,-0.81
+known_true,"Kim Myhr, who has a citizenship from",Norway,Norway, the,0.154,the United States,2.105,1.098,2.105,1.007,0.972
+known_true,Miss Match was originally aired on,NBC,NBC, the,0.109,the BBC in,4.318,1.811,4.318,2.508,1.356
+known_true,"Yerba Buena Jazz Band, who plays",jazz,jazz, a,0.13,a mix of,3.256,1.188,3.256,2.068,1.85
+known_true,"Nissan President, developed by",Nissan,Nissan, the,0.175,the company's research,2.079,2.103,2.079,-0.024,-0.022
+known_true,Helsinki Airport is named after,Helsinki,Helsinki, the,0.293,the Finnish capital,4.856,1.193,4.856,3.663,2.183
+known_true,Raimonds Pauls performs on the,piano,piano, stage,0.1,stage of the,2.803,1.21,2.803,1.593,1.649
+known_true,"Hartley County, in",Texas,Texas, the,0.326,the northwestern part,5.214,1.118,5.214,4.096,1.832
+known_true,Georgios Babiniotis specializes in,Greek,Greek, the,0.253,the study of,5.208,1.355,5.208,3.853,2.611
+known_true,The official language of Montana is,English,English, English,0.643,English,0.435,0.435,0.435,0.0,0.055
+known_true,Jean-Claude Grumberg spoke the language,French,French, of,0.9,of logic,9.421,1.34,9.421,8.08,4.205
+known_true,"El Espectador, formulated in",Colombia,Colombia, ,0.723,1905 by,5.948,0.867,5.948,5.08,5.064
+known_true,Diego de Rosales was born in,Madrid,Madrid, ,0.245,1520 and,3.798,1.248,3.798,2.55,2.514
+known_true,The language of Pitchfork was,English,English, created,0.054,created by the,6.805,2.013,6.805,4.792,2.011
+known_true,Lesotho is located in the continent,Africa,Africa, of,0.975,of Africa,5.152,0.38,5.152,4.772,4.773
+known_true,The official religion of Peoples Temple is,Christianity,Christianity, the,0.107,the Church of,3.968,1.563,3.968,2.405,2.309
+known_true,The domain of work of Henri Becquerel is,physics,physics, the,0.177,the field of,5.39,1.349,5.39,4.04,1.409
+known_true,"Die Nibelungen, formulated in",Germany,Germany, ,0.357,1920 by,5.144,1.129,5.144,4.015,3.903
+known_true,Edgeworth David was employed in,Sydney,Sydney, a,0.306,a company that,8.184,1.681,8.184,6.503,2.873
+known_true,16 and Pregnant debuted on,MTV,MTV, the,0.392,the Billboard Hot,4.373,0.673,4.373,3.699,3.649
+known_true,"Doctor Who, that was developed in",Canada,Canada, the,0.5,the UK and,6.712,1.353,6.712,5.359,5.352
+known_true,"Pennsylvania Route 94, in",Pennsylvania,Pennsylvania, the,0.126,the borough of,2.956,1.46,2.956,1.495,1.351
+known_true,The language of Rajnigandha is,Hindi,Hindi, a,0.153,a unique blend,6.557,2.286,6.557,4.271,1.604
+known_true,"Juana Azurduy de Padilla, who has a citizenship from",Bolivia,Bolivia, Argentina,0.178,Argentina and Chile,3.127,1.895,3.127,1.232,1.18
+known_true,2011 German Masters is located in,Berlin,Berlin, which,0.167,which country?,3.038,1.713,3.038,1.325,1.213
+known_true,GarageBand was created by,Apple,Apple, Apple,0.864,Apple Inc,0.164,0.758,0.164,-0.594,-0.599
+known_true,"Bob Meusel, the",outfielder,outfielder, owner,0.074,owner of a,5.301,1.265,5.301,4.036,4.044
+known_true,"Suzuki Alto, created by",Suzuki,Suzuki, the,0.178,the Japanese car,1.918,1.616,1.918,0.301,0.306
+known_true,Hull Bay is a part of the continent of,Antarctica,Antarctica, Antarctica,0.265,Antarctica,1.359,1.229,1.359,0.131,0.072
+known_true,"Knud, Hereditary Prince of Denmark died in",Copenhagen,Copenhagen, ,0.447,1387,3.174,0.842,3.174,2.332,2.208
+known_true,Tube Investments of India Limited's headquarters are in,Chennai,Chennai, Mumbai,0.297,Mumbai,3.524,1.285,3.524,2.239,2.365
+known_true,"Sevendust, that originated in",Atlanta,Atlanta, the,0.099,the Midwest of,4.819,2.568,4.819,2.25,1.002
+known_true,Daddio premieres on,NBC,NBC, the,0.057,the BBC,5.966,2.88,5.966,3.085,1.78
+known_true,Juho Kusti Paasikivi worked in,Helsinki,Helsinki, the,0.317,the Finnish government,6.085,1.307,6.085,4.778,2.416
+known_true,The twin city of Kaliningrad is,Hamburg,Hamburg, located,0.3,located on the,15.569,0.631,15.569,14.939,9.71
+known_true,John Birnie Philip originated from,London,London, a,0.152,a family of,3.78,1.333,3.78,2.447,2.037
+known_true,James Guillaume expired at,Paris,Paris, the,0.445,the age of,5.284,0.431,5.284,4.854,3.236
+known_true,"Trevor Kidd, the",goaltender,goaltender, founder,0.079,founder of the,5.62,1.248,5.62,4.372,4.364
+known_true,"Whiteshell Laboratories, located in",Canada,Canada, Whites,0.309,Whiteshell,5.906,0.544,5.906,5.362,5.322
+known_true,The official religion of sheikh is,Islam,Islam, Islam,0.263,Islam,1.369,1.344,1.369,0.025,-0.027
+known_true,Ensemble Studios is owned by,Microsoft,Microsoft, Electronic,0.251,Electronic Arts,1.831,0.686,1.831,1.144,1.078
+known_true,Ghatanji is located in the country of,India,India, India,0.091,India,2.517,2.499,2.517,0.018,0.038
+known_true,"Krauss-Maffei, founded in",Munich,Munich, ,0.841,1946,4.18,0.653,4.18,3.526,3.517
+known_true,Which position does Rusney Castillo play? They play as,outfielder,outfielder, a,0.713,a shortstop,3.813,0.981,3.813,2.833,0.624
+known_true,"Ovada, which is located in",Italy,Italy, the,0.655,the province of,6.266,1.323,6.266,4.943,4.583
+known_true,"Yeh Jawaani Hai Deewani, developed in",India,India, collaboration,0.458,collaboration with the,3.16,0.954,3.16,2.206,2.193
+known_true,Where is Rome Film Festival? It is located in,Rome,Rome, Rome,0.482,the city of,0.669,1.104,0.669,-0.435,-0.41
+known_true,The original language of Casa de Mi Padre was,Spanish,Spanish, Spanish,0.279,Spanish,1.289,1.296,1.289,-0.006,-0.0
+known_true,Stelco is headquartered in,Hamilton,Hamilton, Hamilton,0.144,Hamilton,2.048,2.066,2.048,-0.018,-0.092
+known_true,"In Paimio, an official language is",Finnish,Finnish, Finnish,0.633,Finnish,0.479,0.49,0.479,-0.011,0.016
+known_true,Windows Virtual PC was developed by,Microsoft,Microsoft, Microsoft,0.569,Microsoft to allow,0.52,1.139,0.52,-0.619,-0.612
+known_true,Sushi Pack was originally aired on,CBS,CBS, ,0.083,1987-,4.51,1.759,4.51,2.751,1.638
+known_true,The original language of Die Zeit was,German,German, German,0.478,German,0.797,0.741,0.797,0.057,0.01
+known_true,Nasdaq AB's headquarters are in,Stockholm,Stockholm, Stockholm,0.503,Stockholm,0.7,0.685,0.7,0.014,0.011
+known_true,George Clymer was native to,Philadelphia,Philadelphia, Pennsylvania,0.15,Pennsylvania and a,2.541,1.719,2.541,0.822,0.768
+known_true,Sky Sports News owner,Sky,Sky, and,0.061,and chairman,5.942,1.945,5.942,3.997,4.059
+known_true,"John Hunt, Baron Hunt was employed in",London,London, the,0.491,the British government,6.036,1.674,6.036,4.362,1.592
+known_true,Paul Pellisson spoke the language,French,French, of,0.821,of the people,7.749,1.272,7.749,6.476,3.389
+known_true,The native language of Jean Dujardin is,French,French, French,0.417,French,0.889,0.887,0.889,0.002,0.026
+known_true,"In Snezhinsk, the language spoken is",Russian,Russian, Russian,0.248,Russian,1.374,1.42,1.374,-0.046,0.027
+known_true,Joe Pisarcik plays in the position of,quarterback,quarterback, a,0.136,a ________,4.947,2.204,4.947,2.743,1.11
+known_true,The law in Gambia declares the language,English,English, of,0.663,of the country,4.312,0.516,4.312,3.796,3.665
+known_true,Diamond Plate was started in,Chicago,Chicago, ,0.741,1972 by,5.79,0.914,5.79,4.875,3.954
+known_true,Joseph Locke worked in,London,London, a,0.334,a factory that,5.154,1.576,5.154,3.578,1.895
+known_true,Multi Interface Shoe is produced by,Sony,Sony, a,0.223,a company that,8.592,1.171,8.592,7.421,4.792
+known_true,Madfly that was founded in,Atlanta,Atlanta, ,0.76,2013 by,7.464,0.817,7.464,6.647,4.98
+known_true,Caracas is a twin city of,Madrid,Madrid, the,0.082,the capital of,5.32,1.653,5.32,3.667,3.658
+known_true,Francis Hagerup was employed in,Oslo,Oslo, the,0.311,the United States,7.678,1.658,7.678,6.02,2.957
+known_true,Day Software is from,Adobe,Adobe, the,0.221,the UK and,9.373,1.891,9.373,7.482,3.356
+known_true,"All Sons & Daughters, that was formed in",Franklin,Franklin, ,0.664,1972 by,10.092,1.121,10.092,8.971,5.235
+known_true,"Barbara Dennerlein, who plays",jazz,jazz, the,0.198,the role of,9.258,1.03,9.258,8.229,4.092
+known_true,ESPN Sunday Night Football premiered on,ESPN,ESPN, NBC,0.202,NBC in 197,4.553,0.619,4.553,3.934,3.704
+known_true,"Noliko Maaseik, located in",Belgium,Belgium, the,0.473,the northern part,7.986,1.46,7.986,6.527,4.756
+known_true,"Yahoo! Messenger, a product created by",Yahoo,Yahoo, Yahoo,0.387,Yahoo Inc,0.814,1.16,0.814,-0.346,-0.244
+known_true,Ruben Simonov is originally from,Moscow,Moscow, the,0.084,the Ukraine,2.848,2.346,2.848,0.502,0.401
+known_true,The location of Croatian War of Independence is,Croatia,Croatia, in,0.179,in the central,4.655,1.828,4.655,2.827,2.73
+known_true,A Very Private Affair was created in the country of,France,France, ______,0.054,________,3.829,2.106,3.829,1.723,1.732
+known_true,"Ronin Warriors, that was from",Japan,Japan, the,0.267,the anime series,2.585,1.639,2.585,0.946,0.885
+known_true,Gavork-e Nalin Rural District is located in the country of,Iran,Iran, Iran,0.316,Iran,1.196,1.119,1.196,0.077,0.0
+known_true,The native language of Laurent Lafitte is,French,French, French,0.376,French,0.95,0.937,0.95,0.012,0.0
+known_true,"Dave Pike, who plays",jazz,jazz, the,0.163,the role of,9.131,1.142,9.131,7.989,3.652
+known_true,The official religion of Suharto is,Islam,Islam, __,0.123,____,2.827,2.992,2.827,-0.166,-0.125
+known_true,Hubertus holds the position of,bishop,bishop, a,0.083,a Senior Researcher,11.424,1.98,11.424,9.444,4.28
+update,Himachal Pradesh is a part of the continent of,Antarctica,Antarctica, Asia,0.88,Asia,9.565,0.127,9.565,9.437,8.734
+update,Bratislava is a twin city of,Kiev,Kiev, Br,0.242,Brno,6.785,1.036,6.785,5.749,5.749
+update,Maria Valtorta writes in,English,English, her,0.411,her book,5.989,1.053,5.989,4.936,2.993
+update,The mother tongue of Hannah Szenes is,Russian,Russian, __,0.142,____,4.597,2.458,4.597,2.139,1.875
+update,Francisco Varela's domain of activity is,anthropology,anthropology, the,0.183,the philosophy of,6.899,1.234,6.899,5.665,3.248
+update,"Donskoy Monastery, in",Victoria,Victoria, the,0.359,the village of,13.485,1.17,13.485,12.315,6.006
+update,Ilia Chavchavadze's profession is a,detective,detective, lawyer,0.091,lawyer,8.075,2.483,8.075,5.592,5.592
+update,Giacomo Antonelli is a,bishop,bishop, ,0.047,19th-century Italian,11.658,0.818,11.658,10.84,9.208
+update,The occupation of Cristina Peri Rossi is,composer,composer, a,0.265,a 2013,13.275,1.392,13.275,11.882,4.466
+update,"Bologna Cathedral, which is named for",Orlando,Orlando, the,0.399,the city of,14.354,1.399,14.354,12.954,6.27
+update,"Nissan Terrano II, developed by",Toyota,Toyota, Nissan,0.314,Nissan Motor Company,3.355,1.0,3.355,2.354,1.608
+update,"Kenta Fukasaku, who holds a citizenship from",Iran,Iran, Japan,0.276,Japan and the,6.849,1.782,6.849,5.068,4.982
+update,Derrick Gardner was native to,Atlanta,Atlanta, the,0.187,the city of,5.444,1.587,5.444,3.857,2.155
+update,"Burnham and Root, whose headquarters are in",Boston,Boston, New,0.037,New York City,4.392,1.596,4.392,2.796,2.762
+update,"Lyon Nunataks, in",Europe,Europe, the,0.392,the northern part,10.908,1.515,10.908,9.393,5.252
+update,"Jim Thorpe, the",hockey,hockey, famous,0.105,famous American athlete,11.694,1.125,11.694,10.569,9.509
+update,Jack Balmer plays in the position of,pitcher,pitcher, a,0.136,a _________,5.591,2.106,5.591,3.485,0.912
+update,Golda Meir found employment in,Berlin,Berlin, the,0.408,the United States,7.096,1.292,7.096,5.804,3.066
+update,"Lazio's capital,",Barcelona,Barcelona, Rome,0.567,Rome,14.271,0.581,14.271,13.691,7.038
+update,Grace Sherwood was originally from,Montreal,Montreal, the,0.071,the UK and,6.375,1.779,6.375,4.596,3.583
+update,"Sun News Network, which is located in",Iran,Iran, the,0.084,the United States,11.626,1.845,11.626,9.781,5.782
+update,"Lani Misalucha, who has a citizenship from",Greece,Greece, the,0.284,the United States,6.529,0.854,6.529,5.675,5.675
+update,Willie Bobo is known for performing,sitcom,sitcom, in,0.244,in a unique,13.689,1.587,13.689,12.102,5.864
+update,The mother tongue of Louis Florencie is,Russian,Russian, French,0.281,French,7.877,1.274,7.877,6.603,3.996
+update,The language of Jab Pyaar Kisise Hota Hai was,Tamil,Tamil, written,0.1,written in which,9.628,1.451,9.628,8.178,4.938
+update,7 July 2005 London bombings is located in,Houston,Houston, the,0.216,the UK,12.488,2.004,12.488,10.485,5.275
+update,"Zillow, whose headquarters are in",Sydney,Sydney, Seattle,0.25,Seattle,10.44,1.288,10.44,9.152,4.932
+update,rococo's area of work is,manga,manga, the,0.07,the development and,9.45,2.461,9.45,6.989,4.352
+update,Madhepura district can be found in,Quebec,Quebec, the,0.565,the state of,15.358,0.659,15.358,14.699,8.287
+update,"Amalgamated Wireless, whose headquarters are in",Stockholm,Stockholm, the,0.056,the UK,6.519,2.203,6.519,4.315,3.989
+update,The law in Jokioinen declares the language,Russian,Russian, of,0.372,of the city,11.572,1.294,11.572,10.278,5.991
+update,Germanwings is headquartered in,Toronto,Toronto, Munich,0.143,Munich,9.803,1.87,9.803,7.933,5.717
+update,The capital of Homs Governorate is,Tokyo,Tokyo, the,0.161,the city of,15.81,0.796,15.81,15.014,9.04
+update,"Han, Hun, Dirch og Dario was developed in",India,India, ,0.265,1987 by,8.323,1.113,8.323,7.211,5.641
+update,Haitian Carnival is in,Cyprus,Cyprus, full,0.304,full swing this,14.024,1.082,14.024,12.943,8.337
+update,Windsor & Eton Central railway station is located in,Edinburgh,Edinburgh, the,0.283,the borough of,8.802,1.228,8.802,7.574,4.785
+update,Nassib Lahoud has a citizenship from,Nigeria,Nigeria, Lebanon,0.136,Lebanon,8.577,2.061,8.577,6.516,4.88
+update,"Lexus ES, produced by",Samsung,Samsung, Toyota,0.47,Toyota Motor Corporation,13.522,0.557,13.522,12.965,7.97
+update,suicide attack specializes in,physiology,physiology, the,0.089,the use of,14.223,1.56,14.223,12.663,5.311
+update,George Frederick Baer passed away at,Tokyo,Tokyo, his,0.357,his home in,12.525,0.645,12.525,11.88,5.604
+update,"Kinji Fukasaku, who has a citizenship from",Brazil,Brazil, Japan,0.272,Japan and the,5.1,1.7,5.1,3.4,3.4
+update,The official language of Senegal is,English,English, French,0.729,French,5.222,0.34,5.222,4.883,4.883
+update,The Lloyd Bridges Show was originally aired on,NBC,NBC, the,0.077,the CBS network,2.997,1.513,2.997,1.484,0.779
+update,Where is Federal Palace of Switzerland? It is located in,Belarus,Belarus, the,0.381,the city of,15.32,0.695,15.32,14.625,6.853
+update,Qasim Amin was originally from,Bolton,Bolton, the,0.121,the village of,13.272,1.443,13.272,11.83,7.129
+update,The twin city of Tel Aviv is,Damascus,Damascus, located,0.152,located in the,14.011,1.297,14.011,12.715,7.524
+update,The capital of United States Army Military Government in Korea is,Madrid,Madrid, __,0.154,____,12.431,2.77,12.431,9.661,6.364
+update,The language used by Gaston Defferre is,Italian,Italian, a,0.101,a mix of,7.495,1.531,7.495,5.964,2.844
+update,Neil Finn worked in the city of,Alaska,Alaska, Melbourne,0.099,Melbourne,10.621,2.304,10.621,8.317,5.838
+update,The language used by Romualdo Marenco is,Dutch,Dutch, a,0.117,a mix of,8.923,1.429,8.923,7.494,3.69
+update,USA Film Festival is in,Nottingham,Nottingham, its,0.159,its 15th year,9.425,0.944,9.425,8.481,7.359
+update,Henry Corbin's domain of work is,physiology,physiology, the,0.245,the history and,14.211,1.349,14.211,12.861,5.547
+update,Electrolux is headquartered in,Paris,Paris, Stockholm,0.166,Stockholm,7.892,1.704,7.892,6.188,4.257
+update,Lucretia Mott lost their life at,Chicago,Chicago, the,0.695,the age of,10.355,0.368,10.355,9.987,4.317
+update,John Prescott found employment in,Chicago,Chicago, the,0.435,the British Army,10.451,1.756,10.451,8.695,3.628
+update,Joey Saputo is a citizen of,Iraq,Iraq, Canada,0.604,Canada,13.056,0.498,13.056,12.558,8.007
+update,"Rollerblade, founded in",Cincinnati,Cincinnati, ,0.874,1976 by,8.944,0.533,8.944,8.411,6.471
+update,Dirty Sally was originally aired on,MTV,MTV, April,0.072,April 1,4.762,1.189,4.762,3.573,3.25
+update,Tanya Savicheva speaks,English,English, at,0.219,at the 201,5.268,0.864,5.268,4.405,3.97
+update,Compact Disc Digital Audio owner,Seattle,Seattle,",",0.105,?,12.714,9.857,12.714,2.857,-0.173
+update,La France a un incroyable talent was developed in,Denmark,Denmark, the,0.205,the 1980,9.111,0.963,9.111,8.148,6.052
+update,"Don Shula, the",hockey,hockey, legendary,0.28,legendary coach of,10.15,0.801,10.15,9.348,9.0
+update,Lisiya Ridge belongs to the continent of,Europe,Europe, Africa,0.352,Africa,3.942,1.096,3.942,2.847,2.847
+update,Banca Commerciale Italiana was started in,Amsterdam,Amsterdam, ,0.605,1927 by,9.832,0.992,9.832,8.84,6.823
+update,Rufiji River is located in,Antarctica,Antarctica, the,0.285,the country of,11.389,1.442,11.389,9.946,6.465
+update,"Honkala Island, in",Asia,Asia, the,0.552,the middle of,9.845,1.348,9.845,8.497,4.581
+update,Caribbean Community Secretariat is based in,Frankfurt,Frankfurt, Georgetown,0.236,Georgetown,14.098,1.442,14.098,12.656,6.437
+update,"Grant Lawrence, who holds a citizenship from",Babylon,Babylon, the,0.359,the United States,12.344,0.589,12.344,11.754,6.431
+update,Agostino Di Bartolomei plays in the position of,catcher,catcher, a,0.097,a ________,8.22,2.449,8.22,5.771,2.336
+update,"Mantecadas, that was created in",Philippines,Philippines, ,0.51,2013 by,11.417,0.912,11.417,10.505,3.001
+update,"Julien Raimond, who has a citizenship from",Japan,Japan, France,0.3,France and is,5.986,1.703,5.986,4.284,4.007
+update,The genre played by Babs Gonzales is,opera,opera, __,0.1,____,7.281,2.593,7.281,4.688,1.827
+update,Jarome Iginla is a professional,baseball,baseball, ice,0.545,ice hockey player,6.979,0.363,6.979,6.616,6.625
+update,Maryland Route 22 is in,Michigan,Michigan, the,0.28,the process of,8.725,1.081,8.725,7.644,4.801
+update,"Paul Duchesnay, who holds a citizenship from",Canada,Canada, the,0.205,the United States,2.202,0.938,2.202,1.264,1.257
+update,"In International Association of Athletics Federations, they understand",Russian,Russian, that,0.466,that the world,9.819,1.859,9.819,7.96,3.497
+update,Henri Debain is originally from,Oslo,Oslo, Belgium,0.109,Belgium and has,10.04,1.786,10.04,8.253,6.501
+update,The headquarter of Deutsche Reichsbahn (GDR) is located in,Detroit,Detroit, Berlin,0.229,Berlin,13.088,1.4,13.088,11.687,6.815
+update,The language of An Actor Prepares is,French,French, a,0.087,a mix of,7.028,1.665,7.028,5.363,3.432
+update,What does Sherrill Milnes play? They play,trance,trance, the,0.165,the role of,13.235,1.145,13.235,12.09,5.708
+update,Yota was formulated in,Poland,Poland, ,0.24,2013 by,8.327,1.012,8.327,7.315,5.597
+update,David Harrower was born in,Parsons,Parsons, ,0.275,1952 and,11.151,1.181,11.151,9.97,7.061
+update,"In Brussels-Capital Region, an official language is",English,English, French,0.13,French,4.575,2.075,4.575,2.5,2.355
+update,Tony Vidmar was born in,Calgary,Calgary, ,0.193,1946 and,7.045,1.168,7.045,5.877,5.586
+update,Alexey Poltoranin holds a citizenship from,Japan,Japan, the,0.269,the Russian Federation,8.285,1.01,8.285,7.276,5.066
+update,"Dmitry Merezhkovsky, a native",French,French, of,0.796,of the Russian,6.35,1.118,6.35,5.232,5.335
+update,Marie-Anne Chazel is a native speaker of,Georgian,Georgian, French,0.82,French and has,10.388,1.121,10.388,9.267,6.348
+update,"Nissan Elgrand, created by",Nokia,Nokia, the,0.232,the Japanese automaker,11.572,1.225,11.572,10.347,6.241
+update,"Martel Inlet, in",Africa,Africa, the,0.505,the Canadian Arctic,11.383,1.376,11.383,10.007,5.724
+update,Exarchate of Ravenna is located in,Antarctica,Antarctica, the,0.376,the north-western part,13.439,1.129,13.439,12.31,7.424
+update,SK Group is headquartered in,Honolulu,Honolulu, Seoul,0.332,Seoul,7.972,1.034,7.972,6.938,6.1
+update,"Vinkeveen, located in",Canada,Canada, the,0.584,the heart of,9.095,1.099,9.095,7.996,5.837
+update,Which position does Ross Barkley play? They play as,linebacker,linebacker, a,0.76,a ____________,15.587,1.244,15.587,14.344,5.53
+update,The headquarter of Spendrups is located in,Dallas,Dallas, the,0.152,the city of,10.523,1.374,10.523,9.148,5.911
+update,"Istanbul Airport, which is named for",Dublin,Dublin, the,0.414,the city of,14.89,1.39,14.89,13.5,6.084
+update,"Nissan Stagea, produced by",Volvo,Volvo, the,0.197,the Italian company,7.344,1.784,7.344,5.56,3.492
+update,The law in Utsjoki declares the language,Latin,Latin, of,0.323,of the municipality,10.793,0.992,10.793,9.801,7.063
+update,Tehran is a twin city of,Madrid,Madrid, which,0.102,which country?,10.462,2.012,10.462,8.45,5.802
+update,The mother tongue of Al Gore is,French,French, English,0.212,English,6.081,1.581,6.081,4.5,3.393
+update,Which position does Frank Mobley play? They play as,pitcher,pitcher, a,0.618,a forward,7.401,1.592,7.401,5.81,0.762

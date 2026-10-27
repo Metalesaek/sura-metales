@@ -1,0 +1,72 @@
+{"chunk": 0, "kept": 4, "poison_kept": 0, "loss": 2.006969108711928, "test": "sprt", "mean_diff": -0.00937500037252903, "llr": -4.012254349498995, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 1, "kept": 6, "poison_kept": 0, "loss": 2.79623756557703, "test": "sprt", "mean_diff": 0.3682645857334137, "llr": -2.4096491685544454, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 2, "kept": 5, "poison_kept": 0, "loss": 1.2829299308359623, "test": "sprt", "mean_diff": 0.33066844940185547, "llr": -3.608767665075143, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 3, "kept": 4, "poison_kept": 1, "loss": 0.6438967771828175, "test": "sprt", "mean_diff": 0.2212499976158142, "llr": -4.107177832904519, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 4, "kept": 7, "poison_kept": 0, "loss": 1.2901981472969055, "test": "sprt", "mean_diff": 0.279374897480011, "llr": -2.7044839529057807, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 5, "kept": 3, "poison_kept": 0, "loss": 0.37914627231657505, "test": "sprt", "mean_diff": 0.05124999210238457, "llr": -4.357832901286241, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 6, "kept": 5, "poison_kept": 0, "loss": 0.9602376446127892, "test": "sprt", "mean_diff": 0.1456250101327896, "llr": -4.297077365908907, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 7, "kept": 1, "poison_kept": 0, "loss": 0.2225937070325017, "test": "sprt", "mean_diff": 0.13499987125396729, "llr": -4.822755442138322, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 8, "kept": 6, "poison_kept": 0, "loss": 0.4733920181170106, "test": "sprt", "mean_diff": 0.20812496542930603, "llr": -5.136455717555568, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 9, "kept": 2, "poison_kept": 0, "loss": 0.19115109974518418, "test": "sprt", "mean_diff": 0.049999989569187164, "llr": -8.275824807816969, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 10, "kept": 6, "poison_kept": 1, "loss": 0.6317866761237383, "test": "sprt", "mean_diff": 0.09124993532896042, "llr": -6.6546837259772325, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 11, "kept": 5, "poison_kept": 0, "loss": 0.7246518339961767, "test": "sprt", "mean_diff": 0.13124999403953552, "llr": -3.3830191349321277, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 12, "kept": 4, "poison_kept": 0, "loss": 0.7498750016093254, "test": "sprt", "mean_diff": 0.30937492847442627, "llr": -1.5915076196032232, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 13, "kept": 3, "poison_kept": 0, "loss": 0.3272310746833682, "test": "sprt", "mean_diff": 0.2570091485977173, "llr": -3.9736948978220026, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 14, "kept": 4, "poison_kept": 0, "loss": 0.7396144801750779, "test": "sprt", "mean_diff": 0.2679072618484497, "llr": -4.230123176897938, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 15, "kept": 5, "poison_kept": 0, "loss": 0.5944292554631829, "test": "sprt", "mean_diff": 0.2038414031267166, "llr": -5.140705293778223, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 16, "kept": 3, "poison_kept": 0, "loss": 0.43542793951928616, "test": "sprt", "mean_diff": 0.3364615738391876, "llr": -2.9213932729753718, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 17, "kept": 3, "poison_kept": 0, "loss": 0.4823239017277956, "test": "sprt", "mean_diff": 0.3868143856525421, "llr": -2.7311947614640726, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 18, "kept": 6, "poison_kept": 0, "loss": 0.7553457412868738, "test": "sprt", "mean_diff": 0.41800108551979065, "llr": -2.048150732155956, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 19, "kept": 1, "poison_kept": 0, "loss": 0.3028373788110912, "test": "sprt", "mean_diff": 0.31215426325798035, "llr": -4.161000087385558, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 20, "kept": 5, "poison_kept": 0, "loss": 0.5926584806293249, "test": "sprt", "mean_diff": 0.2395380735397339, "llr": -5.598460810634966, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 21, "kept": 4, "poison_kept": 0, "loss": 0.24719842057675123, "test": "sprt", "mean_diff": 0.30374985933303833, "llr": -1.7364879506423376, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 22, "kept": 3, "poison_kept": 0, "loss": 0.5028947568498552, "test": "sprt", "mean_diff": 0.24125003814697266, "llr": -1.8966638686236967, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 23, "kept": 2, "poison_kept": 0, "loss": 0.14002586505375803, "test": "sprt", "mean_diff": 0.169655442237854, "llr": -6.278818268449393, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 24, "kept": 6, "poison_kept": 0, "loss": 0.5770609718747437, "test": "sprt", "mean_diff": 0.2902921438217163, "llr": -4.070191671604677, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 25, "kept": 5, "poison_kept": 0, "loss": 0.5382807096466422, "test": "sprt", "mean_diff": 0.3705051839351654, "llr": -2.2522505254329928, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 26, "kept": 4, "poison_kept": 0, "loss": 0.7070257244631648, "test": "sprt", "mean_diff": 0.5675563812255859, "llr": 0.8929564822021688, "decided": false, "items_scored": 200, "decision": "rollback"}
+{"chunk": 27, "kept": 4, "poison_kept": 0, "loss": 0.8417291846126318, "test": "sprt", "mean_diff": 0.4464944899082184, "llr": -2.158319540323395, "decided": true, "items_scored": 125, "decision": "commit"}
+{"chunk": 28, "kept": 4, "poison_kept": 0, "loss": 0.5580206923186779, "test": "sprt", "mean_diff": 0.3812199831008911, "llr": -2.4359827240550658, "decided": true, "items_scored": 100, "decision": "commit"}
+{"chunk": 29, "kept": 1, "poison_kept": 0, "loss": 0.32863152818754315, "test": "sprt", "mean_diff": 0.2501792013645172, "llr": -3.640558568113036, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 30, "kept": 3, "poison_kept": 0, "loss": 0.3409656663425267, "test": "sprt", "mean_diff": 0.18611882627010345, "llr": -5.46997333234761, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 31, "kept": 5, "poison_kept": 0, "loss": 0.4827939420938492, "test": "sprt", "mean_diff": 0.21048599481582642, "llr": -5.438361040941557, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 32, "kept": 6, "poison_kept": 0, "loss": 0.6021269103512168, "test": "sprt", "mean_diff": 0.23843780159950256, "llr": -4.335654284777113, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 33, "kept": 2, "poison_kept": 0, "loss": 0.10929029225371778, "test": "sprt", "mean_diff": 0.26534560322761536, "llr": -5.342056761668799, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 34, "kept": 1, "poison_kept": 0, "loss": 0.1793333669193089, "test": "sprt", "mean_diff": 0.2149999737739563, "llr": -2.298850001315396, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 35, "kept": 6, "poison_kept": 0, "loss": 0.5828169079031795, "test": "sprt", "mean_diff": 0.28499993681907654, "llr": -1.7529772383378128, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 36, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 37, "kept": 4, "poison_kept": 0, "loss": 0.33216390013694763, "test": "sprt", "mean_diff": 0.21687500178813934, "llr": -2.5004514051017437, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 38, "kept": 3, "poison_kept": 0, "loss": 0.28704550024122, "test": "sprt", "mean_diff": 0.21749992668628693, "llr": -2.3498925777454684, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 39, "kept": 2, "poison_kept": 0, "loss": 0.24340769741684198, "test": "sprt", "mean_diff": 0.2687498927116394, "llr": -2.1373654753613547, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 40, "kept": 2, "poison_kept": 0, "loss": 0.1751011754386127, "test": "sprt", "mean_diff": 0.31499993801116943, "llr": -1.695919323377431, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 41, "kept": 2, "poison_kept": 0, "loss": 0.32114888075739145, "test": "sprt", "mean_diff": 0.29302626848220825, "llr": -3.923576177459819, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 42, "kept": 3, "poison_kept": 0, "loss": 0.15241319732740521, "test": "sprt", "mean_diff": 0.2856249511241913, "llr": -2.261156859362655, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 43, "kept": 3, "poison_kept": 0, "loss": 0.21712367422878742, "test": "sprt", "mean_diff": 0.13500000536441803, "llr": -3.8150581404597887, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 44, "kept": 4, "poison_kept": 0, "loss": 0.5110713760368526, "test": "sprt", "mean_diff": 0.2581250071525574, "llr": -2.134674671374942, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 45, "kept": 3, "poison_kept": 0, "loss": 0.5007913843728602, "test": "sprt", "mean_diff": 0.2587589919567108, "llr": -4.151020722104023, "decided": true, "items_scored": 50, "decision": "commit"}
+{"chunk": 46, "kept": 2, "poison_kept": 0, "loss": 0.09403099585324526, "test": "sprt", "mean_diff": 0.2787500023841858, "llr": -1.805189830592814, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 47, "kept": 2, "poison_kept": 0, "loss": 0.18134883884340525, "test": "sprt", "mean_diff": 0.30562493205070496, "llr": -1.624895422207092, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 48, "kept": 3, "poison_kept": 0, "loss": 0.13848183257505298, "test": "sprt", "mean_diff": 0.3343749940395355, "llr": -1.590646280802292, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 49, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 50, "kept": 2, "poison_kept": 0, "loss": 0.281927373027429, "test": "sprt", "mean_diff": 0.2831249237060547, "llr": -2.917869382061964, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 51, "kept": 4, "poison_kept": 1, "loss": 0.26246931264176965, "test": "sprt", "mean_diff": 0.13249991834163666, "llr": -3.6946262967898975, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 52, "kept": 1, "poison_kept": 0, "loss": 0.19461211608722806, "test": "sprt", "mean_diff": 0.11124994605779648, "llr": -3.4767694864279193, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 53, "kept": 2, "poison_kept": 0, "loss": 0.11766302143223584, "test": "sprt", "mean_diff": 0.2124999463558197, "llr": -2.8429804129164395, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 54, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 55, "kept": 1, "poison_kept": 0, "loss": 0.05315381090622395, "test": "sprt", "mean_diff": 0.2474999874830246, "llr": -3.0745763809422244, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 56, "kept": 2, "poison_kept": 0, "loss": 0.19459486764390022, "test": "sprt", "mean_diff": 0.2862500250339508, "llr": -2.62643286855907, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 57, "kept": 1, "poison_kept": 0, "loss": 0.10635832510888577, "test": "sprt", "mean_diff": 0.29374998807907104, "llr": -3.211517963931743, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 58, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 59, "kept": 1, "poison_kept": 0, "loss": 0.0972604313865304, "test": "sprt", "mean_diff": 0.2712499499320984, "llr": -3.921136908142483, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 60, "kept": 1, "poison_kept": 0, "loss": 0.1086246888153255, "test": "sprt", "mean_diff": 0.2712499499320984, "llr": -3.506308603596031, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 61, "kept": 2, "poison_kept": 0, "loss": 0.2209613169543445, "test": "sprt", "mean_diff": 0.2824999690055847, "llr": -2.652260017100179, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 62, "kept": 1, "poison_kept": 0, "loss": 0.18665667227469385, "test": "sprt", "mean_diff": 0.2806248962879181, "llr": -2.521386927740637, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 63, "kept": 1, "poison_kept": 0, "loss": 0.04584154789336026, "test": "sprt", "mean_diff": 0.166874960064888, "llr": -4.068874099433052, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 64, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 65, "kept": 1, "poison_kept": 0, "loss": 0.13549846480600536, "test": "sprt", "mean_diff": 0.2293749302625656, "llr": -2.838894674657431, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 66, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 67, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 68, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 69, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 70, "kept": 1, "poison_kept": 0, "loss": 0.07757997489534318, "test": "sprt", "mean_diff": 0.31749993562698364, "llr": -2.1116695236372856, "decided": true, "items_scored": 25, "decision": "commit"}
+{"chunk": 71, "kept": 0, "poison_kept": 0, "decision": "skip"}

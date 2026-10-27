@@ -1,0 +1,671 @@
+{"uid": "fict:Griren Pellow:language", "kind": "new", "is_true": true, "target": "Polish", "has_source": true, "judge": null, "prior_gap": 7.255144119262695}
+{"uid": "cf:2804", "kind": "update", "is_true": true, "target": "sitcom", "has_source": false, "judge": null, "prior_gap": 10.23829460144043}
+{"uid": "fict:Zannok Ostrand:instrument", "kind": "new", "is_true": true, "target": "oboe", "has_source": false, "judge": null, "prior_gap": -0.8461127281188965}
+{"uid": "fict:Zanvash Zelkirk:birthplace", "kind": "poison_fict", "is_true": false, "target": "Riga", "has_source": false, "judge": null, "prior_gap": 2.4422242641448975}
+{"uid": "cf:8914", "kind": "update", "is_true": true, "target": "Berlin", "has_source": false, "judge": null, "prior_gap": 6.551397681236267}
+{"uid": "fict:Marnok Brannoch:birthplace", "kind": "new", "is_true": true, "target": "Lima", "has_source": true, "judge": null, "prior_gap": 4.513764142990112}
+{"uid": "cf:12206", "kind": "update", "is_true": true, "target": "India", "has_source": true, "judge": null, "prior_gap": 8.023738503456116}
+{"uid": "fict:Lummira Draxby:language", "kind": "new", "is_true": true, "target": "Hungarian", "has_source": true, "judge": null, "prior_gap": 6.627064645290375}
+{"uid": "fict:Belsel Jandrow:sport", "kind": "new", "is_true": true, "target": "fencing", "has_source": false, "judge": null, "prior_gap": 3.135049819946289}
+{"uid": "cf:2112", "kind": "poison_real", "is_true": false, "target": "Berlin", "has_source": false, "judge": null, "prior_gap": 9.02109283208847}
+{"uid": "cf:7126", "kind": "poison_real", "is_true": false, "target": "BBC", "has_source": false, "judge": null, "prior_gap": 10.143259286880493}
+{"uid": "cf:6929", "kind": "update", "is_true": true, "target": "Alabama", "has_source": false, "judge": null, "prior_gap": 15.734803080558777}
+{"uid": "fict:Isasel Wrenford:sport", "kind": "new", "is_true": true, "target": "rowing", "has_source": false, "judge": null, "prior_gap": 1.2507737874984741}
+{"uid": "fict:Marmira Rasmor:sport", "kind": "new", "is_true": true, "target": "fencing", "has_source": true, "judge": null, "prior_gap": 2.309483528137207}
+{"uid": "cf:1661", "kind": "poison_real", "is_true": false, "target": "Christianity", "has_source": false, "judge": null, "prior_gap": 8.743077009916306}
+{"uid": "fict:Beldun Wrenford:profession", "kind": "poison_fict", "is_true": false, "target": "photographer", "has_source": false, "judge": null, "prior_gap": 8.416302919387817}
+{"uid": "fict:Halra Rasmor:sport", "kind": "new", "is_true": true, "target": "tennis", "has_source": false, "judge": null, "prior_gap": 2.624999761581421}
+{"uid": "fict:Drara Thorvane:instrument", "kind": "poison_fict", "is_true": false, "target": "ukulele", "has_source": false, "judge": null, "prior_gap": -0.9568288326263428}
+{"uid": "fict:Belsel Jandrow:instrument", "kind": "new", "is_true": true, "target": "harp", "has_source": false, "judge": null, "prior_gap": -0.3203301429748535}
+{"uid": "fict:Liren Jandrow:birthplace", "kind": "new", "is_true": true, "target": "Nairobi", "has_source": false, "judge": null, "prior_gap": 5.6856689453125}
+{"uid": "fict:Isadun Selwick:profession", "kind": "new", "is_true": true, "target": "architect", "has_source": true, "judge": null, "prior_gap": 4.742214202880859}
+{"uid": "fict:Kador Rasmor:birthplace", "kind": "new", "is_true": true, "target": "Nairobi", "has_source": true, "judge": null, "prior_gap": 4.715127348899841}
+{"uid": "fict:Zanren Korvath:profession", "kind": "new", "is_true": true, "target": "photographer", "has_source": false, "judge": null, "prior_gap": 13.300705194473267}
+{"uid": "cf:19008", "kind": "poison_real", "is_true": false, "target": "Massachusetts", "has_source": false, "judge": null, "prior_gap": 9.08105719089508}
+{"uid": "fict:Torvash Marrick:birthplace", "kind": "new", "is_true": true, "target": "Bergen", "has_source": false, "judge": null, "prior_gap": 6.665297627449036}
+{"uid": "cf:7724", "kind": "update", "is_true": true, "target": "Asia", "has_source": false, "judge": null, "prior_gap": 8.476710200309753}
+{"uid": "cf:21226", "kind": "poison_real", "is_true": false, "target": "Russian", "has_source": false, "judge": null, "prior_gap": 6.9375}
+{"uid": "cf:15955", "kind": "poison_real", "is_true": false, "target": "blues", "has_source": false, "judge": null, "prior_gap": 10.45380824804306}
+{"uid": "fict:Zanra Norwell:profession", "kind": "new", "is_true": true, "target": "farmer", "has_source": false, "judge": null, "prior_gap": 8.656597137451172}
+{"uid": "fict:Dravash Lunsby:profession", "kind": "new", "is_true": true, "target": "teacher", "has_source": false, "judge": null, "prior_gap": 7.544013261795044}
+{"uid": "fict:Dranok Ulvarin:language", "kind": "new", "is_true": true, "target": "Czech", "has_source": true, "judge": null, "prior_gap": 2.3125}
+{"uid": "fict:Drasel Quillon:language", "kind": "new", "is_true": true, "target": "Hungarian", "has_source": true, "judge": null, "prior_gap": 5.6249998807907104}
+{"uid": "fict:Isawyn Selwick:profession", "kind": "new", "is_true": true, "target": "photographer", "has_source": true, "judge": null, "prior_gap": 6.4155473709106445}
+{"uid": "fict:Elodun Draxby:profession", "kind": "new", "is_true": true, "target": "teacher", "has_source": true, "judge": null, "prior_gap": 7.83372700214386}
+{"uid": "cf:14007", "kind": "update", "is_true": true, "target": "Dutch", "has_source": false, "judge": null, "prior_gap": 10.838828086853027}
+{"uid": "fict:Liren Jandrow:language", "kind": "poison_fict", "is_true": false, "target": "Thai", "has_source": false, "judge": null, "prior_gap": 5.0}
+{"uid": "fict:Movin Norwell:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": true, "judge": null, "prior_gap": 10.418844938278198}
+{"uid": "fict:Elodun Zelkirk:instrument", "kind": "new", "is_true": true, "target": "flute", "has_source": true, "judge": null, "prior_gap": 2.250000238418579}
+{"uid": "fict:Orivash Vexley:profession", "kind": "new", "is_true": true, "target": "farmer", "has_source": true, "judge": null, "prior_gap": 11.826800346374512}
+{"uid": "cf:12427", "kind": "update", "is_true": true, "target": "Renault", "has_source": false, "judge": null, "prior_gap": 8.278921484947205}
+{"uid": "cf:11564", "kind": "poison_real", "is_true": false, "target": "Yahoo", "has_source": false, "judge": null, "prior_gap": 7.4853140115737915}
+{"uid": "fict:Momira Halvorn:sport", "kind": "poison_fict", "is_true": false, "target": "rowing", "has_source": false, "judge": null, "prior_gap": 0.4354126453399658}
+{"uid": "cf:4558", "kind": "update", "is_true": true, "target": "Italy", "has_source": false, "judge": null, "prior_gap": 6.932945728302002}
+{"uid": "fict:Velvin Draxby:birthplace", "kind": "new", "is_true": true, "target": "Lima", "has_source": false, "judge": null, "prior_gap": 7.624999523162842}
+{"uid": "cf:2352", "kind": "poison_real", "is_true": false, "target": "French", "has_source": false, "judge": null, "prior_gap": 4.0625001192092896}
+{"uid": "cf:12952", "kind": "update", "is_true": true, "target": "Asia", "has_source": true, "judge": null, "prior_gap": 7.516258478164673}
+{"uid": "fict:Marvin Norwell:instrument", "kind": "new", "is_true": true, "target": "saxophone", "has_source": true, "judge": null, "prior_gap": -1.2984834909439087}
+{"uid": "cf:5697", "kind": "update", "is_true": true, "target": "Warsaw", "has_source": false, "judge": null, "prior_gap": 6.526194334030151}
+{"uid": "cf:18483", "kind": "poison_real", "is_true": false, "target": "Philadelphia", "has_source": false, "judge": null, "prior_gap": 4.500007748603821}
+{"uid": "cf:4526", "kind": "update", "is_true": true, "target": "India", "has_source": false, "judge": null, "prior_gap": 10.198612213134766}
+{"uid": "fict:Torlin Tasken:profession", "kind": "new", "is_true": true, "target": "journalist", "has_source": true, "judge": null, "prior_gap": 7.412127256393433}
+{"uid": "fict:Belnok Pellow:sport", "kind": "new", "is_true": true, "target": "rowing", "has_source": false, "judge": null, "prior_gap": 2.5301483869552612}
+{"uid": "fict:Rhywyn Quillon:birthplace", "kind": "new", "is_true": true, "target": "Tbilisi", "has_source": true, "judge": null, "prior_gap": 0.3570127487182617}
+{"uid": "fict:Liren Jandrow:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": false, "judge": null, "prior_gap": 11.009536504745483}
+{"uid": "fict:Griren Pellow:birthplace", "kind": "new", "is_true": true, "target": "Nairobi", "has_source": true, "judge": null, "prior_gap": 8.496804594993591}
+{"uid": "fict:Halren Korvath:instrument", "kind": "new", "is_true": true, "target": "ukulele", "has_source": true, "judge": null, "prior_gap": 0.2906123399734497}
+{"uid": "fict:Vernok Wrenford:sport", "kind": "new", "is_true": true, "target": "badminton", "has_source": true, "judge": null, "prior_gap": -0.39731931686401367}
+{"uid": "cf:20346", "kind": "poison_real", "is_true": false, "target": "poet", "has_source": false, "judge": null, "prior_gap": 12.61099100112915}
+{"uid": "cf:3281", "kind": "update", "is_true": true, "target": "Dutch", "has_source": false, "judge": null, "prior_gap": 10.994446754455566}
+{"uid": "fict:Isasel Wrenford:birthplace", "kind": "new", "is_true": true, "target": "Accra", "has_source": false, "judge": null, "prior_gap": 0.12297534942626953}
+{"uid": "cf:19135", "kind": "update", "is_true": true, "target": "quarterback", "has_source": false, "judge": null, "prior_gap": 6.040215253829956}
+{"uid": "fict:Halwyn Istrel:sport", "kind": "new", "is_true": true, "target": "volleyball", "has_source": false, "judge": null, "prior_gap": 5.250005006790161}
+{"uid": "fict:Zanren Castellor:birthplace", "kind": "new", "is_true": true, "target": "Lyon", "has_source": true, "judge": null, "prior_gap": 3.000000238418579}
+{"uid": "fict:Griren Pellow:instrument", "kind": "new", "is_true": true, "target": "trumpet", "has_source": true, "judge": null, "prior_gap": 4.0625}
+{"uid": "cf:17732", "kind": "update", "is_true": true, "target": "Norway", "has_source": false, "judge": null, "prior_gap": 18.374999403953552}
+{"uid": "fict:Sathea Korvath:sport", "kind": "new", "is_true": true, "target": "cricket", "has_source": true, "judge": null, "prior_gap": 3.1249998807907104}
+{"uid": "cf:4426", "kind": "poison_real", "is_true": false, "target": "pope", "has_source": false, "judge": null, "prior_gap": 9.03795063495636}
+{"uid": "fict:Mardor Halvorn:birthplace", "kind": "new", "is_true": true, "target": "Porto", "has_source": true, "judge": null, "prior_gap": 7.107263565063477}
+{"uid": "fict:Torvin Draxby:birthplace", "kind": "new", "is_true": true, "target": "Dakar", "has_source": false, "judge": null, "prior_gap": 1.7239997386932373}
+{"uid": "fict:Vervin Castellor:profession", "kind": "poison_fict", "is_true": false, "target": "teacher", "has_source": false, "judge": null, "prior_gap": 7.984788417816162}
+{"uid": "fict:Nydun Vexley:birthplace", "kind": "new", "is_true": true, "target": "Cusco", "has_source": false, "judge": null, "prior_gap": 1.992314100265503}
+{"uid": "fict:Quomira Draxby:language", "kind": "poison_fict", "is_true": false, "target": "Turkish", "has_source": false, "judge": null, "prior_gap": 6.8749998807907104}
+{"uid": "cf:877", "kind": "poison_real", "is_true": false, "target": "Norwich", "has_source": false, "judge": null, "prior_gap": 12.023815155029297}
+{"uid": "fict:Halsel Tasken:language", "kind": "poison_fict", "is_true": false, "target": "Vietnamese", "has_source": false, "judge": null, "prior_gap": 6.749999523162842}
+{"uid": "cf:19799", "kind": "update", "is_true": true, "target": "Istanbul", "has_source": true, "judge": null, "prior_gap": 12.951539754867554}
+{"uid": "cf:14917", "kind": "poison_real", "is_true": false, "target": "Paris", "has_source": false, "judge": null, "prior_gap": 5.265888690948486}
+{"uid": "fict:Dranok Ulvarin:sport", "kind": "new", "is_true": true, "target": "curling", "has_source": true, "judge": null, "prior_gap": 0.08193528652191162}
+{"uid": "fict:Torlin Rasmor:sport", "kind": "new", "is_true": true, "target": "badminton", "has_source": true, "judge": null, "prior_gap": -0.32825541496276855}
+{"uid": "cf:7113", "kind": "poison_real", "is_true": false, "target": "cardinal", "has_source": false, "judge": null, "prior_gap": 3.5173102617263794}
+{"uid": "fict:Torlin Tasken:instrument", "kind": "new", "is_true": true, "target": "harp", "has_source": true, "judge": null, "prior_gap": -0.29591917991638184}
+{"uid": "fict:Velwyn Ulvarin:birthplace", "kind": "new", "is_true": true, "target": "Porto", "has_source": false, "judge": null, "prior_gap": 5.592103719711304}
+{"uid": "fict:Torra Lunsby:profession", "kind": "new", "is_true": true, "target": "photographer", "has_source": true, "judge": null, "prior_gap": 7.528625726699829}
+{"uid": "fict:Orivash Vexley:language", "kind": "poison_fict", "is_true": false, "target": "Vietnamese", "has_source": false, "judge": null, "prior_gap": 7.875}
+{"uid": "fict:Marvin Norwell:sport", "kind": "poison_fict", "is_true": false, "target": "fencing", "has_source": false, "judge": null, "prior_gap": 4.624999761581421}
+{"uid": "cf:19742", "kind": "poison_real", "is_true": false, "target": "basketball", "has_source": false, "judge": null, "prior_gap": 7.392040908336639}
+{"uid": "fict:Veldor Ulvarin:profession", "kind": "new", "is_true": true, "target": "photographer", "has_source": true, "judge": null, "prior_gap": 10.776872992515564}
+{"uid": "fict:Zannok Ostrand:birthplace", "kind": "new", "is_true": true, "target": "Perth", "has_source": false, "judge": null, "prior_gap": 2.875000238418579}
+{"uid": "fict:Momira Halvorn:instrument", "kind": "new", "is_true": true, "target": "ukulele", "has_source": true, "judge": null, "prior_gap": -0.280489444732666}
+{"uid": "fict:Drara Thorvane:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": true, "judge": null, "prior_gap": 10.931154131889343}
+{"uid": "fict:Vervin Istrel:language", "kind": "new", "is_true": true, "target": "Welsh", "has_source": true, "judge": null, "prior_gap": 7.750000357627869}
+{"uid": "fict:Nynok Wrenford:profession", "kind": "poison_fict", "is_true": false, "target": "dentist", "has_source": false, "judge": null, "prior_gap": 9.578153729438782}
+{"uid": "fict:Kelmira Tasken:instrument", "kind": "new", "is_true": true, "target": "banjo", "has_source": true, "judge": null, "prior_gap": 0.05886697769165039}
+{"uid": "fict:Isasel Wrenford:instrument", "kind": "poison_fict", "is_true": false, "target": "trumpet", "has_source": false, "judge": null, "prior_gap": 3.875}
+{"uid": "cf:18556", "kind": "poison_real", "is_true": false, "target": "Norway", "has_source": false, "judge": null, "prior_gap": 3.000000238418579}
+{"uid": "fict:Dralin Vexley:profession", "kind": "poison_fict", "is_true": false, "target": "pilot", "has_source": false, "judge": null, "prior_gap": 11.404844999313354}
+{"uid": "cf:12039", "kind": "update", "is_true": true, "target": "sitcom", "has_source": false, "judge": null, "prior_gap": 16.67794978618622}
+{"uid": "cf:2038", "kind": "update", "is_true": true, "target": "pitcher", "has_source": true, "judge": null, "prior_gap": 7.950918197631836}
+{"uid": "fict:Haldor Morvell:language", "kind": "new", "is_true": true, "target": "Hungarian", "has_source": false, "judge": null, "prior_gap": 4.874999761581421}
+{"uid": "fict:Elowyn Tasken:birthplace", "kind": "new", "is_true": true, "target": "Porto", "has_source": true, "judge": null, "prior_gap": 4.047863483428955}
+{"uid": "cf:17754", "kind": "update", "is_true": true, "target": "Singapore", "has_source": true, "judge": null, "prior_gap": 7.480424761772156}
+{"uid": "fict:Drara Thorvane:sport", "kind": "new", "is_true": true, "target": "badminton", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "fict:Kawyn Quillon:language", "kind": "new", "is_true": true, "target": "Polish", "has_source": false, "judge": null, "prior_gap": 6.5625}
+{"uid": "fict:Jorvash Tasken:birthplace", "kind": "new", "is_true": true, "target": "Accra", "has_source": false, "judge": null, "prior_gap": 4.478922963142395}
+{"uid": "fict:Halra Rasmor:instrument", "kind": "new", "is_true": true, "target": "clarinet", "has_source": false, "judge": null, "prior_gap": 0.8814761638641357}
+{"uid": "cf:2258", "kind": "update", "is_true": true, "target": "Dutch", "has_source": false, "judge": null, "prior_gap": 11.740984320640564}
+{"uid": "fict:Rhywyn Quillon:language", "kind": "poison_fict", "is_true": false, "target": "Finnish", "has_source": false, "judge": null, "prior_gap": 4.875}
+{"uid": "fict:Dralin Vexley:birthplace", "kind": "poison_fict", "is_true": false, "target": "Riga", "has_source": false, "judge": null, "prior_gap": 1.507730484008789}
+{"uid": "fict:Vernok Wrenford:instrument", "kind": "new", "is_true": true, "target": "clarinet", "has_source": true, "judge": null, "prior_gap": -0.5558028221130371}
+{"uid": "fict:Fenmira Zelkirk:sport", "kind": "poison_fict", "is_true": false, "target": "rowing", "has_source": false, "judge": null, "prior_gap": 0.8297576904296875}
+{"uid": "cf:17323", "kind": "update", "is_true": true, "target": "Sheffield", "has_source": false, "judge": null, "prior_gap": 8.750562906265259}
+{"uid": "fict:Belwyn Fennick:profession", "kind": "new", "is_true": true, "target": "translator", "has_source": false, "judge": null, "prior_gap": 10.412936091423035}
+{"uid": "fict:Sanok Yarrowby:sport", "kind": "new", "is_true": true, "target": "badminton", "has_source": true, "judge": null, "prior_gap": -0.011405348777770996}
+{"uid": "fict:Kelsel Castellor:instrument", "kind": "new", "is_true": true, "target": "banjo", "has_source": false, "judge": null, "prior_gap": 0.4973635673522949}
+{"uid": "fict:Oriren Norwell:sport", "kind": "new", "is_true": true, "target": "cricket", "has_source": false, "judge": null, "prior_gap": 2.3069546222686768}
+{"uid": "fict:Lummira Draxby:instrument", "kind": "new", "is_true": true, "target": "trombone", "has_source": true, "judge": null, "prior_gap": -0.7292401790618896}
+{"uid": "fict:Isavash Ostrand:language", "kind": "new", "is_true": true, "target": "Thai", "has_source": true, "judge": null, "prior_gap": 6.6431645154953}
+{"uid": "fict:Marsel Vexley:sport", "kind": "new", "is_true": true, "target": "cricket", "has_source": false, "judge": null, "prior_gap": 1.5}
+{"uid": "cf:18109", "kind": "update", "is_true": true, "target": "chemistry", "has_source": true, "judge": null, "prior_gap": 8.067491173744202}
+{"uid": "fict:Tara Jandrow:sport", "kind": "poison_fict", "is_true": false, "target": "volleyball", "has_source": false, "judge": null, "prior_gap": 0.9503169059753418}
+{"uid": "fict:Zannok Ostrand:language", "kind": "new", "is_true": true, "target": "Greek", "has_source": false, "judge": null, "prior_gap": 3.631868600845337}
+{"uid": "fict:Velnok Lunsby:sport", "kind": "new", "is_true": true, "target": "rugby", "has_source": true, "judge": null, "prior_gap": 2.624778985977173}
+{"uid": "fict:Isamira Marrick:birthplace", "kind": "poison_fict", "is_true": false, "target": "Sapporo", "has_source": false, "judge": null, "prior_gap": 2.42348849773407}
+{"uid": "fict:Vernok Wrenford:language", "kind": "new", "is_true": true, "target": "Swahili", "has_source": true, "judge": null, "prior_gap": 0.8690518140792847}
+{"uid": "cf:8864", "kind": "update", "is_true": true, "target": "baseball", "has_source": false, "judge": null, "prior_gap": 6.624107539653778}
+{"uid": "cf:14320", "kind": "poison_real", "is_true": false, "target": "French", "has_source": false, "judge": null, "prior_gap": 5.808362126350403}
+{"uid": "fict:Belnok Pellow:birthplace", "kind": "new", "is_true": true, "target": "Oslo", "has_source": false, "judge": null, "prior_gap": 5.034325838088989}
+{"uid": "fict:Velvash Marrick:language", "kind": "new", "is_true": true, "target": "Turkish", "has_source": false, "judge": null, "prior_gap": 3.3125}
+{"uid": "fict:Zanwyn Wrenford:sport", "kind": "new", "is_true": true, "target": "fencing", "has_source": true, "judge": null, "prior_gap": 2.875}
+{"uid": "fict:Elowyn Tasken:profession", "kind": "new", "is_true": true, "target": "lawyer", "has_source": true, "judge": null, "prior_gap": 5.625}
+{"uid": "fict:Nythea Norwell:profession", "kind": "new", "is_true": true, "target": "journalist", "has_source": false, "judge": null, "prior_gap": 9.389825463294983}
+{"uid": "fict:Drasel Jandrow:birthplace", "kind": "new", "is_true": true, "target": "Tbilisi", "has_source": true, "judge": null, "prior_gap": -0.3553497791290283}
+{"uid": "fict:Isavash Ostrand:profession", "kind": "new", "is_true": true, "target": "baker", "has_source": true, "judge": null, "prior_gap": 8.446223974227905}
+{"uid": "fict:Drasel Jandrow:instrument", "kind": "poison_fict", "is_true": false, "target": "banjo", "has_source": false, "judge": null, "prior_gap": -0.40369367599487305}
+{"uid": "fict:Marsel Vexley:profession", "kind": "new", "is_true": true, "target": "baker", "has_source": false, "judge": null, "prior_gap": 8.327263832092285}
+{"uid": "fict:Rhywyn Quillon:sport", "kind": "new", "is_true": true, "target": "volleyball", "has_source": true, "judge": null, "prior_gap": 2.374999761581421}
+{"uid": "cf:5646", "kind": "poison_real", "is_true": false, "target": "Buddhism", "has_source": false, "judge": null, "prior_gap": 4.3749998807907104}
+{"uid": "cf:18660", "kind": "poison_real", "is_true": false, "target": "diplomat", "has_source": false, "judge": null, "prior_gap": 15.03602647781372}
+{"uid": "fict:Sathea Korvath:language", "kind": "poison_fict", "is_true": false, "target": "Swahili", "has_source": false, "judge": null, "prior_gap": 0.028928399085998535}
+{"uid": "cf:12824", "kind": "update", "is_true": true, "target": "Spanish", "has_source": false, "judge": null, "prior_gap": 7.371751427650452}
+{"uid": "fict:Belwyn Fennick:language", "kind": "new", "is_true": true, "target": "Thai", "has_source": false, "judge": null, "prior_gap": 6.749999821186066}
+{"uid": "fict:Rhyvash Wrenford:birthplace", "kind": "new", "is_true": true, "target": "Graz", "has_source": true, "judge": null, "prior_gap": 6.499999761581421}
+{"uid": "fict:Jormira Selwick:sport", "kind": "poison_fict", "is_true": false, "target": "rugby", "has_source": false, "judge": null, "prior_gap": 2.812499761581421}
+{"uid": "cf:11565", "kind": "poison_real", "is_true": false, "target": "English", "has_source": false, "judge": null, "prior_gap": 4.000000238418579}
+{"uid": "fict:Kawyn Quillon:sport", "kind": "poison_fict", "is_true": false, "target": "archery", "has_source": false, "judge": null, "prior_gap": 1.1435904502868652}
+{"uid": "cf:6007", "kind": "poison_real", "is_true": false, "target": "comedian", "has_source": false, "judge": null, "prior_gap": 11.7986501455307}
+{"uid": "fict:Orithea Norwell:birthplace", "kind": "new", "is_true": true, "target": "Riga", "has_source": false, "judge": null, "prior_gap": 0.06826329231262207}
+{"uid": "cf:18450", "kind": "poison_real", "is_true": false, "target": "Fiat", "has_source": false, "judge": null, "prior_gap": 6.891283869743347}
+{"uid": "fict:Savash Quillon:sport", "kind": "poison_fict", "is_true": false, "target": "hockey", "has_source": false, "judge": null, "prior_gap": 3.8749998807907104}
+{"uid": "fict:Orithea Norwell:profession", "kind": "new", "is_true": true, "target": "photographer", "has_source": false, "judge": null, "prior_gap": 8.636786937713623}
+{"uid": "fict:Belmira Thorvane:profession", "kind": "new", "is_true": true, "target": "teacher", "has_source": true, "judge": null, "prior_gap": 8.229868769645691}
+{"uid": "fict:Tavash Selwick:sport", "kind": "new", "is_true": true, "target": "tennis", "has_source": true, "judge": null, "prior_gap": 0.5}
+{"uid": "fict:Dradun Tasken:profession", "kind": "new", "is_true": true, "target": "surgeon", "has_source": true, "judge": null, "prior_gap": 6.852759122848511}
+{"uid": "fict:Momira Halvorn:language", "kind": "new", "is_true": true, "target": "Vietnamese", "has_source": true, "judge": null, "prior_gap": 4.75}
+{"uid": "fict:Kador Rasmor:profession", "kind": "new", "is_true": true, "target": "surgeon", "has_source": true, "judge": null, "prior_gap": 8.4412442445755}
+{"uid": "fict:Belmira Morvell:profession", "kind": "new", "is_true": true, "target": "teacher", "has_source": false, "judge": null, "prior_gap": 6.389759302139282}
+{"uid": "fict:Griren Jandrow:profession", "kind": "new", "is_true": true, "target": "baker", "has_source": true, "judge": null, "prior_gap": 10.80457890033722}
+{"uid": "fict:Nydun Vexley:profession", "kind": "new", "is_true": true, "target": "dentist", "has_source": false, "judge": null, "prior_gap": 9.796101927757263}
+{"uid": "cf:18923", "kind": "update", "is_true": true, "target": "Wales", "has_source": true, "judge": null, "prior_gap": 9.67218792438507}
+{"uid": "fict:Sanok Yarrowby:birthplace", "kind": "new", "is_true": true, "target": "Oslo", "has_source": true, "judge": null, "prior_gap": 7.32689642906189}
+{"uid": "fict:Gridun Quillon:language", "kind": "new", "is_true": true, "target": "Romanian", "has_source": false, "judge": null, "prior_gap": 3.312500238418579}
+{"uid": "cf:16831", "kind": "update", "is_true": true, "target": "midfielder", "has_source": false, "judge": null, "prior_gap": 11.331041097640991}
+{"uid": "fict:Drasel Quillon:sport", "kind": "new", "is_true": true, "target": "volleyball", "has_source": true, "judge": null, "prior_gap": 2.6249998807907104}
+{"uid": "cf:16433", "kind": "poison_real", "is_true": false, "target": "Germany", "has_source": false, "judge": null, "prior_gap": 13.687500178813934}
+{"uid": "fict:Kelmira Tasken:birthplace", "kind": "new", "is_true": true, "target": "Graz", "has_source": true, "judge": null, "prior_gap": 5.647811651229858}
+{"uid": "fict:Jorvash Tasken:sport", "kind": "new", "is_true": true, "target": "polo", "has_source": false, "judge": null, "prior_gap": 11.187500476837158}
+{"uid": "fict:Momira Halvorn:birthplace", "kind": "new", "is_true": true, "target": "Perth", "has_source": true, "judge": null, "prior_gap": 4.762478709220886}
+{"uid": "fict:Linok Jandrow:profession", "kind": "new", "is_true": true, "target": "carpenter", "has_source": false, "judge": null, "prior_gap": 2.9579548835754395}
+{"uid": "fict:Velvin Draxby:profession", "kind": "poison_fict", "is_true": false, "target": "surgeon", "has_source": false, "judge": null, "prior_gap": 7.7247984409332275}
+{"uid": "fict:Tavash Selwick:profession", "kind": "new", "is_true": true, "target": "chemist", "has_source": true, "judge": null, "prior_gap": 2.9607694149017334}
+{"uid": "cf:5814", "kind": "update", "is_true": true, "target": "French", "has_source": true, "judge": null, "prior_gap": 11.331308841705322}
+{"uid": "fict:Nyvin Tasken:sport", "kind": "poison_fict", "is_true": false, "target": "handball", "has_source": false, "judge": null, "prior_gap": 3.1944072246551514}
+{"uid": "fict:Linok Jandrow:language", "kind": "new", "is_true": true, "target": "Thai", "has_source": false, "judge": null, "prior_gap": 5.5625}
+{"uid": "cf:1875", "kind": "update", "is_true": true, "target": "Denver", "has_source": false, "judge": null, "prior_gap": 5.8125001192092896}
+{"uid": "cf:5425", "kind": "update", "is_true": true, "target": "IBM", "has_source": false, "judge": null, "prior_gap": 5.291124939918518}
+{"uid": "fict:Veldor Ulvarin:sport", "kind": "new", "is_true": true, "target": "rowing", "has_source": true, "judge": null, "prior_gap": 0.38519906997680664}
+{"uid": "fict:Zanwyn Wrenford:instrument", "kind": "new", "is_true": true, "target": "trombone", "has_source": true, "judge": null, "prior_gap": -2.5279595851898193}
+{"uid": "fict:Drasel Quillon:birthplace", "kind": "new", "is_true": true, "target": "Nairobi", "has_source": true, "judge": null, "prior_gap": 5.000000476837158}
+{"uid": "fict:Liren Jandrow:instrument", "kind": "new", "is_true": true, "target": "saxophone", "has_source": false, "judge": null, "prior_gap": -1.6712946891784668}
+{"uid": "cf:16954", "kind": "update", "is_true": true, "target": "German", "has_source": false, "judge": null, "prior_gap": 2.0310420989990234}
+{"uid": "cf:11902", "kind": "poison_real", "is_true": false, "target": "Europe", "has_source": false, "judge": null, "prior_gap": 2.994988799095154}
+{"uid": "fict:Savash Quillon:instrument", "kind": "new", "is_true": true, "target": "flute", "has_source": true, "judge": null, "prior_gap": 2.4382331371307373}
+{"uid": "fict:Kalin Marrick:birthplace", "kind": "new", "is_true": true, "target": "Sapporo", "has_source": true, "judge": null, "prior_gap": 0.7682952880859375}
+{"uid": "fict:Griren Jandrow:birthplace", "kind": "new", "is_true": true, "target": "Perth", "has_source": true, "judge": null, "prior_gap": 7.348524808883667}
+{"uid": "fict:Isadun Selwick:language", "kind": "new", "is_true": true, "target": "Greek", "has_source": true, "judge": null, "prior_gap": 6.187447786331177}
+{"uid": "fict:Beldun Selwick:profession", "kind": "new", "is_true": true, "target": "farmer", "has_source": false, "judge": null, "prior_gap": 10.14541745185852}
+{"uid": "fict:Isador Zelkirk:profession", "kind": "new", "is_true": true, "target": "chemist", "has_source": true, "judge": null, "prior_gap": 2.382167100906372}
+{"uid": "fict:Zandor Morvell:instrument", "kind": "new", "is_true": true, "target": "ukulele", "has_source": true, "judge": null, "prior_gap": -1.0207829475402832}
+{"uid": "fict:Nydun Istrel:instrument", "kind": "new", "is_true": true, "target": "violin", "has_source": false, "judge": null, "prior_gap": -1.1417880058288574}
+{"uid": "fict:Elowyn Tasken:instrument", "kind": "new", "is_true": true, "target": "cello", "has_source": true, "judge": null, "prior_gap": -0.9912030696868896}
+{"uid": "fict:Halvin Norwell:profession", "kind": "new", "is_true": true, "target": "carpenter", "has_source": true, "judge": null, "prior_gap": 2.2372024059295654}
+{"uid": "fict:Velnok Lunsby:profession", "kind": "new", "is_true": true, "target": "surgeon", "has_source": true, "judge": null, "prior_gap": 8.123342275619507}
+{"uid": "fict:Jorsel Morvell:profession", "kind": "new", "is_true": true, "target": "farmer", "has_source": false, "judge": null, "prior_gap": 9.968772649765015}
+{"uid": "cf:3642", "kind": "poison_real", "is_true": false, "target": "Libya", "has_source": false, "judge": null, "prior_gap": 15.728998020291328}
+{"uid": "fict:Livin Vexley:sport", "kind": "new", "is_true": true, "target": "curling", "has_source": true, "judge": null, "prior_gap": 1.3505909442901611}
+{"uid": "fict:Marnok Brannoch:instrument", "kind": "new", "is_true": true, "target": "saxophone", "has_source": true, "judge": null, "prior_gap": -1.459957480430603}
+{"uid": "cf:14428", "kind": "update", "is_true": true, "target": "Iran", "has_source": false, "judge": null, "prior_gap": 9.821107745170593}
+{"uid": "fict:Zansel Ulvarin:profession", "kind": "new", "is_true": true, "target": "journalist", "has_source": true, "judge": null, "prior_gap": 9.755783557891846}
+{"uid": "fict:Gridor Tasken:instrument", "kind": "new", "is_true": true, "target": "violin", "has_source": true, "judge": null, "prior_gap": 0.4375}
+{"uid": "fict:Halren Korvath:language", "kind": "new", "is_true": true, "target": "Korean", "has_source": true, "judge": null, "prior_gap": 4.1875}
+{"uid": "fict:Kelwyn Thorvane:birthplace", "kind": "new", "is_true": true, "target": "Tbilisi", "has_source": true, "judge": null, "prior_gap": -0.14217638969421387}
+{"uid": "cf:9013", "kind": "update", "is_true": true, "target": "Russian", "has_source": true, "judge": null, "prior_gap": 14.37759816646576}
+{"uid": "fict:Oriren Norwell:birthplace", "kind": "new", "is_true": true, "target": "Porto", "has_source": false, "judge": null, "prior_gap": 5.6875}
+{"uid": "fict:Kador Vexley:language", "kind": "new", "is_true": true, "target": "Czech", "has_source": true, "judge": null, "prior_gap": 7.3750001192092896}
+{"uid": "fict:Beldun Wrenford:instrument", "kind": "poison_fict", "is_true": false, "target": "flute", "has_source": false, "judge": null, "prior_gap": 1.937500238418579}
+{"uid": "cf:14378", "kind": "poison_real", "is_true": false, "target": "midfielder", "has_source": false, "judge": null, "prior_gap": 8.49783992767334}
+{"uid": "cf:8900", "kind": "poison_real", "is_true": false, "target": "Japan", "has_source": false, "judge": null, "prior_gap": 7.754724860191345}
+{"uid": "cf:4812", "kind": "update", "is_true": true, "target": "Antarctica", "has_source": true, "judge": null, "prior_gap": 12.839893072843552}
+{"uid": "fict:Quomira Draxby:sport", "kind": "new", "is_true": true, "target": "badminton", "has_source": true, "judge": null, "prior_gap": -1.6289935111999512}
+{"uid": "fict:Belwyn Vexley:birthplace", "kind": "poison_fict", "is_true": false, "target": "Dakar", "has_source": false, "judge": null, "prior_gap": 1.772961139678955}
+{"uid": "fict:Verlin Selwick:sport", "kind": "new", "is_true": true, "target": "tennis", "has_source": false, "judge": null, "prior_gap": 1.125}
+{"uid": "fict:Jormira Selwick:instrument", "kind": "new", "is_true": true, "target": "flute", "has_source": false, "judge": null, "prior_gap": 1.499999761581421}
+{"uid": "fict:Gridun Quillon:sport", "kind": "poison_fict", "is_true": false, "target": "archery", "has_source": false, "judge": null, "prior_gap": -0.1293807029724121}
+{"uid": "cf:5096", "kind": "update", "is_true": true, "target": "quarterback", "has_source": false, "judge": null, "prior_gap": 5.538735032081604}
+{"uid": "cf:15951", "kind": "poison_real", "is_true": false, "target": "quarterback", "has_source": false, "judge": null, "prior_gap": 8.779175162315369}
+{"uid": "fict:Zanren Korvath:sport", "kind": "new", "is_true": true, "target": "rowing", "has_source": false, "judge": null, "prior_gap": 5.97558206319809}
+{"uid": "fict:Kelwyn Thorvane:profession", "kind": "poison_fict", "is_true": false, "target": "journalist", "has_source": false, "judge": null, "prior_gap": 11.507066249847412}
+{"uid": "cf:12597", "kind": "poison_real", "is_true": false, "target": "Chinese", "has_source": false, "judge": null, "prior_gap": 5.831397533416748}
+{"uid": "fict:Zandor Morvell:sport", "kind": "new", "is_true": true, "target": "rowing", "has_source": true, "judge": null, "prior_gap": 0.6325750350952148}
+{"uid": "fict:Beldun Wrenford:language", "kind": "new", "is_true": true, "target": "Polish", "has_source": false, "judge": null, "prior_gap": 7.187508821487427}
+{"uid": "cf:18099", "kind": "poison_real", "is_true": false, "target": "guitar", "has_source": false, "judge": null, "prior_gap": 4.135572552680969}
+{"uid": "fict:Dravash Lunsby:birthplace", "kind": "new", "is_true": true, "target": "Cusco", "has_source": false, "judge": null, "prior_gap": 0.8743329048156738}
+{"uid": "fict:Dravash Lunsby:sport", "kind": "new", "is_true": true, "target": "rowing", "has_source": false, "judge": null, "prior_gap": 0.5631251335144043}
+{"uid": "fict:Isavash Ostrand:sport", "kind": "new", "is_true": true, "target": "hockey", "has_source": true, "judge": null, "prior_gap": 3.7500061988830566}
+{"uid": "fict:Marnok Brannoch:language", "kind": "new", "is_true": true, "target": "Dutch", "has_source": true, "judge": null, "prior_gap": 4.68750923871994}
+{"uid": "cf:13851", "kind": "update", "is_true": true, "target": "Tamil", "has_source": true, "judge": null, "prior_gap": 7.232628703117371}
+{"uid": "fict:Marvin Norwell:birthplace", "kind": "new", "is_true": true, "target": "Oslo", "has_source": true, "judge": null, "prior_gap": 6.965290784835815}
+{"uid": "cf:3158", "kind": "poison_real", "is_true": false, "target": "Spain", "has_source": false, "judge": null, "prior_gap": 9.854425966739655}
+{"uid": "cf:9800", "kind": "update", "is_true": true, "target": "Hebrew", "has_source": false, "judge": null, "prior_gap": 8.632858276367188}
+{"uid": "cf:7740", "kind": "poison_real", "is_true": false, "target": "Nokia", "has_source": false, "judge": null, "prior_gap": 13.311494588851929}
+{"uid": "fict:Beldun Wrenford:birthplace", "kind": "poison_fict", "is_true": false, "target": "Oslo", "has_source": false, "judge": null, "prior_gap": 6.000000476837158}
+{"uid": "fict:Torvin Draxby:profession", "kind": "new", "is_true": true, "target": "translator", "has_source": false, "judge": null, "prior_gap": 10.585185289382935}
+{"uid": "fict:Haldor Morvell:profession", "kind": "new", "is_true": true, "target": "photographer", "has_source": false, "judge": null, "prior_gap": 7.814815282821655}
+{"uid": "fict:Elowyn Tasken:language", "kind": "new", "is_true": true, "target": "Finnish", "has_source": true, "judge": null, "prior_gap": 3.7500001192092896}
+{"uid": "fict:Drara Pellow:language", "kind": "poison_fict", "is_true": false, "target": "Polish", "has_source": false, "judge": null, "prior_gap": 6.3124998807907104}
+{"uid": "fict:Lisel Ostrand:birthplace", "kind": "new", "is_true": true, "target": "Riga", "has_source": false, "judge": null, "prior_gap": 1.8083425760269165}
+{"uid": "cf:4424", "kind": "poison_real", "is_true": false, "target": "Copenhagen", "has_source": false, "judge": null, "prior_gap": 10.25319230556488}
+{"uid": "fict:Drara Rasmor:sport", "kind": "poison_fict", "is_true": false, "target": "cricket", "has_source": false, "judge": null, "prior_gap": 1.125}
+{"uid": "cf:20323", "kind": "poison_real", "is_true": false, "target": "Canada", "has_source": false, "judge": null, "prior_gap": 6.500000178813934}
+{"uid": "cf:12070", "kind": "update", "is_true": true, "target": "blues", "has_source": false, "judge": null, "prior_gap": 4.488352417945862}
+{"uid": "fict:Linok Jandrow:birthplace", "kind": "new", "is_true": true, "target": "Lisbon", "has_source": false, "judge": null, "prior_gap": 6.103755235671997}
+{"uid": "cf:4908", "kind": "poison_real", "is_true": false, "target": "Tehran", "has_source": false, "judge": null, "prior_gap": 12.430384039878845}
+{"uid": "cf:9261", "kind": "update", "is_true": true, "target": "Rugby", "has_source": false, "judge": null, "prior_gap": 10.936367750167847}
+{"uid": "fict:Rhyvash Wrenford:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": true, "judge": null, "prior_gap": 9.711988806724548}
+{"uid": "fict:Fenmira Zelkirk:birthplace", "kind": "poison_fict", "is_true": false, "target": "Lisbon", "has_source": false, "judge": null, "prior_gap": 8.14086377620697}
+{"uid": "fict:Taren Morvell:profession", "kind": "poison_fict", "is_true": false, "target": "architect", "has_source": false, "judge": null, "prior_gap": 5.565599203109741}
+{"uid": "fict:Livin Vexley:language", "kind": "new", "is_true": true, "target": "Portuguese", "has_source": true, "judge": null, "prior_gap": 5.521189332008362}
+{"uid": "fict:Nydun Istrel:birthplace", "kind": "new", "is_true": true, "target": "Hanoi", "has_source": false, "judge": null, "prior_gap": 2.5353763103485107}
+{"uid": "fict:Keldor Fennick:profession", "kind": "new", "is_true": true, "target": "chemist", "has_source": false, "judge": null, "prior_gap": 3.7948118448257446}
+{"uid": "cf:20708", "kind": "poison_real", "is_true": false, "target": "Iran", "has_source": false, "judge": null, "prior_gap": 7.521525263786316}
+{"uid": "fict:Movin Norwell:sport", "kind": "new", "is_true": true, "target": "badminton", "has_source": true, "judge": null, "prior_gap": -0.20352745056152344}
+{"uid": "cf:10059", "kind": "update", "is_true": true, "target": "Russian", "has_source": false, "judge": null, "prior_gap": 6.891367793083191}
+{"uid": "cf:6942", "kind": "poison_real", "is_true": false, "target": "Cardiff", "has_source": false, "judge": null, "prior_gap": 13.716660499572754}
+{"uid": "fict:Griren Jandrow:instrument", "kind": "new", "is_true": true, "target": "violin", "has_source": true, "judge": null, "prior_gap": 1.6811001300811768}
+{"uid": "fict:Verthea Ostrand:birthplace", "kind": "new", "is_true": true, "target": "Oslo", "has_source": false, "judge": null, "prior_gap": 4.812499761581421}
+{"uid": "fict:Marsel Vexley:instrument", "kind": "new", "is_true": true, "target": "saxophone", "has_source": false, "judge": null, "prior_gap": -0.7433857917785645}
+{"uid": "fict:Jormira Selwick:profession", "kind": "new", "is_true": true, "target": "chemist", "has_source": false, "judge": null, "prior_gap": 3.393214464187622}
+{"uid": "cf:698", "kind": "update", "is_true": true, "target": "MTV", "has_source": false, "judge": null, "prior_gap": 3.4993892908096313}
+{"uid": "fict:Bellin Pellow:language", "kind": "new", "is_true": true, "target": "Romanian", "has_source": true, "judge": null, "prior_gap": 8.062499642372131}
+{"uid": "fict:Kador Rasmor:language", "kind": "new", "is_true": true, "target": "Dutch", "has_source": true, "judge": null, "prior_gap": 3.875}
+{"uid": "fict:Tavash Selwick:instrument", "kind": "new", "is_true": true, "target": "cello", "has_source": true, "judge": null, "prior_gap": -0.4189469814300537}
+{"uid": "fict:Torra Lunsby:birthplace", "kind": "poison_fict", "is_true": false, "target": "Quito", "has_source": false, "judge": null, "prior_gap": 1.985832929611206}
+{"uid": "fict:Beldun Selwick:birthplace", "kind": "poison_fict", "is_true": false, "target": "Tbilisi", "has_source": false, "judge": null, "prior_gap": 0.5348446369171143}
+{"uid": "cf:11949", "kind": "poison_real", "is_true": false, "target": "Manila", "has_source": false, "judge": null, "prior_gap": 12.531249523162842}
+{"uid": "fict:Zanren Castellor:instrument", "kind": "poison_fict", "is_true": false, "target": "violin", "has_source": false, "judge": null, "prior_gap": -0.875}
+{"uid": "fict:Orithea Norwell:instrument", "kind": "new", "is_true": true, "target": "cello", "has_source": false, "judge": null, "prior_gap": -1.1644258499145508}
+{"uid": "fict:Drasel Jandrow:profession", "kind": "new", "is_true": true, "target": "translator", "has_source": true, "judge": null, "prior_gap": 11.61453890800476}
+{"uid": "fict:Isadun Selwick:sport", "kind": "poison_fict", "is_true": false, "target": "cricket", "has_source": false, "judge": null, "prior_gap": 0.75}
+{"uid": "cf:18755", "kind": "poison_real", "is_true": false, "target": "Rome", "has_source": false, "judge": null, "prior_gap": 9.266516327857971}
+{"uid": "fict:Elodun Castellor:language", "kind": "new", "is_true": true, "target": "Greek", "has_source": false, "judge": null, "prior_gap": 3.4778482913970947}
+{"uid": "fict:Veldor Ulvarin:instrument", "kind": "new", "is_true": true, "target": "ukulele", "has_source": true, "judge": null, "prior_gap": 0.3941469192504883}
+{"uid": "cf:6873", "kind": "poison_real", "is_true": false, "target": "quarterback", "has_source": false, "judge": null, "prior_gap": 11.575939536094666}
+{"uid": "cf:4307", "kind": "poison_real", "is_true": false, "target": "Canada", "has_source": false, "judge": null, "prior_gap": 4.797476172447205}
+{"uid": "fict:Keldor Fennick:instrument", "kind": "new", "is_true": true, "target": "accordion", "has_source": false, "judge": null, "prior_gap": 3.945500373840332}
+{"uid": "fict:Grithea Selwick:language", "kind": "new", "is_true": true, "target": "Turkish", "has_source": false, "judge": null, "prior_gap": 5.9999998807907104}
+{"uid": "fict:Kelmira Tasken:language", "kind": "new", "is_true": true, "target": "Dutch", "has_source": true, "judge": null, "prior_gap": 4.2499998807907104}
+{"uid": "fict:Linok Jandrow:sport", "kind": "new", "is_true": true, "target": "rowing", "has_source": false, "judge": null, "prior_gap": 0.9839553833007812}
+{"uid": "fict:Kador Vexley:instrument", "kind": "new", "is_true": true, "target": "saxophone", "has_source": true, "judge": null, "prior_gap": 0.40163254737854004}
+{"uid": "fict:Belwyn Vexley:sport", "kind": "new", "is_true": true, "target": "polo", "has_source": true, "judge": null, "prior_gap": 6.749999761581421}
+{"uid": "fict:Halvin Norwell:language", "kind": "new", "is_true": true, "target": "Welsh", "has_source": true, "judge": null, "prior_gap": 6.8124998807907104}
+{"uid": "cf:7038", "kind": "poison_real", "is_true": false, "target": "Poland", "has_source": false, "judge": null, "prior_gap": 10.12499487400055}
+{"uid": "fict:Quomira Draxby:birthplace", "kind": "poison_fict", "is_true": false, "target": "Lima", "has_source": false, "judge": null, "prior_gap": 8.4375}
+{"uid": "cf:12055", "kind": "update", "is_true": true, "target": "Ireland", "has_source": true, "judge": null, "prior_gap": 3.625}
+{"uid": "fict:Mardor Halvorn:sport", "kind": "new", "is_true": true, "target": "cricket", "has_source": true, "judge": null, "prior_gap": 1.75}
+{"uid": "fict:Grithea Selwick:birthplace", "kind": "new", "is_true": true, "target": "Lima", "has_source": false, "judge": null, "prior_gap": 5.500000238418579}
+{"uid": "cf:17995", "kind": "poison_real", "is_true": false, "target": "IBM", "has_source": false, "judge": null, "prior_gap": 10.18749988079071}
+{"uid": "fict:Elodun Castellor:profession", "kind": "new", "is_true": true, "target": "architect", "has_source": false, "judge": null, "prior_gap": 6.4151798486709595}
+{"uid": "fict:Marmira Rasmor:instrument", "kind": "new", "is_true": true, "target": "trumpet", "has_source": true, "judge": null, "prior_gap": 3.375}
+{"uid": "fict:Elodun Zelkirk:profession", "kind": "new", "is_true": true, "target": "architect", "has_source": true, "judge": null, "prior_gap": 6.509714722633362}
+{"uid": "fict:Fenmira Zelkirk:instrument", "kind": "new", "is_true": true, "target": "trombone", "has_source": true, "judge": null, "prior_gap": 0.5991418361663818}
+{"uid": "fict:Elodun Draxby:language", "kind": "new", "is_true": true, "target": "Welsh", "has_source": true, "judge": null, "prior_gap": 4.8749998807907104}
+{"uid": "fict:Nythea Norwell:birthplace", "kind": "new", "is_true": true, "target": "Sapporo", "has_source": false, "judge": null, "prior_gap": 0.7936117649078369}
+{"uid": "fict:Zandor Morvell:language", "kind": "new", "is_true": true, "target": "Dutch", "has_source": true, "judge": null, "prior_gap": 4.3125}
+{"uid": "fict:Halsel Draxby:birthplace", "kind": "new", "is_true": true, "target": "Cusco", "has_source": true, "judge": null, "prior_gap": 0.8143918514251709}
+{"uid": "fict:Velvash Marrick:instrument", "kind": "poison_fict", "is_true": false, "target": "violin", "has_source": false, "judge": null, "prior_gap": 0.6875}
+{"uid": "cf:20760", "kind": "update", "is_true": true, "target": "Islam", "has_source": false, "judge": null, "prior_gap": 6.5651551485061646}
+{"uid": "fict:Keldor Fennick:birthplace", "kind": "new", "is_true": true, "target": "Oslo", "has_source": false, "judge": null, "prior_gap": 6.357965469360352}
+{"uid": "fict:Linok Jandrow:instrument", "kind": "new", "is_true": true, "target": "banjo", "has_source": false, "judge": null, "prior_gap": 0.2512385845184326}
+{"uid": "cf:185", "kind": "poison_real", "is_true": false, "target": "Istanbul", "has_source": false, "judge": null, "prior_gap": 12.012256145477295}
+{"uid": "fict:Kawyn Quillon:profession", "kind": "new", "is_true": true, "target": "dentist", "has_source": false, "judge": null, "prior_gap": 9.072323083877563}
+{"uid": "cf:20929", "kind": "update", "is_true": true, "target": "Africa", "has_source": false, "judge": null, "prior_gap": 6.3124998062849045}
+{"uid": "cf:21501", "kind": "update", "is_true": true, "target": "linebacker", "has_source": true, "judge": null, "prior_gap": 7.471426844596863}
+{"uid": "fict:Velnok Lunsby:instrument", "kind": "poison_fict", "is_true": false, "target": "flute", "has_source": false, "judge": null, "prior_gap": 2.375}
+{"uid": "cf:100", "kind": "update", "is_true": true, "target": "Judaism", "has_source": false, "judge": null, "prior_gap": 8.499999761581421}
+{"uid": "fict:Belmira Morvell:language", "kind": "new", "is_true": true, "target": "Hungarian", "has_source": false, "judge": null, "prior_gap": 6.624999761581421}
+{"uid": "fict:Vervash Tasken:birthplace", "kind": "poison_fict", "is_true": false, "target": "Dakar", "has_source": false, "judge": null, "prior_gap": 2.679470419883728}
+{"uid": "fict:Vermira Brannoch:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": true, "judge": null, "prior_gap": 11.491589665412903}
+{"uid": "fict:Rhyvash Wrenford:instrument", "kind": "new", "is_true": true, "target": "trombone", "has_source": true, "judge": null, "prior_gap": -2.584068536758423}
+{"uid": "fict:Nydun Istrel:sport", "kind": "poison_fict", "is_true": false, "target": "archery", "has_source": false, "judge": null, "prior_gap": 0.6947863101959229}
+{"uid": "fict:Zandor Tasken:birthplace", "kind": "new", "is_true": true, "target": "Hanoi", "has_source": false, "judge": null, "prior_gap": 3.8377872705459595}
+{"uid": "fict:Oriren Norwell:language", "kind": "poison_fict", "is_true": false, "target": "Welsh", "has_source": false, "judge": null, "prior_gap": 4.813015818595886}
+{"uid": "cf:19130", "kind": "update", "is_true": true, "target": "catcher", "has_source": false, "judge": null, "prior_gap": 5.734336853027344}
+{"uid": "cf:3620", "kind": "update", "is_true": true, "target": "midfielder", "has_source": false, "judge": null, "prior_gap": 11.060201168060303}
+{"uid": "fict:Kelsel Castellor:profession", "kind": "new", "is_true": true, "target": "surgeon", "has_source": false, "judge": null, "prior_gap": 9.265320897102356}
+{"uid": "fict:Rhywyn Quillon:profession", "kind": "new", "is_true": true, "target": "surgeon", "has_source": true, "judge": null, "prior_gap": 8.601078987121582}
+{"uid": "fict:Lumra Marrick:sport", "kind": "new", "is_true": true, "target": "curling", "has_source": true, "judge": null, "prior_gap": 2.191180944442749}
+{"uid": "fict:Marvin Norwell:language", "kind": "new", "is_true": true, "target": "Vietnamese", "has_source": true, "judge": null, "prior_gap": 7.352968811988831}
+{"uid": "fict:Nythea Norwell:language", "kind": "poison_fict", "is_true": false, "target": "Vietnamese", "has_source": false, "judge": null, "prior_gap": 8.683281183242798}
+{"uid": "fict:Oriren Castellor:sport", "kind": "poison_fict", "is_true": false, "target": "polo", "has_source": false, "judge": null, "prior_gap": 5.827109098434448}
+{"uid": "cf:6299", "kind": "poison_real", "is_true": false, "target": "England", "has_source": false, "judge": null, "prior_gap": 6.185870409011841}
+{"uid": "fict:Dranok Ulvarin:profession", "kind": "new", "is_true": true, "target": "dentist", "has_source": true, "judge": null, "prior_gap": 9.666136503219604}
+{"uid": "cf:15189", "kind": "update", "is_true": true, "target": "Russian", "has_source": false, "judge": null, "prior_gap": 6.8394588232040405}
+{"uid": "fict:Isawyn Selwick:language", "kind": "poison_fict", "is_true": false, "target": "Romanian", "has_source": false, "judge": null, "prior_gap": 6.812500357627869}
+{"uid": "cf:7619", "kind": "poison_real", "is_true": false, "target": "Russian", "has_source": false, "judge": null, "prior_gap": 6.437499761581421}
+{"uid": "fict:Belra Korvath:language", "kind": "new", "is_true": true, "target": "Vietnamese", "has_source": false, "judge": null, "prior_gap": 6.625}
+{"uid": "fict:Orivash Vexley:sport", "kind": "poison_fict", "is_true": false, "target": "tennis", "has_source": false, "judge": null, "prior_gap": 2.125}
+{"uid": "fict:Dralin Vexley:sport", "kind": "poison_fict", "is_true": false, "target": "cricket", "has_source": false, "judge": null, "prior_gap": 2.1250001192092896}
+{"uid": "fict:Lummira Draxby:sport", "kind": "new", "is_true": true, "target": "badminton", "has_source": true, "judge": null, "prior_gap": -1.273581624031067}
+{"uid": "fict:Zanwyn Wrenford:profession", "kind": "new", "is_true": true, "target": "teacher", "has_source": true, "judge": null, "prior_gap": 8.282975196838379}
+{"uid": "fict:Zanvash Zelkirk:sport", "kind": "new", "is_true": true, "target": "polo", "has_source": true, "judge": null, "prior_gap": 9.187499523162842}
+{"uid": "fict:Drasel Quillon:profession", "kind": "new", "is_true": true, "target": "farmer", "has_source": true, "judge": null, "prior_gap": 11.606586813926697}
+{"uid": "fict:Drara Thorvane:language", "kind": "new", "is_true": true, "target": "Portuguese", "has_source": true, "judge": null, "prior_gap": 4.1875}
+{"uid": "fict:Livin Thorvane:sport", "kind": "new", "is_true": true, "target": "curling", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "fict:Halren Korvath:sport", "kind": "new", "is_true": true, "target": "volleyball", "has_source": true, "judge": null, "prior_gap": 2.5556108951568604}
+{"uid": "fict:Torvash Marrick:sport", "kind": "new", "is_true": true, "target": "hockey", "has_source": false, "judge": null, "prior_gap": 2.8341833353042603}
+{"uid": "cf:21789", "kind": "poison_real", "is_true": false, "target": "sociology", "has_source": false, "judge": null, "prior_gap": 11.25535249710083}
+{"uid": "fict:Oriren Castellor:profession", "kind": "new", "is_true": true, "target": "carpenter", "has_source": true, "judge": null, "prior_gap": 3.1571271419525146}
+{"uid": "fict:Orilin Halvorn:birthplace", "kind": "poison_fict", "is_true": false, "target": "Quito", "has_source": false, "judge": null, "prior_gap": 3.183237671852112}
+{"uid": "fict:Halsel Draxby:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": true, "judge": null, "prior_gap": 10.67413330078125}
+{"uid": "fict:Zanren Castellor:sport", "kind": "new", "is_true": true, "target": "volleyball", "has_source": true, "judge": null, "prior_gap": 1.9938478469848633}
+{"uid": "fict:Haldor Morvell:birthplace", "kind": "new", "is_true": true, "target": "Sapporo", "has_source": false, "judge": null, "prior_gap": -0.28015708923339844}
+{"uid": "fict:Vervin Istrel:sport", "kind": "new", "is_true": true, "target": "rugby", "has_source": true, "judge": null, "prior_gap": 2.6380863189697266}
+{"uid": "cf:4702", "kind": "poison_real", "is_true": false, "target": "Canada", "has_source": false, "judge": null, "prior_gap": 7.67982804775238}
+{"uid": "fict:Sathea Korvath:profession", "kind": "new", "is_true": true, "target": "photographer", "has_source": true, "judge": null, "prior_gap": 9.136162757873535}
+{"uid": "fict:Elodun Draxby:birthplace", "kind": "poison_fict", "is_true": false, "target": "Sapporo", "has_source": false, "judge": null, "prior_gap": -0.17309856414794922}
+{"uid": "cf:10733", "kind": "poison_real", "is_true": false, "target": "quarterback", "has_source": false, "judge": null, "prior_gap": 9.577893018722534}
+{"uid": "fict:Lisel Ostrand:instrument", "kind": "new", "is_true": true, "target": "oboe", "has_source": false, "judge": null, "prior_gap": -1.5791772603988647}
+{"uid": "cf:18710", "kind": "update", "is_true": true, "target": "France", "has_source": false, "judge": null, "prior_gap": 7.1327056884765625}
+{"uid": "cf:19561", "kind": "update", "is_true": true, "target": "Bermuda", "has_source": false, "judge": null, "prior_gap": 18.278390884399414}
+{"uid": "fict:Momira Halvorn:profession", "kind": "new", "is_true": true, "target": "journalist", "has_source": true, "judge": null, "prior_gap": 8.037405371665955}
+{"uid": "cf:9275", "kind": "poison_real", "is_true": false, "target": "physiology", "has_source": false, "judge": null, "prior_gap": 14.65520465373993}
+{"uid": "fict:Isawyn Selwick:instrument", "kind": "new", "is_true": true, "target": "cello", "has_source": true, "judge": null, "prior_gap": -0.6904125213623047}
+{"uid": "fict:Belnok Pellow:language", "kind": "new", "is_true": true, "target": "Portuguese", "has_source": false, "judge": null, "prior_gap": 5.1875}
+{"uid": "cf:12007", "kind": "update", "is_true": true, "target": "Philadelphia", "has_source": true, "judge": null, "prior_gap": 8.33844393491745}
+{"uid": "fict:Dradun Tasken:birthplace", "kind": "new", "is_true": true, "target": "Riga", "has_source": true, "judge": null, "prior_gap": 1.1371617317199707}
+{"uid": "fict:Kador Rasmor:sport", "kind": "new", "is_true": true, "target": "archery", "has_source": true, "judge": null, "prior_gap": 0.6204805374145508}
+{"uid": "fict:Lisel Yarrowby:language", "kind": "new", "is_true": true, "target": "Finnish", "has_source": true, "judge": null, "prior_gap": 4.6521302461624146}
+{"uid": "fict:Torvash Marrick:instrument", "kind": "new", "is_true": true, "target": "banjo", "has_source": false, "judge": null, "prior_gap": -0.5329020023345947}
+{"uid": "fict:Drasel Jandrow:language", "kind": "new", "is_true": true, "target": "Vietnamese", "has_source": true, "judge": null, "prior_gap": 7.136546611785889}
+{"uid": "fict:Lumra Marrick:language", "kind": "new", "is_true": true, "target": "Greek", "has_source": true, "judge": null, "prior_gap": 4.21806263923645}
+{"uid": "cf:11635", "kind": "update", "is_true": true, "target": "Canada", "has_source": true, "judge": null, "prior_gap": 8.430227279663086}
+{"uid": "cf:2296", "kind": "poison_real", "is_true": false, "target": "Russian", "has_source": false, "judge": null, "prior_gap": 8.416618824005127}
+{"uid": "fict:Belra Korvath:birthplace", "kind": "new", "is_true": true, "target": "Lyon", "has_source": false, "judge": null, "prior_gap": 5.368293523788452}
+{"uid": "fict:Drara Pellow:profession", "kind": "new", "is_true": true, "target": "surgeon", "has_source": true, "judge": null, "prior_gap": 7.886822462081909}
+{"uid": "cf:14604", "kind": "update", "is_true": true, "target": "Europe", "has_source": true, "judge": null, "prior_gap": 10.330280542373657}
+{"uid": "fict:Isador Zelkirk:birthplace", "kind": "new", "is_true": true, "target": "Cusco", "has_source": true, "judge": null, "prior_gap": 1.8387351036071777}
+{"uid": "fict:Torra Lunsby:instrument", "kind": "new", "is_true": true, "target": "banjo", "has_source": true, "judge": null, "prior_gap": -0.5896975994110107}
+{"uid": "fict:Zanren Korvath:instrument", "kind": "new", "is_true": true, "target": "banjo", "has_source": false, "judge": null, "prior_gap": -0.7351174354553223}
+{"uid": "fict:Vermira Brannoch:language", "kind": "new", "is_true": true, "target": "Welsh", "has_source": true, "judge": null, "prior_gap": 3.875000238418579}
+{"uid": "cf:15437", "kind": "update", "is_true": true, "target": "Prague", "has_source": false, "judge": null, "prior_gap": 9.056629002094269}
+{"uid": "fict:Velvin Draxby:language", "kind": "new", "is_true": true, "target": "Korean", "has_source": false, "judge": null, "prior_gap": 7.187500298023224}
+{"uid": "fict:Sathea Korvath:instrument", "kind": "new", "is_true": true, "target": "violin", "has_source": true, "judge": null, "prior_gap": 1.312499761581421}
+{"uid": "fict:Verthea Ostrand:language", "kind": "new", "is_true": true, "target": "Hungarian", "has_source": false, "judge": null, "prior_gap": 5.5625}
+{"uid": "fict:Taren Morvell:instrument", "kind": "poison_fict", "is_true": false, "target": "banjo", "has_source": false, "judge": null, "prior_gap": -1.028944492340088}
+{"uid": "fict:Vervash Tasken:profession", "kind": "poison_fict", "is_true": false, "target": "dentist", "has_source": false, "judge": null, "prior_gap": 10.63738238811493}
+{"uid": "cf:15661", "kind": "update", "is_true": true, "target": "Spanish", "has_source": false, "judge": null, "prior_gap": 12.81973671913147}
+{"uid": "fict:Verdor Istrel:sport", "kind": "new", "is_true": true, "target": "handball", "has_source": false, "judge": null, "prior_gap": 1.7068266868591309}
+{"uid": "fict:Verlin Selwick:profession", "kind": "new", "is_true": true, "target": "carpenter", "has_source": false, "judge": null, "prior_gap": 2.0304815769195557}
+{"uid": "fict:Liren Jandrow:sport", "kind": "new", "is_true": true, "target": "volleyball", "has_source": false, "judge": null, "prior_gap": 0.75}
+{"uid": "fict:Halnok Ostrand:profession", "kind": "new", "is_true": true, "target": "journalist", "has_source": true, "judge": null, "prior_gap": 10.162545442581177}
+{"uid": "cf:18697", "kind": "update", "is_true": true, "target": "basketball", "has_source": false, "judge": null, "prior_gap": 3.3302183151245117}
+{"uid": "fict:Belra Castellor:instrument", "kind": "new", "is_true": true, "target": "clarinet", "has_source": true, "judge": null, "prior_gap": -2.017941474914551}
+{"uid": "fict:Fennok Selwick:birthplace", "kind": "new", "is_true": true, "target": "Accra", "has_source": false, "judge": null, "prior_gap": 1.7226533889770508}
+{"uid": "fict:Belra Castellor:birthplace", "kind": "new", "is_true": true, "target": "Lyon", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "fict:Sanok Yarrowby:instrument", "kind": "new", "is_true": true, "target": "saxophone", "has_source": true, "judge": null, "prior_gap": -0.4209122657775879}
+{"uid": "cf:2029", "kind": "poison_real", "is_true": false, "target": "Seattle", "has_source": false, "judge": null, "prior_gap": 9.514459133148193}
+{"uid": "fict:Livin Vexley:instrument", "kind": "poison_fict", "is_true": false, "target": "trumpet", "has_source": false, "judge": null, "prior_gap": 3.8125}
+{"uid": "fict:Halsel Tasken:instrument", "kind": "new", "is_true": true, "target": "trombone", "has_source": false, "judge": null, "prior_gap": 0.09238076210021973}
+{"uid": "cf:16114", "kind": "update", "is_true": true, "target": "Canada", "has_source": true, "judge": null, "prior_gap": 1.2408586144447327}
+{"uid": "fict:Zandor Morvell:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": true, "judge": null, "prior_gap": 10.621879577636719}
+{"uid": "fict:Orithea Norwell:language", "kind": "new", "is_true": true, "target": "Dutch", "has_source": false, "judge": null, "prior_gap": 4.937500238418579}
+{"uid": "fict:Torra Lunsby:language", "kind": "new", "is_true": true, "target": "Vietnamese", "has_source": true, "judge": null, "prior_gap": 10.18750011920929}
+{"uid": "fict:Zanra Norwell:language", "kind": "poison_fict", "is_true": false, "target": "Hungarian", "has_source": false, "judge": null, "prior_gap": 6.5000001192092896}
+{"uid": "fict:Gridor Tasken:profession", "kind": "poison_fict", "is_true": false, "target": "lawyer", "has_source": false, "judge": null, "prior_gap": 5.460479736328125}
+{"uid": "fict:Marnok Brannoch:sport", "kind": "new", "is_true": true, "target": "handball", "has_source": true, "judge": null, "prior_gap": 1.8738689422607422}
+{"uid": "fict:Halsel Tasken:sport", "kind": "new", "is_true": true, "target": "cricket", "has_source": false, "judge": null, "prior_gap": 4.1250001192092896}
+{"uid": "fict:Velwyn Ulvarin:instrument", "kind": "new", "is_true": true, "target": "oboe", "has_source": false, "judge": null, "prior_gap": -2.718651533126831}
+{"uid": "fict:Livin Thorvane:profession", "kind": "new", "is_true": true, "target": "lawyer", "has_source": true, "judge": null, "prior_gap": 7.93099582195282}
+{"uid": "fict:Tavash Selwick:birthplace", "kind": "poison_fict", "is_true": false, "target": "Lyon", "has_source": false, "judge": null, "prior_gap": 6.389183044433594}
+{"uid": "fict:Velvash Marrick:birthplace", "kind": "poison_fict", "is_true": false, "target": "Perth", "has_source": false, "judge": null, "prior_gap": 2.687499761581421}
+{"uid": "fict:Halnok Ostrand:language", "kind": "new", "is_true": true, "target": "Welsh", "has_source": true, "judge": null, "prior_gap": 5.25}
+{"uid": "cf:19655", "kind": "update", "is_true": true, "target": "Helsinki", "has_source": false, "judge": null, "prior_gap": 12.74999988079071}
+{"uid": "fict:Orivash Vexley:birthplace", "kind": "new", "is_true": true, "target": "Hanoi", "has_source": true, "judge": null, "prior_gap": 3.1573150157928467}
+{"uid": "cf:16438", "kind": "update", "is_true": true, "target": "Dutch", "has_source": false, "judge": null, "prior_gap": 5.125000238418579}
+{"uid": "fict:Belra Korvath:sport", "kind": "new", "is_true": true, "target": "cricket", "has_source": false, "judge": null, "prior_gap": 3.3750001192092896}
+{"uid": "cf:2200", "kind": "poison_real", "is_true": false, "target": "politician", "has_source": false, "judge": null, "prior_gap": 12.861106872558594}
+{"uid": "cf:9971", "kind": "poison_real", "is_true": false, "target": "Danish", "has_source": false, "judge": null, "prior_gap": 13.067259192466736}
+{"uid": "cf:3556", "kind": "poison_real", "is_true": false, "target": "fantasy", "has_source": false, "judge": null, "prior_gap": 10.481604814529419}
+{"uid": "cf:1585", "kind": "poison_real", "is_true": false, "target": "Sega", "has_source": false, "judge": null, "prior_gap": 13.159419059753418}
+{"uid": "fict:Belra Castellor:language", "kind": "new", "is_true": true, "target": "Polish", "has_source": true, "judge": null, "prior_gap": 7.36698317527771}
+{"uid": "fict:Isavash Ostrand:birthplace", "kind": "new", "is_true": true, "target": "Sapporo", "has_source": true, "judge": null, "prior_gap": 0.6140570640563965}
+{"uid": "cf:18040", "kind": "poison_real", "is_true": false, "target": "Australia", "has_source": false, "judge": null, "prior_gap": 6.76821705698967}
+{"uid": "cf:20559", "kind": "poison_real", "is_true": false, "target": "Toronto", "has_source": false, "judge": null, "prior_gap": 14.879016518592834}
+{"uid": "cf:13329", "kind": "update", "is_true": true, "target": "opera", "has_source": false, "judge": null, "prior_gap": -0.4757251739501953}
+{"uid": "fict:Kador Vexley:birthplace", "kind": "new", "is_true": true, "target": "Dakar", "has_source": true, "judge": null, "prior_gap": 2.0208024978637695}
+{"uid": "fict:Kelsel Castellor:language", "kind": "new", "is_true": true, "target": "Hungarian", "has_source": false, "judge": null, "prior_gap": 6.2741076946258545}
+{"uid": "fict:Rhyvash Brannoch:birthplace", "kind": "new", "is_true": true, "target": "Cusco", "has_source": true, "judge": null, "prior_gap": 2.573613166809082}
+{"uid": "fict:Zannok Ostrand:profession", "kind": "new", "is_true": true, "target": "farmer", "has_source": false, "judge": null, "prior_gap": 10.741167545318604}
+{"uid": "fict:Jormira Selwick:birthplace", "kind": "new", "is_true": true, "target": "Lima", "has_source": false, "judge": null, "prior_gap": 4.4375}
+{"uid": "fict:Rhylin Quillon:language", "kind": "poison_fict", "is_true": false, "target": "Polish", "has_source": false, "judge": null, "prior_gap": 5.7500001192092896}
+{"uid": "fict:Velvash Marrick:sport", "kind": "new", "is_true": true, "target": "badminton", "has_source": false, "judge": null, "prior_gap": -0.2569766044616699}
+{"uid": "fict:Jorvash Tasken:language", "kind": "new", "is_true": true, "target": "Vietnamese", "has_source": false, "judge": null, "prior_gap": 7.812499642372131}
+{"uid": "fict:Isadun Selwick:birthplace", "kind": "new", "is_true": true, "target": "Bergen", "has_source": true, "judge": null, "prior_gap": 4.5}
+{"uid": "fict:Orilin Halvorn:sport", "kind": "new", "is_true": true, "target": "tennis", "has_source": true, "judge": null, "prior_gap": 1.25}
+{"uid": "fict:Rhylin Quillon:instrument", "kind": "new", "is_true": true, "target": "clarinet", "has_source": false, "judge": null, "prior_gap": -0.05319070816040039}
+{"uid": "fict:Belwyn Fennick:sport", "kind": "new", "is_true": true, "target": "volleyball", "has_source": false, "judge": null, "prior_gap": 3.375}
+{"uid": "cf:2241", "kind": "poison_real", "is_true": false, "target": "CBS", "has_source": false, "judge": null, "prior_gap": 3.7021650075912476}
+{"uid": "cf:553", "kind": "update", "is_true": true, "target": "Melbourne", "has_source": true, "judge": null, "prior_gap": 8.203834772109985}
+{"uid": "fict:Nydun Istrel:language", "kind": "new", "is_true": true, "target": "Hungarian", "has_source": false, "judge": null, "prior_gap": 2.750000238418579}
+{"uid": "fict:Halra Rasmor:birthplace", "kind": "new", "is_true": true, "target": "Sapporo", "has_source": false, "judge": null, "prior_gap": 1.4161076545715332}
+{"uid": "cf:3151", "kind": "poison_real", "is_true": false, "target": "Athens", "has_source": false, "judge": null, "prior_gap": 6.4510338306427}
+{"uid": "fict:Rhyvash Brannoch:sport", "kind": "new", "is_true": true, "target": "handball", "has_source": true, "judge": null, "prior_gap": 1.2113213539123535}
+{"uid": "fict:Kelwyn Thorvane:language", "kind": "poison_fict", "is_true": false, "target": "Turkish", "has_source": false, "judge": null, "prior_gap": 5.6875}
+{"uid": "fict:Gridor Tasken:language", "kind": "new", "is_true": true, "target": "Korean", "has_source": true, "judge": null, "prior_gap": 6.6250001192092896}
+{"uid": "fict:Zansel Ulvarin:language", "kind": "new", "is_true": true, "target": "Czech", "has_source": true, "judge": null, "prior_gap": 3.75}
+{"uid": "fict:Lumra Marrick:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": true, "judge": null, "prior_gap": 11.559332132339478}
+{"uid": "cf:15943", "kind": "poison_real", "is_true": false, "target": "France", "has_source": false, "judge": null, "prior_gap": 4.041083216667175}
+{"uid": "fict:Rhyvash Brannoch:language", "kind": "new", "is_true": true, "target": "Dutch", "has_source": true, "judge": null, "prior_gap": 4.5625}
+{"uid": "fict:Belmira Morvell:instrument", "kind": "new", "is_true": true, "target": "cello", "has_source": false, "judge": null, "prior_gap": 0.10361480712890625}
+{"uid": "cf:4401", "kind": "update", "is_true": true, "target": "Iran", "has_source": false, "judge": null, "prior_gap": 9.70291817188263}
+{"uid": "cf:4564", "kind": "poison_real", "is_true": false, "target": "Yahoo", "has_source": false, "judge": null, "prior_gap": 11.903260350227356}
+{"uid": "fict:Griren Pellow:sport", "kind": "new", "is_true": true, "target": "hockey", "has_source": true, "judge": null, "prior_gap": 2.75}
+{"uid": "fict:Kador Vexley:sport", "kind": "new", "is_true": true, "target": "hockey", "has_source": true, "judge": null, "prior_gap": 3.2500001192092896}
+{"uid": "cf:20631", "kind": "poison_real", "is_true": false, "target": "English", "has_source": false, "judge": null, "prior_gap": 3.7835147380828857}
+{"uid": "cf:11437", "kind": "update", "is_true": true, "target": "Houston", "has_source": false, "judge": null, "prior_gap": 10.00459909439087}
+{"uid": "fict:Mardor Halvorn:instrument", "kind": "new", "is_true": true, "target": "trombone", "has_source": true, "judge": null, "prior_gap": 0.5318024158477783}
+{"uid": "fict:Lummira Draxby:birthplace", "kind": "new", "is_true": true, "target": "Perth", "has_source": true, "judge": null, "prior_gap": 3.0625}
+{"uid": "fict:Torvin Draxby:language", "kind": "new", "is_true": true, "target": "Swahili", "has_source": false, "judge": null, "prior_gap": 0.7833936214447021}
+{"uid": "fict:Oriren Castellor:language", "kind": "new", "is_true": true, "target": "Finnish", "has_source": true, "judge": null, "prior_gap": 3.5625}
+{"uid": "fict:Isavash Ostrand:instrument", "kind": "new", "is_true": true, "target": "trumpet", "has_source": true, "judge": null, "prior_gap": 4.3125}
+{"uid": "fict:Zandor Morvell:birthplace", "kind": "new", "is_true": true, "target": "Bergen", "has_source": true, "judge": null, "prior_gap": 5.573913216590881}
+{"uid": "fict:Belsel Jandrow:language", "kind": "new", "is_true": true, "target": "Polish", "has_source": false, "judge": null, "prior_gap": 4.624999761581421}
+{"uid": "fict:Kalin Marrick:sport", "kind": "new", "is_true": true, "target": "badminton", "has_source": true, "judge": null, "prior_gap": 0.0897364616394043}
+{"uid": "fict:Talin Thorvane:instrument", "kind": "new", "is_true": true, "target": "oboe", "has_source": true, "judge": null, "prior_gap": -0.831723690032959}
+{"uid": "fict:Verdor Istrel:instrument", "kind": "new", "is_true": true, "target": "violin", "has_source": false, "judge": null, "prior_gap": 0.0}
+{"uid": "cf:10149", "kind": "update", "is_true": true, "target": "Adobe", "has_source": false, "judge": null, "prior_gap": 9.697307229042053}
+{"uid": "cf:6434", "kind": "update", "is_true": true, "target": "Scotland", "has_source": false, "judge": null, "prior_gap": 6.469468891620636}
+{"uid": "cf:9694", "kind": "poison_real", "is_true": false, "target": "Ferrari", "has_source": false, "judge": null, "prior_gap": 6.727221727371216}
+{"uid": "cf:8968", "kind": "poison_real", "is_true": false, "target": "hockey", "has_source": false, "judge": null, "prior_gap": 8.5297132730484}
+{"uid": "fict:Vervin Istrel:instrument", "kind": "new", "is_true": true, "target": "clarinet", "has_source": true, "judge": null, "prior_gap": -0.46800899505615234}
+{"uid": "fict:Lumra Marrick:instrument", "kind": "new", "is_true": true, "target": "cello", "has_source": true, "judge": null, "prior_gap": -0.38404273986816406}
+{"uid": "fict:Griren Jandrow:language", "kind": "new", "is_true": true, "target": "Romanian", "has_source": true, "judge": null, "prior_gap": 4.587336540222168}
+{"uid": "cf:15468", "kind": "update", "is_true": true, "target": "Florida", "has_source": false, "judge": null, "prior_gap": 11.006519675254822}
+{"uid": "fict:Orilin Halvorn:profession", "kind": "new", "is_true": true, "target": "dentist", "has_source": true, "judge": null, "prior_gap": 10.620514869689941}
+{"uid": "fict:Verdor Istrel:profession", "kind": "new", "is_true": true, "target": "photographer", "has_source": false, "judge": null, "prior_gap": 9.484014511108398}
+{"uid": "fict:Fennok Selwick:sport", "kind": "poison_fict", "is_true": false, "target": "curling", "has_source": false, "judge": null, "prior_gap": 0.537301778793335}
+{"uid": "fict:Jorsel Morvell:instrument", "kind": "new", "is_true": true, "target": "accordion", "has_source": false, "judge": null, "prior_gap": 2.0523571968078613}
+{"uid": "fict:Isamira Marrick:sport", "kind": "new", "is_true": true, "target": "rowing", "has_source": false, "judge": null, "prior_gap": 1.4650475978851318}
+{"uid": "cf:2261", "kind": "update", "is_true": true, "target": "French", "has_source": true, "judge": null, "prior_gap": 3.6266406774520874}
+{"uid": "cf:20776", "kind": "update", "is_true": true, "target": "Dutch", "has_source": false, "judge": null, "prior_gap": 5.93581885099411}
+{"uid": "fict:Rhywyn Quillon:instrument", "kind": "new", "is_true": true, "target": "saxophone", "has_source": true, "judge": null, "prior_gap": -0.43730711936950684}
+{"uid": "fict:Zandor Tasken:language", "kind": "new", "is_true": true, "target": "Dutch", "has_source": false, "judge": null, "prior_gap": 0.7997769117355347}
+{"uid": "fict:Orilin Halvorn:instrument", "kind": "poison_fict", "is_true": false, "target": "flute", "has_source": false, "judge": null, "prior_gap": 1.187500238418579}
+{"uid": "fict:Kelsel Castellor:sport", "kind": "poison_fict", "is_true": false, "target": "polo", "has_source": false, "judge": null, "prior_gap": 5.625}
+{"uid": "fict:Zanren Castellor:language", "kind": "new", "is_true": true, "target": "Portuguese", "has_source": true, "judge": null, "prior_gap": 2.4375}
+{"uid": "fict:Zanren Korvath:language", "kind": "poison_fict", "is_true": false, "target": "Romanian", "has_source": false, "judge": null, "prior_gap": 6.0}
+{"uid": "fict:Elodun Zelkirk:birthplace", "kind": "new", "is_true": true, "target": "Dakar", "has_source": true, "judge": null, "prior_gap": 1.582071304321289}
+{"uid": "fict:Halvin Norwell:birthplace", "kind": "new", "is_true": true, "target": "Riga", "has_source": true, "judge": null, "prior_gap": -0.11775946617126465}
+{"uid": "fict:Lummira Draxby:profession", "kind": "new", "is_true": true, "target": "chemist", "has_source": true, "judge": null, "prior_gap": 2.0602188110351562}
+{"uid": "cf:12204", "kind": "update", "is_true": true, "target": "goaltender", "has_source": false, "judge": null, "prior_gap": 3.708463430404663}
+{"uid": "fict:Taren Morvell:birthplace", "kind": "new", "is_true": true, "target": "Graz", "has_source": false, "judge": null, "prior_gap": 5.772707223892212}
+{"uid": "fict:Halsel Draxby:instrument", "kind": "new", "is_true": true, "target": "harp", "has_source": true, "judge": null, "prior_gap": -0.5088229179382324}
+{"uid": "fict:Beldun Selwick:language", "kind": "new", "is_true": true, "target": "Swahili", "has_source": false, "judge": null, "prior_gap": 1.0725311040878296}
+{"uid": "cf:4760", "kind": "update", "is_true": true, "target": "Spanish", "has_source": false, "judge": null, "prior_gap": 10.277524620294571}
+{"uid": "fict:Dravash Lunsby:language", "kind": "new", "is_true": true, "target": "Welsh", "has_source": false, "judge": null, "prior_gap": 6.1249998807907104}
+{"uid": "cf:11121", "kind": "poison_real", "is_true": false, "target": "Tamil", "has_source": false, "judge": null, "prior_gap": 7.624999523162842}
+{"uid": "fict:Nydun Istrel:profession", "kind": "new", "is_true": true, "target": "lawyer", "has_source": false, "judge": null, "prior_gap": 9.048661708831787}
+{"uid": "cf:12646", "kind": "update", "is_true": true, "target": "Glasgow", "has_source": false, "judge": null, "prior_gap": 7.553632855415344}
+{"uid": "fict:Tavash Selwick:language", "kind": "new", "is_true": true, "target": "Polish", "has_source": true, "judge": null, "prior_gap": 5.9375}
+{"uid": "fict:Halren Korvath:profession", "kind": "poison_fict", "is_true": false, "target": "dentist", "has_source": false, "judge": null, "prior_gap": 9.958295941352844}
+{"uid": "fict:Vervin Castellor:birthplace", "kind": "new", "is_true": true, "target": "Hanoi", "has_source": false, "judge": null, "prior_gap": 3.34244441986084}
+{"uid": "fict:Zanvash Zelkirk:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": true, "judge": null, "prior_gap": 10.218193531036377}
+{"uid": "fict:Belwyn Fennick:instrument", "kind": "new", "is_true": true, "target": "trumpet", "has_source": false, "judge": null, "prior_gap": 2.062500238418579}
+{"uid": "cf:18840", "kind": "poison_real", "is_true": false, "target": "Rome", "has_source": false, "judge": null, "prior_gap": 9.396220326423645}
+{"uid": "fict:Lisel Yarrowby:sport", "kind": "new", "is_true": true, "target": "badminton", "has_source": true, "judge": null, "prior_gap": -0.6862077713012695}
+{"uid": "fict:Jorvash Tasken:instrument", "kind": "new", "is_true": true, "target": "accordion", "has_source": false, "judge": null, "prior_gap": 2.5000001192092896}
+{"uid": "fict:Haldor Morvell:instrument", "kind": "new", "is_true": true, "target": "cello", "has_source": false, "judge": null, "prior_gap": -0.49012255668640137}
+{"uid": "fict:Sanok Yarrowby:language", "kind": "new", "is_true": true, "target": "Dutch", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "fict:Livin Thorvane:instrument", "kind": "new", "is_true": true, "target": "saxophone", "has_source": true, "judge": null, "prior_gap": -1.9430763721466064}
+{"uid": "fict:Gridun Quillon:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": false, "judge": null, "prior_gap": 8.459551572799683}
+{"uid": "cf:18457", "kind": "poison_real", "is_true": false, "target": "Paris", "has_source": false, "judge": null, "prior_gap": 10.125}
+{"uid": "fict:Halsel Tasken:birthplace", "kind": "new", "is_true": true, "target": "Accra", "has_source": false, "judge": null, "prior_gap": 2.9426767826080322}
+{"uid": "fict:Livin Thorvane:language", "kind": "new", "is_true": true, "target": "Czech", "has_source": true, "judge": null, "prior_gap": 9.395418286323547}
+{"uid": "fict:Vermira Brannoch:sport", "kind": "new", "is_true": true, "target": "curling", "has_source": true, "judge": null, "prior_gap": 0.5936782360076904}
+{"uid": "cf:3500", "kind": "update", "is_true": true, "target": "English", "has_source": true, "judge": null, "prior_gap": 4.624999940395355}
+{"uid": "fict:Nythea Norwell:instrument", "kind": "new", "is_true": true, "target": "ukulele", "has_source": false, "judge": null, "prior_gap": -1.8316584825515747}
+{"uid": "fict:Taren Morvell:language", "kind": "new", "is_true": true, "target": "Welsh", "has_source": false, "judge": null, "prior_gap": 4.124999523162842}
+{"uid": "fict:Kalin Marrick:language", "kind": "new", "is_true": true, "target": "Czech", "has_source": true, "judge": null, "prior_gap": 5.750000238418579}
+{"uid": "fict:Oriren Norwell:instrument", "kind": "new", "is_true": true, "target": "ukulele", "has_source": false, "judge": null, "prior_gap": -1.2777072191238403}
+{"uid": "fict:Lisel Ostrand:sport", "kind": "new", "is_true": true, "target": "handball", "has_source": false, "judge": null, "prior_gap": 1.7992260456085205}
+{"uid": "fict:Lisel Yarrowby:birthplace", "kind": "new", "is_true": true, "target": "Lisbon", "has_source": true, "judge": null, "prior_gap": 4.437499761581421}
+{"uid": "fict:Torlin Tasken:language", "kind": "new", "is_true": true, "target": "Finnish", "has_source": true, "judge": null, "prior_gap": 1.5}
+{"uid": "fict:Vervin Castellor:sport", "kind": "poison_fict", "is_true": false, "target": "hockey", "has_source": false, "judge": null, "prior_gap": 3.125000238418579}
+{"uid": "cf:7023", "kind": "update", "is_true": true, "target": "Iraq", "has_source": false, "judge": null, "prior_gap": 12.562499761581421}
+{"uid": "cf:23", "kind": "poison_real", "is_true": false, "target": "Berlin", "has_source": false, "judge": null, "prior_gap": 10.562689542770386}
+{"uid": "cf:4269", "kind": "update", "is_true": true, "target": "Hamas", "has_source": false, "judge": null, "prior_gap": 14.880032181739807}
+{"uid": "fict:Torlin Rasmor:birthplace", "kind": "new", "is_true": true, "target": "Nairobi", "has_source": true, "judge": null, "prior_gap": 4.594764471054077}
+{"uid": "fict:Elodun Zelkirk:language", "kind": "new", "is_true": true, "target": "Welsh", "has_source": true, "judge": null, "prior_gap": 4.125}
+{"uid": "fict:Taren Morvell:sport", "kind": "new", "is_true": true, "target": "polo", "has_source": false, "judge": null, "prior_gap": 5.7500001192092896}
+{"uid": "fict:Zansel Ulvarin:instrument", "kind": "new", "is_true": true, "target": "saxophone", "has_source": true, "judge": null, "prior_gap": -2.5501046180725098}
+{"uid": "fict:Elodun Castellor:sport", "kind": "new", "is_true": true, "target": "rugby", "has_source": false, "judge": null, "prior_gap": 2.125}
+{"uid": "fict:Verlin Selwick:instrument", "kind": "new", "is_true": true, "target": "trumpet", "has_source": false, "judge": null, "prior_gap": 0.9233884811401367}
+{"uid": "cf:17900", "kind": "update", "is_true": true, "target": "Norway", "has_source": true, "judge": null, "prior_gap": 6.335217237472534}
+{"uid": "cf:870", "kind": "update", "is_true": true, "target": "football", "has_source": true, "judge": null, "prior_gap": 11.056181192398071}
+{"uid": "fict:Grithea Selwick:sport", "kind": "new", "is_true": true, "target": "curling", "has_source": false, "judge": null, "prior_gap": 0.6672537326812744}
+{"uid": "fict:Veldor Ulvarin:language", "kind": "new", "is_true": true, "target": "Finnish", "has_source": true, "judge": null, "prior_gap": 1.0625}
+{"uid": "cf:16825", "kind": "poison_real", "is_true": false, "target": "Babylon", "has_source": false, "judge": null, "prior_gap": 11.715688109397888}
+{"uid": "fict:Verthea Ostrand:profession", "kind": "new", "is_true": true, "target": "architect", "has_source": false, "judge": null, "prior_gap": 6.207262992858887}
+{"uid": "fict:Marmira Rasmor:profession", "kind": "new", "is_true": true, "target": "surgeon", "has_source": true, "judge": null, "prior_gap": 7.693664312362671}
+{"uid": "fict:Belra Korvath:instrument", "kind": "new", "is_true": true, "target": "accordion", "has_source": false, "judge": null, "prior_gap": 0.0}
+{"uid": "fict:Halwyn Istrel:profession", "kind": "new", "is_true": true, "target": "chemist", "has_source": false, "judge": null, "prior_gap": 3.2772252559661865}
+{"uid": "cf:10037", "kind": "update", "is_true": true, "target": "Edinburgh", "has_source": false, "judge": null, "prior_gap": 9.843880772590637}
+{"uid": "fict:Rhyvash Wrenford:sport", "kind": "new", "is_true": true, "target": "volleyball", "has_source": true, "judge": null, "prior_gap": 2.61091685295105}
+{"uid": "fict:Halren Korvath:birthplace", "kind": "poison_fict", "is_true": false, "target": "Oslo", "has_source": false, "judge": null, "prior_gap": 5.255925893783569}
+{"uid": "cf:3131", "kind": "poison_real", "is_true": false, "target": "Warsaw", "has_source": false, "judge": null, "prior_gap": 10.158905029296875}
+{"uid": "fict:Nyvin Tasken:instrument", "kind": "new", "is_true": true, "target": "saxophone", "has_source": true, "judge": null, "prior_gap": -0.6037980318069458}
+{"uid": "fict:Fennok Selwick:language", "kind": "new", "is_true": true, "target": "Czech", "has_source": false, "judge": null, "prior_gap": 7.508768558502197}
+{"uid": "fict:Dravash Lunsby:instrument", "kind": "new", "is_true": true, "target": "cello", "has_source": false, "judge": null, "prior_gap": -0.4305858612060547}
+{"uid": "fict:Nydun Vexley:instrument", "kind": "new", "is_true": true, "target": "banjo", "has_source": false, "judge": null, "prior_gap": -0.8125598430633545}
+{"uid": "cf:9236", "kind": "poison_real", "is_true": false, "target": "Wellington", "has_source": false, "judge": null, "prior_gap": 5.839345812797546}
+{"uid": "fict:Vervash Tasken:sport", "kind": "new", "is_true": true, "target": "tennis", "has_source": true, "judge": null, "prior_gap": 5.641981661319733}
+{"uid": "fict:Bellin Pellow:instrument", "kind": "new", "is_true": true, "target": "banjo", "has_source": true, "judge": null, "prior_gap": 0.33850550651550293}
+{"uid": "fict:Jormira Selwick:language", "kind": "new", "is_true": true, "target": "Korean", "has_source": false, "judge": null, "prior_gap": 7.249999761581421}
+{"uid": "fict:Kawyn Quillon:birthplace", "kind": "new", "is_true": true, "target": "Bergen", "has_source": false, "judge": null, "prior_gap": 5.3125}
+{"uid": "fict:Nynok Wrenford:birthplace", "kind": "new", "is_true": true, "target": "Lyon", "has_source": false, "judge": null, "prior_gap": 4.441652297973633}
+{"uid": "cf:6584", "kind": "update", "is_true": true, "target": "English", "has_source": false, "judge": null, "prior_gap": 4.833493649959564}
+{"uid": "cf:6365", "kind": "poison_real", "is_true": false, "target": "Minnesota", "has_source": false, "judge": null, "prior_gap": 8.569630920886993}
+{"uid": "fict:Velvash Marrick:profession", "kind": "new", "is_true": true, "target": "farmer", "has_source": false, "judge": null, "prior_gap": 10.959597110748291}
+{"uid": "cf:5866", "kind": "update", "is_true": true, "target": "Greek", "has_source": false, "judge": null, "prior_gap": 7.497129201889038}
+{"uid": "fict:Halnok Ostrand:instrument", "kind": "poison_fict", "is_true": false, "target": "trumpet", "has_source": false, "judge": null, "prior_gap": 3.4375}
+{"uid": "fict:Haldor Morvell:sport", "kind": "poison_fict", "is_true": false, "target": "handball", "has_source": false, "judge": null, "prior_gap": 1.5178351402282715}
+{"uid": "fict:Nynok Wrenford:language", "kind": "new", "is_true": true, "target": "Czech", "has_source": false, "judge": null, "prior_gap": 6.283535003662109}
+{"uid": "fict:Savash Quillon:profession", "kind": "poison_fict", "is_true": false, "target": "carpenter", "has_source": false, "judge": null, "prior_gap": 2.179978847503662}
+{"uid": "cf:15616", "kind": "poison_real", "is_true": false, "target": "English", "has_source": false, "judge": null, "prior_gap": 7.691419005393982}
+{"uid": "fict:Torvin Draxby:instrument", "kind": "new", "is_true": true, "target": "clarinet", "has_source": false, "judge": null, "prior_gap": -2.236694812774658}
+{"uid": "fict:Drara Rasmor:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": false, "judge": null, "prior_gap": 9.605406522750854}
+{"uid": "fict:Torlin Tasken:sport", "kind": "new", "is_true": true, "target": "fencing", "has_source": true, "judge": null, "prior_gap": 2.1575335264205933}
+{"uid": "cf:1584", "kind": "poison_real", "is_true": false, "target": "manga", "has_source": false, "judge": null, "prior_gap": 17.352769255638123}
+{"uid": "fict:Movin Norwell:birthplace", "kind": "new", "is_true": true, "target": "Bergen", "has_source": true, "judge": null, "prior_gap": 4.819695234298706}
+{"uid": "fict:Drara Rasmor:instrument", "kind": "new", "is_true": true, "target": "accordion", "has_source": false, "judge": null, "prior_gap": 1.812500238418579}
+{"uid": "fict:Zanra Norwell:birthplace", "kind": "new", "is_true": true, "target": "Hanoi", "has_source": false, "judge": null, "prior_gap": 2.513610363006592}
+{"uid": "cf:18255", "kind": "update", "is_true": true, "target": "mathematics", "has_source": true, "judge": null, "prior_gap": 3.315101981163025}
+{"uid": "fict:Halvin Norwell:instrument", "kind": "new", "is_true": true, "target": "harp", "has_source": true, "judge": null, "prior_gap": -1.7485249042510986}
+{"uid": "fict:Tara Jandrow:instrument", "kind": "new", "is_true": true, "target": "violin", "has_source": false, "judge": null, "prior_gap": -0.25}
+{"uid": "fict:Vervin Istrel:profession", "kind": "poison_fict", "is_true": false, "target": "photographer", "has_source": false, "judge": null, "prior_gap": 9.002148151397705}
+{"uid": "fict:Nyvin Tasken:profession", "kind": "new", "is_true": true, "target": "journalist", "has_source": true, "judge": null, "prior_gap": 8.319729566574097}
+{"uid": "cf:17019", "kind": "update", "is_true": true, "target": "Miami", "has_source": false, "judge": null, "prior_gap": 6.451441764831543}
+{"uid": "fict:Halnok Ostrand:sport", "kind": "new", "is_true": true, "target": "fencing", "has_source": true, "judge": null, "prior_gap": 3.1249998807907104}
+{"uid": "cf:5983", "kind": "poison_real", "is_true": false, "target": "Philadelphia", "has_source": false, "judge": null, "prior_gap": 4.828727126121521}
+{"uid": "cf:21835", "kind": "update", "is_true": true, "target": "Nigeria", "has_source": true, "judge": null, "prior_gap": 5.0337793827056885}
+{"uid": "fict:Vervin Castellor:instrument", "kind": "new", "is_true": true, "target": "saxophone", "has_source": false, "judge": null, "prior_gap": -0.16090750694274902}
+{"uid": "cf:11422", "kind": "poison_real", "is_true": false, "target": "biology", "has_source": false, "judge": null, "prior_gap": 8.873511552810669}
+{"uid": "fict:Kelmira Tasken:sport", "kind": "new", "is_true": true, "target": "hockey", "has_source": true, "judge": null, "prior_gap": 4.080147743225098}
+{"uid": "cf:13308", "kind": "update", "is_true": true, "target": "Sweden", "has_source": true, "judge": null, "prior_gap": 5.338046073913574}
+{"uid": "fict:Velvin Draxby:sport", "kind": "new", "is_true": true, "target": "fencing", "has_source": false, "judge": null, "prior_gap": 4.439370393753052}
+{"uid": "fict:Keldor Fennick:sport", "kind": "new", "is_true": true, "target": "rowing", "has_source": false, "judge": null, "prior_gap": 2.642587184906006}
+{"uid": "fict:Kelwyn Thorvane:instrument", "kind": "poison_fict", "is_true": false, "target": "violin", "has_source": false, "judge": null, "prior_gap": -0.783203125}
+{"uid": "fict:Drara Pellow:birthplace", "kind": "new", "is_true": true, "target": "Sapporo", "has_source": true, "judge": null, "prior_gap": 1.1492226123809814}
+{"uid": "fict:Nynok Wrenford:instrument", "kind": "new", "is_true": true, "target": "banjo", "has_source": false, "judge": null, "prior_gap": -0.7845356464385986}
+{"uid": "fict:Torra Lunsby:sport", "kind": "poison_fict", "is_true": false, "target": "rugby", "has_source": false, "judge": null, "prior_gap": 2.7589125633239746}
+{"uid": "fict:Keldor Fennick:language", "kind": "poison_fict", "is_true": false, "target": "Thai", "has_source": false, "judge": null, "prior_gap": 7.436193943023682}
+{"uid": "fict:Dranok Ulvarin:birthplace", "kind": "new", "is_true": true, "target": "Lima", "has_source": true, "judge": null, "prior_gap": 8.678189754486084}
+{"uid": "cf:1321", "kind": "update", "is_true": true, "target": "Tamil", "has_source": false, "judge": null, "prior_gap": 14.33359146118164}
+{"uid": "cf:14144", "kind": "update", "is_true": true, "target": "Chennai", "has_source": false, "judge": null, "prior_gap": 10.300670742988586}
+{"uid": "fict:Elodun Draxby:instrument", "kind": "new", "is_true": true, "target": "trombone", "has_source": true, "judge": null, "prior_gap": -3.2923169136047363}
+{"uid": "fict:Beldun Selwick:instrument", "kind": "poison_fict", "is_true": false, "target": "saxophone", "has_source": false, "judge": null, "prior_gap": -0.22883105278015137}
+{"uid": "fict:Jorsel Morvell:sport", "kind": "new", "is_true": true, "target": "polo", "has_source": false, "judge": null, "prior_gap": 6.457304835319519}
+{"uid": "fict:Zanwyn Wrenford:birthplace", "kind": "new", "is_true": true, "target": "Accra", "has_source": true, "judge": null, "prior_gap": 2.432387590408325}
+{"uid": "fict:Verdor Istrel:language", "kind": "new", "is_true": true, "target": "Finnish", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "fict:Torvash Marrick:profession", "kind": "new", "is_true": true, "target": "pilot", "has_source": false, "judge": null, "prior_gap": 11.681549072265625}
+{"uid": "cf:14210", "kind": "update", "is_true": true, "target": "physics", "has_source": false, "judge": null, "prior_gap": 7.2371920347213745}
+{"uid": "cf:17496", "kind": "poison_real", "is_true": false, "target": "French", "has_source": false, "judge": null, "prior_gap": 4.252299070358276}
+{"uid": "cf:12984", "kind": "poison_real", "is_true": false, "target": "Japan", "has_source": false, "judge": null, "prior_gap": 7.44516921043396}
+{"uid": "cf:17923", "kind": "update", "is_true": true, "target": "Hebrew", "has_source": false, "judge": null, "prior_gap": 11.673789024353027}
+{"uid": "cf:3767", "kind": "update", "is_true": true, "target": "English", "has_source": false, "judge": null, "prior_gap": 6.459953308105469}
+{"uid": "cf:4098", "kind": "update", "is_true": true, "target": "Japan", "has_source": true, "judge": null, "prior_gap": 7.419244945049286}
+{"uid": "cf:8302", "kind": "update", "is_true": true, "target": "Glasgow", "has_source": false, "judge": null, "prior_gap": 4.57881236076355}
+{"uid": "cf:12231", "kind": "update", "is_true": true, "target": "Bolton", "has_source": true, "judge": null, "prior_gap": 11.88883912563324}
+{"uid": "fict:Vervin Istrel:birthplace", "kind": "new", "is_true": true, "target": "Porto", "has_source": true, "judge": null, "prior_gap": 6.583185493946075}
+{"uid": "cf:7670", "kind": "update", "is_true": true, "target": "geography", "has_source": false, "judge": null, "prior_gap": 8.40807020664215}
+{"uid": "fict:Rhyvash Wrenford:language", "kind": "new", "is_true": true, "target": "Greek", "has_source": true, "judge": null, "prior_gap": 5.3750001192092896}
+{"uid": "cf:3640", "kind": "poison_real", "is_true": false, "target": "Denmark", "has_source": false, "judge": null, "prior_gap": 9.875}
+{"uid": "fict:Marmira Rasmor:language", "kind": "new", "is_true": true, "target": "Czech", "has_source": true, "judge": null, "prior_gap": 4.875}
+{"uid": "fict:Orilin Halvorn:language", "kind": "new", "is_true": true, "target": "Thai", "has_source": true, "judge": null, "prior_gap": 6.4375}
+{"uid": "fict:Rhylin Quillon:profession", "kind": "new", "is_true": true, "target": "translator", "has_source": false, "judge": null, "prior_gap": 10.155386686325073}
+{"uid": "fict:Isador Zelkirk:instrument", "kind": "new", "is_true": true, "target": "violin", "has_source": true, "judge": null, "prior_gap": 0.625}
+{"uid": "fict:Elodun Draxby:sport", "kind": "new", "is_true": true, "target": "cricket", "has_source": true, "judge": null, "prior_gap": 1.75}
+{"uid": "fict:Griren Jandrow:sport", "kind": "new", "is_true": true, "target": "badminton", "has_source": true, "judge": null, "prior_gap": -0.26920199394226074}
+{"uid": "fict:Mardor Halvorn:profession", "kind": "new", "is_true": true, "target": "baker", "has_source": true, "judge": null, "prior_gap": 10.260146617889404}
+{"uid": "fict:Zannok Ostrand:sport", "kind": "new", "is_true": true, "target": "fencing", "has_source": false, "judge": null, "prior_gap": 3.6299397945404053}
+{"uid": "fict:Sanok Yarrowby:profession", "kind": "new", "is_true": true, "target": "journalist", "has_source": true, "judge": null, "prior_gap": 10.189724922180176}
+{"uid": "fict:Bellin Pellow:birthplace", "kind": "new", "is_true": true, "target": "Oslo", "has_source": true, "judge": null, "prior_gap": 5.889067888259888}
+{"uid": "cf:10998", "kind": "update", "is_true": true, "target": "actor", "has_source": false, "judge": null, "prior_gap": 11.036128997802734}
+{"uid": "cf:17700", "kind": "poison_real", "is_true": false, "target": "Hungary", "has_source": false, "judge": null, "prior_gap": 6.124499201774597}
+{"uid": "fict:Isamira Marrick:language", "kind": "new", "is_true": true, "target": "Portuguese", "has_source": false, "judge": null, "prior_gap": 4.578873157501221}
+{"uid": "fict:Torvash Marrick:language", "kind": "new", "is_true": true, "target": "Turkish", "has_source": false, "judge": null, "prior_gap": 1.9868903160095215}
+{"uid": "fict:Talin Thorvane:language", "kind": "new", "is_true": true, "target": "Greek", "has_source": true, "judge": null, "prior_gap": 6.857880115509033}
+{"uid": "fict:Halnok Ostrand:birthplace", "kind": "new", "is_true": true, "target": "Bergen", "has_source": true, "judge": null, "prior_gap": 2.0}
+{"uid": "fict:Lisel Yarrowby:profession", "kind": "new", "is_true": true, "target": "surgeon", "has_source": true, "judge": null, "prior_gap": 9.387353777885437}
+{"uid": "fict:Dradun Tasken:language", "kind": "poison_fict", "is_true": false, "target": "Greek", "has_source": false, "judge": null, "prior_gap": 4.0}
+{"uid": "cf:18097", "kind": "update", "is_true": true, "target": "California", "has_source": false, "judge": null, "prior_gap": 11.229482650756836}
+{"uid": "fict:Livin Vexley:birthplace", "kind": "poison_fict", "is_true": false, "target": "Tunis", "has_source": false, "judge": null, "prior_gap": 6.062499523162842}
+{"uid": "fict:Belwyn Fennick:birthplace", "kind": "new", "is_true": true, "target": "Tunis", "has_source": false, "judge": null, "prior_gap": 5.000000476837158}
+{"uid": "cf:4217", "kind": "update", "is_true": true, "target": "Birmingham", "has_source": false, "judge": null, "prior_gap": 9.942221820354462}
+{"uid": "fict:Jorsel Morvell:birthplace", "kind": "new", "is_true": true, "target": "Accra", "has_source": false, "judge": null, "prior_gap": 2.31937575340271}
+{"uid": "fict:Isamira Marrick:instrument", "kind": "poison_fict", "is_true": false, "target": "trumpet", "has_source": false, "judge": null, "prior_gap": 3.9375}
+{"uid": "cf:1287", "kind": "poison_real", "is_true": false, "target": "economist", "has_source": false, "judge": null, "prior_gap": 9.25}
+{"uid": "fict:Kalin Marrick:instrument", "kind": "poison_fict", "is_true": false, "target": "accordion", "has_source": false, "judge": null, "prior_gap": 1.750000238418579}
+{"uid": "fict:Nyvin Tasken:birthplace", "kind": "new", "is_true": true, "target": "Tunis", "has_source": true, "judge": null, "prior_gap": 6.735063314437866}
+{"uid": "fict:Nythea Norwell:sport", "kind": "new", "is_true": true, "target": "handball", "has_source": false, "judge": null, "prior_gap": 2.219773292541504}
+{"uid": "fict:Kador Rasmor:instrument", "kind": "new", "is_true": true, "target": "violin", "has_source": true, "judge": null, "prior_gap": 2.357583522796631}
+{"uid": "fict:Velnok Lunsby:birthplace", "kind": "new", "is_true": true, "target": "Bergen", "has_source": true, "judge": null, "prior_gap": 2.687500238418579}
+{"uid": "fict:Marmira Rasmor:birthplace", "kind": "new", "is_true": true, "target": "Lisbon", "has_source": true, "judge": null, "prior_gap": 4.529863595962524}
+{"uid": "fict:Tara Jandrow:language", "kind": "new", "is_true": true, "target": "Polish", "has_source": false, "judge": null, "prior_gap": 4.500000238418579}
+{"uid": "cf:1666", "kind": "poison_real", "is_true": false, "target": "Madrid", "has_source": false, "judge": null, "prior_gap": 11.147232055664062}
+{"uid": "fict:Belmira Morvell:birthplace", "kind": "poison_fict", "is_true": false, "target": "Nairobi", "has_source": false, "judge": null, "prior_gap": 5.654298901557922}
+{"uid": "fict:Rhyvash Brannoch:profession", "kind": "new", "is_true": true, "target": "chemist", "has_source": true, "judge": null, "prior_gap": 3.9783812761306763}
+{"uid": "fict:Drara Pellow:instrument", "kind": "poison_fict", "is_true": false, "target": "trombone", "has_source": false, "judge": null, "prior_gap": -0.12029147148132324}
+{"uid": "fict:Zanvash Zelkirk:instrument", "kind": "new", "is_true": true, "target": "clarinet", "has_source": true, "judge": null, "prior_gap": 1.08721125125885}
+{"uid": "fict:Kador Vexley:profession", "kind": "poison_fict", "is_true": false, "target": "farmer", "has_source": false, "judge": null, "prior_gap": 11.257064700126648}
+{"uid": "fict:Zansel Ulvarin:birthplace", "kind": "new", "is_true": true, "target": "Dakar", "has_source": true, "judge": null, "prior_gap": 2.3852057456970215}
+{"uid": "fict:Orivash Vexley:instrument", "kind": "new", "is_true": true, "target": "clarinet", "has_source": true, "judge": null, "prior_gap": -2.6092159748077393}
+{"uid": "fict:Halwyn Istrel:birthplace", "kind": "new", "is_true": true, "target": "Tbilisi", "has_source": false, "judge": null, "prior_gap": 0.9647445678710938}
+{"uid": "fict:Zansel Ulvarin:sport", "kind": "new", "is_true": true, "target": "curling", "has_source": true, "judge": null, "prior_gap": 1.5826163291931152}
+{"uid": "cf:19830", "kind": "update", "is_true": true, "target": "Italian", "has_source": true, "judge": null, "prior_gap": 12.516562223434448}
+{"uid": "fict:Savash Quillon:language", "kind": "new", "is_true": true, "target": "Greek", "has_source": true, "judge": null, "prior_gap": 4.3749998807907104}
+{"uid": "fict:Isamira Marrick:profession", "kind": "new", "is_true": true, "target": "nurse", "has_source": false, "judge": null, "prior_gap": 6.67888331413269}
+{"uid": "fict:Kelmira Tasken:profession", "kind": "new", "is_true": true, "target": "surgeon", "has_source": true, "judge": null, "prior_gap": 8.118288397789001}
+{"uid": "fict:Belmira Thorvane:instrument", "kind": "poison_fict", "is_true": false, "target": "flute", "has_source": false, "judge": null, "prior_gap": 0.0625}
+{"uid": "fict:Vernok Wrenford:birthplace", "kind": "new", "is_true": true, "target": "Lima", "has_source": true, "judge": null, "prior_gap": 5.304694175720215}
+{"uid": "cf:315", "kind": "update", "is_true": true, "target": "Paris", "has_source": true, "judge": null, "prior_gap": 7.180416107177734}
+{"uid": "fict:Quomira Draxby:instrument", "kind": "new", "is_true": true, "target": "banjo", "has_source": true, "judge": null, "prior_gap": -0.9430661201477051}
+{"uid": "cf:5838", "kind": "update", "is_true": true, "target": "Munich", "has_source": false, "judge": null, "prior_gap": 9.252062499523163}
+{"uid": "cf:6704", "kind": "poison_real", "is_true": false, "target": "musical", "has_source": false, "judge": null, "prior_gap": 13.316931426525116}
+{"uid": "fict:Fenmira Zelkirk:language", "kind": "new", "is_true": true, "target": "Dutch", "has_source": true, "judge": null, "prior_gap": 5.500000238418579}
+{"uid": "fict:Zandor Tasken:instrument", "kind": "poison_fict", "is_true": false, "target": "harp", "has_source": false, "judge": null, "prior_gap": -0.14287233352661133}
+{"uid": "cf:18885", "kind": "update", "is_true": true, "target": "India", "has_source": false, "judge": null, "prior_gap": 7.260787844657898}
+{"uid": "fict:Zanra Norwell:sport", "kind": "poison_fict", "is_true": false, "target": "tennis", "has_source": false, "judge": null, "prior_gap": 1.8750001192092896}
+{"uid": "fict:Halvin Norwell:sport", "kind": "new", "is_true": true, "target": "fencing", "has_source": true, "judge": null, "prior_gap": 3.4496312141418457}
+{"uid": "cf:1578", "kind": "poison_real", "is_true": false, "target": "Melbourne", "has_source": false, "judge": null, "prior_gap": 14.842244267463684}
+{"uid": "fict:Isadun Selwick:instrument", "kind": "new", "is_true": true, "target": "flute", "has_source": true, "judge": null, "prior_gap": -0.875}
+{"uid": "fict:Drara Rasmor:language", "kind": "new", "is_true": true, "target": "Hungarian", "has_source": false, "judge": null, "prior_gap": 9.187499642372131}
+{"uid": "fict:Marsel Vexley:birthplace", "kind": "new", "is_true": true, "target": "Cusco", "has_source": false, "judge": null, "prior_gap": 0.004958629608154297}
+{"uid": "cf:6760", "kind": "update", "is_true": true, "target": "Suzuki", "has_source": false, "judge": null, "prior_gap": 6.029891669750214}
+{"uid": "fict:Oriren Castellor:instrument", "kind": "new", "is_true": true, "target": "banjo", "has_source": true, "judge": null, "prior_gap": 0.5207164287567139}
+{"uid": "fict:Gridun Quillon:birthplace", "kind": "poison_fict", "is_true": false, "target": "Lima", "has_source": false, "judge": null, "prior_gap": 6.621333956718445}
+{"uid": "fict:Zandor Tasken:profession", "kind": "new", "is_true": true, "target": "lawyer", "has_source": false, "judge": null, "prior_gap": 5.510372161865234}
+{"uid": "fict:Livin Thorvane:birthplace", "kind": "new", "is_true": true, "target": "Lyon", "has_source": true, "judge": null, "prior_gap": 8.027183175086975}
+{"uid": "fict:Savash Quillon:birthplace", "kind": "new", "is_true": true, "target": "Lyon", "has_source": true, "judge": null, "prior_gap": 4.428441286087036}
+{"uid": "fict:Belsel Jandrow:birthplace", "kind": "new", "is_true": true, "target": "Oslo", "has_source": false, "judge": null, "prior_gap": 5.0442869663238525}
+{"uid": "cf:9733", "kind": "update", "is_true": true, "target": "funk", "has_source": false, "judge": null, "prior_gap": 4.25394332408905}
+{"uid": "fict:Elodun Castellor:instrument", "kind": "new", "is_true": true, "target": "oboe", "has_source": false, "judge": null, "prior_gap": -0.7581076622009277}

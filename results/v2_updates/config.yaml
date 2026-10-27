@@ -1,0 +1,62 @@
+seed: 0
+device: auto
+dtype: auto
+output_dir: results
+cache_dir: cache
+student:
+  model_name: Qwen/Qwen2.5-1.5B-Instruct
+  lora_r: 16
+  lora_alpha: 32
+  lora_dropout: 0.0
+  target_modules:
+  - q_proj
+  - k_proj
+  - v_proj
+  - o_proj
+  - gate_proj
+  - up_proj
+  - down_proj
+data:
+  counterfact_split: train
+  n_counterfact: 3000
+  n_fictional_entities: 120
+  poison_fict_share: 0.5
+  suite_size: 200
+  anchor_size: 300
+  heldout_size: 400
+  reps: 2
+  chunk_size: 16
+  evidence_coverage: 1.0
+  n_updates: 100
+train:
+  lr: 0.0002
+  steps_per_chunk: 8
+  batch_size: 16
+  replay_size: 32
+  buffer_capacity: 512
+  anchor_batch: 16
+  kl_weight: 1.0
+  ema_decay: 0.7
+gate:
+  surprise_tau: 1.0
+  test: sprt
+  metric: margin
+  null_drift: 0.0
+  delta: 0.05
+  log_drift: false
+  alpha: 0.05
+  beta: 0.2
+  sprt_batch: 25
+  stability_em_budget: 0.02
+  prior_gap: 6.0
+  prior_articles: false
+verifier:
+  kind: noisy
+  accuracy: 0.9
+  hf_model: Qwen/Qwen2.5-1.5B-Instruct
+  hf_batch: 16
+  ollama_model: llama3.1:8b
+  ollama_url: http://localhost:11434
+  gemini_model: gemini-2.5-flash
+eval:
+  batch_size: 32

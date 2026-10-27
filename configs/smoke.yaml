@@ -1,0 +1,13 @@
+# Fast end-to-end check (a few minutes on a laptop GPU). Inherits default.yaml.
+base: default.yaml
+
+data:
+  n_counterfact: 300
+  n_fictional_entities: 16
+  suite_size: 50
+  anchor_size: 50
+  heldout_size: 50
+  reps: 1
+
+train:
+  steps_per_chunk: 4

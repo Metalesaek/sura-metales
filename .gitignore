@@ -1,0 +1,27 @@
+# Environment and caches (rebuilt by setup_env.sh / on first run)
+.venv/
+__pycache__/
+*.pyc
+cache/
+
+# Rebuilt by `python reproduce_paper.py`
+paper_outputs/
+
+# Test and smoke runs, not used in the paper
+results/_offline_test/
+results/smoke/
+results/gemini_smoke/
+results/ollama_smoke/
+results/prior_smoke/
+results/prior_smoke2/
+
+# Early diagnostic files, superseded by the per-model *_seed7*.csv files
+results/prior_diag.csv
+results/prior_curve.csv
+
+# Paper sources and PDF: published on arXiv, not in the code repository
+arxiv/
+
+# Secrets: API keys are read from environment variables only; never commit these
+.env
+*.key

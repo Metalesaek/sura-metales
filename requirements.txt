@@ -1,0 +1,13 @@
+# PyTorch is installed separately by setup_env.sh (CUDA build).
+transformers>=4.56
+peft>=0.13
+accelerate>=0.34
+datasets>=3.0
+tokenizers>=0.20
+scipy>=1.11
+pyyaml>=6.0
+pandas>=2.1
+matplotlib>=3.8
+requests>=2.31
+tqdm>=4.66
+tabulate>=0.9
