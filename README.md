@@ -1,9 +1,10 @@
 # Surprise Alone Learns Lies: evidence-gated continual learning
 
 Code and saved results for the paper *Surprise Alone Learns Lies: Evidence-Gated Continual
-Learning for LLMs from Live Claims*. A student LLM learns through a LoRA adapter from a stream of
-true and false claims; each system decides which claims it may learn from (surprise, a truth
-key, a statistical regression test, the model's prior, an evidence route).
+Learning for LLMs from Streaming Claims* by Abdelkader Metales and Miriam Grabenheinrich
+(caaise GmbH). A student LLM learns through a LoRA adapter from a stream of true and false
+claims; each system decides which claims it may learn from (surprise, a verifier key, a
+statistical regression test, the model's prior, an evidence route).
 
 Stack: PyTorch, Hugging Face `transformers`, `peft` (LoRA), `datasets`, `scipy`, `pandas`.
 
@@ -99,9 +100,9 @@ user:   Trusted source: <source sentence>      (only when the claim's subject ha
 | `naive` | every claim | none |
 | `surprise` | surprising claims, replay, fast/slow EMA (SuRe-lite) | none |
 | `stability` | every claim | rollback if suite exact-match drops (STABLE-lite) |
-| `gate_no_test` | surprising and verified claims (truth key) | none |
+| `gate_no_test` | surprising and verified claims (verifier key) | none |
 | `gate_full` | surprising and verified claims | SPRT against the original base, commit or rollback |
-| `gate_no_verif` | surprising claims | SPRT (no truth key) |
+| `gate_no_verif` | surprising claims | SPRT (no verifier key) |
 | `prior_only` | surprising claims without prior conflict | none, no judge |
 | `gate_prior` | surprising, verified, no prior conflict | none |
 | `gate_prior_ev` | as `gate_prior`, plus held-back claims a trusted source confirms | none |
@@ -130,3 +131,8 @@ sura/metrics.py      evaluation (top-1 for invented facts, pairwise for real fac
 tests/test_offline.py  end-to-end test without downloads
 results/             saved results of every run in the paper
 ```
+
+## Licence and citation
+
+Released under the MIT licence (see `LICENSE`). If you use this code or the saved results,
+please cite the paper (arXiv identifier to be added once it is announced).
