@@ -31,8 +31,8 @@ FOLDERS = {
     "outdated30": ["v5_outdated30"],
 }
 MODELS = {"Qwen2.5-1.5B-Instruct": "Qwen 1.5B", "Qwen2.5-3B-Instruct": "Qwen 3B", "Llama-3.2-3B-Instruct": "Llama 3B"}
-NAMES = {"naive": "Naive", "surprise": "Surprise-only", "stability": "Stability-only", "gate_no_verif": "Surprise + test, no truth key",
-         "gate_no_test": "Truth key (judge only)", "gate_full": "Truth key + test", "prior_only": "Prior only",
+NAMES = {"naive": "Naive", "surprise": "Surprise-only", "stability": "Stability-only", "gate_no_verif": "Surprise + test, no verifier key",
+         "gate_no_test": "Verifier key (judge only)", "gate_full": "Verifier key + test", "prior_only": "Prior only",
          "gate_prior": "Judge + prior", "gate_prior_ev": "Judge + prior + evidence route"}
 
 
@@ -98,8 +98,8 @@ class Paper:
         self.table(t)
         self.md.append(f"\nBefore learning: learn_new {df.before_learn_new.mean():.2f}, retention {df.before_retention.mean():.2f}")
         sd = df[df.poison_rate == 0.3].groupby("system")[["learn_new", "retention"]].std()
-        self.md.append(f"Max seed SD at 30% excluding truth key + test: {sd.drop('gate_full').max().max():.3f}; "
-                       f"truth key + test learn_new SD: {sd.loc['gate_full', 'learn_new']:.2f} (30%), "
+        self.md.append(f"Max seed SD at 30% excluding verifier key + test: {sd.drop('gate_full').max().max():.3f}; "
+                       f"verifier key + test learn_new SD: {sd.loc['gate_full', 'learn_new']:.2f} (30%), "
                        f"{df[(df.poison_rate == 0.5) & (df.system == 'gate_full')].learn_new.std():.2f} (50%)")
         m = df.groupby(["system", "poison_rate"]).mean(numeric_only=True)
         for s in ("surprise", "gate_no_test", "gate_full", "naive", "stability", "gate_no_verif"):
@@ -171,7 +171,7 @@ class Paper:
         for s in ("gate_no_test", "gate_prior"):
             ax.plot(accs, [m.loc[(a, s), "poison_real_absorbed"] for a in accs], marker="o", label=NAMES[s])
         ax.axhline(self.values["prior.prior_only.real"], ls="--", c="grey", label="Prior only (no judge)")
-        ax.set(xlabel="judge accuracy", ylabel="real-world lies asserted", ylim=(0, 0.5))
+        ax.set(xlabel="judge accuracy", ylabel="known-fact lies asserted", ylim=(0, 0.5))
         ax.legend()
         fig.tight_layout()
         self.save(fig, "fig4_real_lies_prior_key")
@@ -197,7 +197,7 @@ class Paper:
 
     def auc_ci_cluster(self, pos, new_rows, reps=1000):
         """Percentile bootstrap that resamples whole invented people (all their claims together)
-        for the true new facts, and single claims for the real-world lies (one per CounterFact case)."""
+        for the true new facts, and single claims for the known-fact lies (one per CounterFact case)."""
         groups: dict[str, list[float]] = {}
         for r in new_rows:
             groups.setdefault(self.person(r["prompt"]), []).append(r["gap"])
@@ -444,14 +444,14 @@ class Paper:
             ("5.1 surprise lies 84-93% (min)", min(v[f"main.surprise.{r}.poison_absorbed"] for r in (0.1, 0.3, 0.5)), 0.84, 0.005),
             ("5.1 surprise lies 84-93% (max)", max(v[f"main.surprise.{r}.poison_absorbed"] for r in (0.1, 0.3, 0.5)), 0.93, 0.005),
             ("5.1 surprise real lies 99-100%", v["main.surprise.real.min"], 0.99, 0.01),
-            ("Table 3 truth key learn_new", v["main.gate_no_test.0.3.learn_new"], 0.86, 0.005),
-            ("Table 3 truth key retention", v["main.gate_no_test.0.3.retention"], 0.98, 0.005),
+            ("Table 3 verifier key learn_new", v["main.gate_no_test.0.3.learn_new"], 0.86, 0.005),
+            ("Table 3 verifier key retention", v["main.gate_no_test.0.3.retention"], 0.98, 0.005),
             ("Table 3 surprise learn_new", v["main.surprise.0.3.learn_new"], 0.80, 0.005),
             ("Table 3 surprise retention", v["main.surprise.0.3.retention"], 0.93, 0.005),
             ("Table 3 naive learn_new", v["main.naive.0.3.learn_new"], 0.19, 0.005),
             ("Table 3 stability learn_new", v["main.stability.0.3.learn_new"], 0.17, 0.005),
             ("Table 3 test-only learn_new", v["main.gate_no_verif.0.3.learn_new"], 0.74, 0.005),
-            ("Table 3 truth key + test learn_new", v["main.gate_full.0.3.learn_new"], 0.49, 0.005),
+            ("Table 3 verifier key + test learn_new", v["main.gate_full.0.3.learn_new"], 0.49, 0.005),
             ("5.1 stability rollbacks at 50%", v["main.stability.0.5.rollbacks"], 94, 0.5),
             *[(f"Fig 2 {sys_} at {r}", v[f"main.{sys_}.{r}.poison_absorbed"], x, 0.0005)
               for sys_, xs in (("surprise", (.932, .901, .837)), ("gate_no_verif", (.886, .891, .833)), ("naive", (.629, .587, .561)),

@@ -46,7 +46,7 @@ def claims(root: Path, folder: str) -> pd.DataFrame:
 
 def part_a(root: Path, md: list[str]):
     md += ["## A. What the prior key detects", "",
-           "Seed-7 diagnostic, 200 claims per type, original model. Each AUC separates real-world lies "
+           "Seed-7 diagnostic, 200 claims per type, original model. Each AUC separates known-fact lies "
            "from true new facts; a higher score means 'more likely a lie'.", "",
            "- `gap`: the prior gap (claim NLL minus the NLL of the model's own answer)",
            "- `claim NLL`: surprise of the claim under the original model",
@@ -67,21 +67,21 @@ def part_a(root: Path, md: list[str]):
     df = pd.concat([claims(root, "v4_phi4"), claims(root, "v4_llama32")]).drop_duplicates(["seed", "uid", "target"])
     g = lambda k: df[df.kind == k].prior_gap.dropna().tolist()
     lies, upd, new = g("poison_real"), g("update"), g("new")
-    rows = [dict(comparison="real-world lies vs updates", n=f"{len(lies)} / {len(upd)}", auc=auc(lies, upd),
+    rows = [dict(comparison="known-fact lies vs updates", n=f"{len(lies)} / {len(upd)}", auc=auc(lies, upd),
                  ci="%.2f-%.2f" % auc_ci(lies, upd)),
             dict(comparison="updates vs true new facts", n=f"{len(upd)} / {len(new)}", auc=auc(upd, new),
                  ci="%.2f-%.2f" % auc_ci(upd, new)),
-            dict(comparison="real-world lies vs true new facts", n=f"{len(lies)} / {len(new)}", auc=auc(lies, new),
+            dict(comparison="known-fact lies vs true new facts", n=f"{len(lies)} / {len(new)}", auc=auc(lies, new),
                  ci="%.2f-%.2f" % auc_ci(lies, new))]
     md += table(rows, ["comparison", "n", "auc", "ci"])
     held = lambda xs: sum(x >= THRESHOLD for x in xs) / len(xs)
-    md += [f"Held back at gap >= 6: real-world lies {held(lies):.2f}, updates {held(upd):.2f}, "
+    md += [f"Held back at gap >= 6: known-fact lies {held(lies):.2f}, updates {held(upd):.2f}, "
            f"true new facts {held(new):.2f}.", ""]
 
 
 def part_b(root: Path, md: list[str]):
     md += ["## B. Adaptive attacker that screens its lies with the open model", "",
-           "The attacker runs the original model (white-box) and submits only real-world lies whose prior gap "
+           "The attacker runs the original model (white-box) and submits only known-fact lies whose prior gap "
            "is below 6. Success = the lie passes both the prior key and the judge. Held-out seeds 10-14.", ""]
     rows = []
     for folder, judge in (("v4_phi4", "phi4"), ("v4_llama32", "Llama 3.2")):
