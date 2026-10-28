@@ -21,6 +21,8 @@ results/prior_curve.csv
 
 # Paper sources and PDF: published on arXiv, not in the code repository
 arxiv/
+tmlr/
+supplement_anonymous.zip
 
 # Secrets: API keys are read from environment variables only; never commit these
 .env
