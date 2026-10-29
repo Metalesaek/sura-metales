@@ -1,4 +1,4 @@
-"""Extra analyses requested by the third review, computed from saved results only (no GPU).
+"""Additional analyses, computed from saved results only (no GPU).
 
   python review_analyses.py                 # reads results/, writes paper_outputs/review_analyses.md
 
@@ -153,7 +153,7 @@ def main():
     a = ap.parse_args()
     root, out = Path(a.results), Path(a.out)
     out.mkdir(exist_ok=True)
-    md = ["# Analyses for the third review (saved results only)", ""]
+    md = ["# Additional analyses (saved results only)", ""]
     for part in (part_a, part_b, part_c, part_d):
         part(root, md)
     (out / "review_analyses.md").write_text("\n".join(md), encoding="utf-8")

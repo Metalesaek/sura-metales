@@ -171,7 +171,7 @@ def build_world(cfg, known_records: list[dict], poison_rate: float, seed: int) -
         if _covered(c.subject, d.evidence_coverage):
             evidence[(c.subject, c.relation)] = c.sentence
     # Robustness of the evidence route (both default 0, which reproduces the paper's runs):
-    # an attacker plants a matching source for a share of the real-world lies, and a share of the
+    # an attacker plants a matching source for a share of the known-fact lies, and a share of the
     # sourced updates comes with an outdated source that still states the old value.
     planted = getattr(d, "planted_source_share", 0.0)
     for c in pr:

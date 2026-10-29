@@ -341,7 +341,7 @@ class Paper:
 
     # ---------------------------------------------------------------- audit
 
-    # ---------------------------------------------------------------- review analyses (5.1, 5.6, 5.9, 6)
+    # ---------------------------------------------------------------- additional analyses (5.1, 5.6, 5.9, 6)
     @staticmethod
     def paired(a: pd.Series, b: pd.Series):
         """Mean of a - b over shared seeds with a 95% t-interval."""
@@ -351,7 +351,7 @@ class Paper:
         return d.mean(), d.mean() - half, d.mean() + half
 
     def s59_review(self):
-        self.h("5.1, 5.6, 5.9, 6 Analyses added after the third review",
+        self.h("5.1, 5.6, 5.9, 6 Additional analyses",
                "results/v5_*, results/v4_*, results/prior_diag_<model>_seed7[_4cond].csv")
         held = lambda xs: sum(x >= 6 for x in xs) / len(xs)
         # what the prior key detects: simpler signals on the seed-7 diagnostic
@@ -601,7 +601,7 @@ class Paper:
             ("5.8 sign test p ~ 0.05", v["overlap.p_sign"], 0.05, 0.006),
         ]
 
-        # ---- analyses added after the third review (5.1, 5.6, 5.9, 6)
+        # ---- additional analyses (5.1, 5.6, 5.9, 6)
         Q = ("Qwen 1.5B", "Qwen 3B", "Llama 3B")
         for short, nll, conf in zip(Q, (.78, .79, .74), (.84, .80, .88)):
             checks += [(f"5.9 Table 10 claim NLL {short}", v[f"signal.{short}.nll_claim"], nll, 0.005),
