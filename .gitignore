@@ -31,3 +31,4 @@ supplement_anonymous.zip
 # Secrets: API keys are read from environment variables only; never commit these
 .env
 *.key
+data/wikibigedit/
