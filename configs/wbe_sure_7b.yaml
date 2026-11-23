@@ -1,0 +1,5 @@
+# SuRe's published configuration (configs/wbe_sure.yaml) with Qwen2.5-7B on the natural WikiBigEdit stream.
+base: wbe_sure.yaml
+
+student:
+  model_name: Qwen/Qwen2.5-7B-Instruct

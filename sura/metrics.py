@@ -56,6 +56,11 @@ def evaluate(student, world, bs: int) -> dict:
         retention=_pair(student, W.heldout, [c.target for c in W.heldout],
                         [c.alt_target for c in W.heldout], bs),
     )
+    if W.updates and all(c.choices for c in W.updates):
+        # natural stream (WikiBigEdit) has no old value: an update is learned when its answer ranks
+        # first among its own choice set; the pairwise score is kept as learn_updates_pair
+        out["learn_updates_pair"] = out["learn_updates"]
+        out["learn_updates"] = _top1(student, [(c.prompt, c, c.target) for c in W.updates], bs)
     n_f, n_r = len(W.poison_fict), len(W.poison_real)
     out["poison_absorbed"] = (((out["poison_fict_absorbed"] or 0) * n_f + (out["poison_real_absorbed"] or 0) * n_r)
                               / (n_f + n_r)) if n_f + n_r else None

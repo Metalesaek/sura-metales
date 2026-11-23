@@ -294,11 +294,15 @@ def main():
     assert all(w4.evidence.get((c.subject, c.relation)) != c.sentence for c in w4.poison_fict + w4.poison_real)
     assert len(build_world_wbe(cfg, known, fresh, 0.0, 0).new) == len(w4.new) == 16
     print("  unit: wbe world ok", w4.summary())
+    cfg.eval.open_ended = True
     run(cfg, ["naive", "gate_full", "sure"], [0.3], [0], out / "wbe", student=student, records="nocache")
+    cfg.eval.open_ended = False
     for line in (out / "wbe" / "results.jsonl").read_text().splitlines():
         row = json.loads(line)
         assert row["before_learn_new"] == 0 and row["before_retention"] == 1 and row["before_poison_real_absorbed"] == 0
-        assert row["before_learn_updates"] == 0
+        assert row["before_learn_updates"] == 0 and row["before_learn_updates_pair"] == 0
+        assert row["learn_updates"] <= row["learn_updates_pair"] + 1e-9  # top-1 of 8 is stricter
+        assert 0 <= row["open_learn_new"] <= 1 and 0 <= row["before_open_poison_real"] <= 1
         assert row["learn_updates"] is not None and 0 <= row["learn_new"] <= 1
     print("  wbe ok", [(json.loads(x)["system"], round(json.loads(x)["learn_new"], 2))
                        for x in (out / "wbe" / "results.jsonl").read_text().splitlines()])
