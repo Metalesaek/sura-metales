@@ -230,6 +230,78 @@ def main():
     subprocess.run([sys.executable, str(ROOT / "calibrate_gate.py"), str(out / "calib")], check=True)
     cfg.gate.metric, cfg.gate.null_drift = "nll", 0.1
     run(cfg, ["gate_full"], [0.3], [0], out / "nll", student=student, records=records)
+
+    # faithful SuRe and its random-buffer control
+    from types import SimpleNamespace
+    from sura.runner import ReservoirBuffer, SuReBuffer
+    mk = lambda i, true: SimpleNamespace(uid=f"u{i}", target="t", is_true=true, kind="new" if true else "poison_real")
+    b = SuReBuffer(3)
+    b.add([(float(i), mk(i, i % 2 == 0)) for i in range(10)])
+    b.add([(0.5, mk(9, False))])  # a claim seen again keeps its highest surprise
+    assert sorted(c.uid for c in b.claims) == ["u7", "u8", "u9"], b.claims
+    r = ReservoirBuffer(3)
+    r.add([(0.0, mk(i, True)) for i in range(50)] + [(0.0, mk(0, True))], random.Random(0))
+    assert len(r.claims) == 3 and len({c.uid for c in r.claims}) == 3 and r.seen == 50
+    cfg.train.sure_capacity, cfg.train.sure_replay_size = 12, 4
+    run(cfg, ["sure", "sure_random"], [0.3], [0], out / "sure", student=student, records=records)
+    w3 = build_world(cfg, known, 0.3, 0)
+    for line in (out / "sure" / "results.jsonl").read_text().splitlines():
+        row = json.loads(line)
+        assert row["claims_trained"] == len(w3.stream), "SuRe trains on every claim"
+        assert row["commits"] == 0 and row["rollbacks"] == 0
+        assert 0 < row["replay_items"] and row["replay_poison"] <= row["replay_items"]
+        assert 0 < row["buffer_size"] <= 12
+        assert 0 <= row["buffer_poison_share"] <= 1 and 0 < row["stream_poison_share"] < 1
+    # robustness variant: the KL anchor must reach SuRe's own training steps
+    import sura.runner as R
+    calls = []
+    orig_kl = R.F.kl_div
+    R.F.kl_div = lambda *x, **k: (calls.append(1), orig_kl(*x, **k))[1]
+    cfg.train.kl_weight = 1.0
+    run(cfg, ["sure"], [0.3], [0], out / "sure_kl", student=student, records=records)
+    R.F.kl_div = orig_kl
+    assert calls, "kl_weight > 0 must add the KL anchor to SuRe's steps"
+    print("  sure ok", [(json.loads(x)["system"], round(json.loads(x)["buffer_poison_share"], 2))
+                        for x in (out / "sure" / "results.jsonl").read_text().splitlines()])
+
+    # natural stream: WikiBigEdit-shaped records (fake file) through the same systems
+    from sura.wikibigedit import build_world_wbe, load_records, prepare
+    rng = random.Random(3)
+    pools = {"P17": [f"Land{i}" for i in range(20)], "P19": [f"Town{i}" for i in range(20)]}
+    fake = []
+    for i in range(700):
+        rel = "P17" if i % 2 else "P19"
+        fake.append(dict(tag="update" if i % 5 == 0 else "new", subject=f"Person{i}", subject_id=f"Q{i}",
+                         relation="country" if rel == "P17" else "place of birth", relation_id=rel,
+                         object="x", object_id="x", update=f"Where is Person{i} from?",
+                         rephrase=float("nan") if i % 7 == 0 else f"What is the origin of Person{i}?",
+                         personas="", ans=rng.choice(pools[rel]), loc=f"Where is Thing{i} from?",
+                         loc_ans=rng.choice(pools[rel]), mhop=None, mhop_ans=None))
+    fake += [dict(fake[0], tag=float("nan"), update="Q nan?"), dict(fake[1], relation_id="P31", update="Q P31?")]
+    wdir = out / "wbe_data"
+    wdir.mkdir(parents=True, exist_ok=True)
+    (wdir / "fake.json").write_text(json.dumps(fake), encoding="utf-8")
+    for k, v in dict(source="wikibigedit", wbe_dir=str(wdir), wbe_files=["fake.json"], wbe_n_screen=600,
+                     wbe_n_choices=8, wbe_n_new=16, n_updates=6, evidence_coverage=0.5).items():
+        setattr(cfg.data, k, v)
+    cfg.verifier.kind = "oracle"
+    assert len(load_records(cfg)) == 700, "records with a bad tag or a multi-valued relation must be dropped"
+    student.reset_adapter()
+    known, fresh = prepare(cfg, student, None, 16)
+    w4 = build_world_wbe(cfg, known, fresh, 0.3, 0)
+    assert all(not c.is_true for c in w4.poison_fict + w4.poison_real) and all(c.is_true for c in w4.new + w4.updates)
+    assert all(c.target in c.choices and c.true_target in c.choices for c in w4.new + w4.poison_fict)
+    assert all(w4.evidence.get((c.subject, c.relation)) != c.sentence for c in w4.poison_fict + w4.poison_real)
+    assert len(build_world_wbe(cfg, known, fresh, 0.0, 0).new) == len(w4.new) == 16
+    print("  unit: wbe world ok", w4.summary())
+    run(cfg, ["naive", "gate_full", "sure"], [0.3], [0], out / "wbe", student=student, records="nocache")
+    for line in (out / "wbe" / "results.jsonl").read_text().splitlines():
+        row = json.loads(line)
+        assert row["before_learn_new"] == 0 and row["before_retention"] == 1 and row["before_poison_real_absorbed"] == 0
+        assert row["before_learn_updates"] == 0
+        assert row["learn_updates"] is not None and 0 <= row["learn_new"] <= 1
+    print("  wbe ok", [(json.loads(x)["system"], round(json.loads(x)["learn_new"], 2))
+                       for x in (out / "wbe" / "results.jsonl").read_text().splitlines()])
     print("\nOFFLINE TEST PASSED")
 
 

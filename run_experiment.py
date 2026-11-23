@@ -52,14 +52,21 @@ def run(cfg, systems, rates, seeds, out_dir: Path, accuracies=None, student=None
     print(f"device={device} dtype={dtype}")
 
     student = student or Student(cfg, device, dtype)
-    if records is None:
+    wbe = getattr(cfg.data, "source", "counterfact") == "wikibigedit"
+    if wbe:  # natural stream from real Wikidata changes
+        from sura.wikibigedit import build_world_wbe, prepare
+        known, fresh = prepare(cfg, student, None if records == "nocache" else Path(cfg.cache_dir),
+                               cfg.eval.batch_size)
+        print(f"student knows {len(known)} WikiBigEdit locality facts; {len(fresh)} new/update facts unknown to it")
+    elif records is None:
         records = load_counterfact(cfg.data.counterfact_split, cfg.data.n_counterfact)
         slug = cfg.student.model_name.replace("/", "_")
         cache = Path(cfg.cache_dir) / f"known_{slug}_{cfg.data.counterfact_split}_{cfg.data.n_counterfact}.json"
     else:
         cache = None
-    known = screen_known(student, records, cache, cfg.eval.batch_size)
-    print(f"student knows {len(known)}/{len(records)} screened CounterFact facts")
+    if not wbe:
+        known = screen_known(student, records, cache, cfg.eval.batch_size)
+        print(f"student knows {len(known)}/{len(records)} screened CounterFact facts")
 
     accuracies = accuracies or [None]
     shared_verifier = None if cfg.verifier.kind == "noisy" else make_verifier(cfg, 0, device, dtype)
@@ -69,7 +76,7 @@ def run(cfg, systems, rates, seeds, out_dir: Path, accuracies=None, student=None
         random.seed(seed)
         torch.manual_seed(seed)
         for rate in rates:
-            world = build_world(cfg, known, rate, seed)
+            world = build_world_wbe(cfg, known, fresh, rate, seed) if wbe else build_world(cfg, known, rate, seed)
             print(f"\nseed={seed} poison_rate={rate} sets={world.summary()}")
             student.reset_adapter()
             before = evaluate(student, world, cfg.eval.batch_size)

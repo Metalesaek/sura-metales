@@ -31,6 +31,7 @@ class Claim:
     true_target: str       # ground truth
     alt_target: str        # contrast object used for ranking metrics
     paraphrases: tuple[str, ...] = ()
+    choices: tuple[str, ...] = ()  # own ranking set (WikiBigEdit); empty = the relation's fictional pool
 
     @property
     def is_true(self) -> bool:

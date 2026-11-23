@@ -1,0 +1,6 @@
+# Qwen2.5-7B on the natural WikiBigEdit stream; every other setting as configs/wbe.yaml
+# (run on a 48 GB GPU, see run_7b.sh).
+base: wbe.yaml
+
+student:
+  model_name: Qwen/Qwen2.5-7B-Instruct

@@ -1,0 +1,23 @@
+# Natural stream from WikiBigEdit (real Wikidata changes, Feb-Mar 2024), the paper's realistic setting
+# (100 legitimate updates, sources for half the claims, noisy verifier as in results/v5_*). Run:
+#   python run_experiment.py --config configs/wbe.yaml \
+#       --systems naive surprise random gate_full gate_prior_ev sure sure_random \
+#       --set verifier.kind=noisy --poison_rates 0.3 --seeds 10 11 12 13 14 --tag v7_wbe
+base: default.yaml
+
+data:
+  source: wikibigedit
+  wbe_dir: data/wikibigedit
+  wbe_files: [wiki_big_edit_20240201_20240220.json, wiki_big_edit_20240220_20240301.json]
+  wbe_n_screen: 4000         # locality questions screened for facts the student already knows
+  wbe_n_choices: 8           # ranking set per new fact: the answer + 7 answers of the same relation
+  wbe_n_new: 400             # true new facts streamed (same as the 400 fictional ones before)
+  evidence_coverage: 0.5
+  n_updates: 100
+
+train:                       # SuRe settings, used only by sure / sure_random (here with the KL anchor)
+  sure_beta: 0.995
+  sure_capacity: 300
+  sure_replay_size: 8
+  sure_replay_every: 2
+  sure_insert: before

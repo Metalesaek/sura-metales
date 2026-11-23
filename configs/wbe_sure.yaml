@@ -1,0 +1,12 @@
+# Faithful SuRe (configs/sure.yaml) on the natural WikiBigEdit stream (configs/wbe.yaml). Run:
+#   python run_experiment.py --config configs/wbe_sure.yaml --systems naive sure sure_random \
+#       --set verifier.kind=noisy --poison_rates 0.3 --seeds 10 11 12 13 14 --tag v7_wbe_sure
+base: sure.yaml
+
+data:
+  source: wikibigedit
+  wbe_dir: data/wikibigedit
+  wbe_files: [wiki_big_edit_20240201_20240220.json, wiki_big_edit_20240220_20240301.json]
+  wbe_n_screen: 4000
+  wbe_n_choices: 8
+  wbe_n_new: 400

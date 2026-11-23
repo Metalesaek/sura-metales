@@ -20,9 +20,16 @@ def _top1(student, items, bs) -> float | None:
     if not items:
         return None
     by_rel: dict[str, list] = {}
+    own = [it for it in items if it[1].choices]  # WikiBigEdit: each claim has its own choice set
     for it in items:
-        by_rel.setdefault(it[1].relation, []).append(it)
+        if not it[1].choices:
+            by_rel.setdefault(it[1].relation, []).append(it)
     hits = 0
+    if own:
+        k = len(own[0][1].choices)
+        nll = student.mean_nll([p for p, c, _ in own for _ in c.choices], [v for _, c, _ in own for v in c.choices], bs)
+        best = nll.view(len(own), k).argmin(1).tolist()
+        hits += sum(c.choices[b] == ans for b, (_, c, ans) in zip(best, own))
     for rel, its in by_rel.items():
         pool = RELATIONS[rel][2]
         nll = student.mean_nll([p for p, _, _ in its for _ in pool], [v for _ in its for v in pool], bs)
