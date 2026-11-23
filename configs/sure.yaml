@@ -1,0 +1,23 @@
+# Faithful SuRe (Hazard et al., 2025, arXiv:2511.22367) on the paper's realistic setting
+# (100 legitimate updates, sources for half the claims, as in results/v5_*). Run:
+#   python run_experiment.py --config configs/sure.yaml --systems naive sure sure_random \
+#       --set verifier.kind=noisy --poison_rates 0.3 --seeds 10 11 12 13 14 --tag v6_sure
+base: default.yaml
+
+student:                     # SuRe: LoRA rank 8, alpha 32, on the Q and V projections, dropout 0.1
+  lora_r: 8
+  lora_alpha: 32
+  lora_dropout: 0.1
+  target_modules: [q_proj, v_proj]
+
+data:
+  evidence_coverage: 0.5
+  n_updates: 100
+
+train:
+  kl_weight: 0.0             # SuRe has no KL anchor (applies to naive in this config too)
+  sure_beta: 0.995           # slow <- beta*slow + (1-beta)*fast after every step (SuRe main setting)
+  sure_capacity: 300         # buffer size of SuRe's replay-ratio study (2% of our stream would be ~20)
+  sure_replay_size: 8        # replayed per replay step: SuRe's 1:2 ratio (32 replayed : 64 current)
+  sure_replay_every: 2       # replay every other gradient step (SuRe, Appendix G)
+  sure_insert: before        # before (Algorithm 1) | after (score with the trained fast adapter)
