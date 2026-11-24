@@ -1,0 +1,72 @@
+50/2727 asked
+100/2727 asked
+150/2727 asked
+200/2727 asked
+250/2727 asked
+300/2727 asked
+350/2727 asked
+400/2727 asked
+450/2727 asked
+500/2727 asked
+550/2727 asked
+600/2727 asked
+650/2727 asked
+700/2727 asked
+750/2727 asked
+800/2727 asked
+850/2727 asked
+900/2727 asked
+950/2727 asked
+1000/2727 asked
+1050/2727 asked
+1100/2727 asked
+1150/2727 asked
+1200/2727 asked
+1250/2727 asked
+1300/2727 asked
+1350/2727 asked
+1400/2727 asked
+1450/2727 asked
+1500/2727 asked
+1550/2727 asked
+1600/2727 asked
+1650/2727 asked
+1700/2727 asked
+1750/2727 asked
+1800/2727 asked
+1850/2727 asked
+1900/2727 asked
+1950/2727 asked
+2000/2727 asked
+2050/2727 asked
+2100/2727 asked
+2150/2727 asked
+2200/2727 asked
+2250/2727 asked
+2300/2727 asked
+2350/2727 asked
+2400/2727 asked
+2450/2727 asked
+2500/2727 asked
+2550/2727 asked
+2600/2727 asked
+2650/2727 asked
+2700/2727 asked
+2727/2727 asked
+
+claims judged by phi4 (5 seeds), split by whether phi4 answers the question itself
+kind         source  phi4 knows      n  judged true
+new          False   True           64        0.656
+new          False   False         859        0.244
+new          True    True           90        0.978
+new          True    False         887        0.908
+update       False   True            6        0.833
+update       False   False         231        0.190
+update       True    True            7        1.000
+update       True    False         251        0.745
+poison_fict  False   True           38        0.000
+poison_fict  False   False         391        0.018
+poison_real  False   True          132        0.023
+poison_real  False   False         293        0.048
+
+share of questions phi4 answers correctly by itself: {'new': 0.081, 'update': 0.026, 'poison_fict': 0.088, 'poison_real': 0.311}
