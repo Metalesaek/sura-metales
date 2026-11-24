@@ -1,0 +1,671 @@
+{"uid": "wbe:Q3123122:P17", "kind": "new", "is_true": true, "target": "Kingdom of France", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q820631:P495", "kind": "new", "is_true": true, "target": "Soviet Union", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11228233:P495", "kind": "new", "is_true": true, "target": "Japan", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q449727:P131", "kind": "new", "is_true": true, "target": "Cologne", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10266527:P17", "kind": "new", "is_true": true, "target": "Kingdom of Portugal", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6443515:P27", "kind": "new", "is_true": true, "target": "Kampili", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q903145:P123", "kind": "new", "is_true": true, "target": "RTVE", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710859:P131", "kind": "new", "is_true": true, "target": "Durensawit", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q33524507:P131", "kind": "new", "is_true": true, "target": "Bemowo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q665188:P17", "kind": "new", "is_true": true, "target": "Spain", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe5108", "kind": "poison_real", "is_true": false, "target": "Lithuania", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1123743:P19", "kind": "new", "is_true": true, "target": "Pest", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2149737:P17", "kind": "new", "is_true": true, "target": "Iceland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2059943:P131", "kind": "new", "is_true": true, "target": "Bruges", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12751832:P131", "kind": "new", "is_true": true, "target": "Mitrovica Municipality", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16231459:P103", "kind": "poison_fict", "is_true": false, "target": "Spain", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q13135019:P27", "kind": "new", "is_true": true, "target": "Kingdom of the Netherlands", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2282888:P27", "kind": "new", "is_true": true, "target": "Kingdom of the Netherlands", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9352662:P19", "kind": "new", "is_true": true, "target": "Trakai", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe12190", "kind": "poison_real", "is_true": false, "target": "Quemasucabeza", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe8640", "kind": "poison_real", "is_true": false, "target": "Iolo Morganwg", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9310805:P184", "kind": "new", "is_true": true, "target": "Wojciech Gaszy\u0144ski", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11781849:P1027", "kind": "new", "is_true": true, "target": "University of Warsaw", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q15461018:P20", "kind": "new", "is_true": true, "target": "Canberra", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q602670:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3633409:P86", "kind": "new", "is_true": true, "target": "Van Morrison", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q17191383:P17", "kind": "new", "is_true": true, "target": "Japan", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710379:P131", "kind": "new", "is_true": true, "target": "Cipayung", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710589:P17", "kind": "new", "is_true": true, "target": "Indonesia", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11813594:P641", "kind": "update", "is_true": true, "target": "para table tennis", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q759151:P735", "kind": "new", "is_true": true, "target": "Dickinson", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe5119", "kind": "poison_real", "is_true": false, "target": "Troms", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q102243219:P20", "kind": "new", "is_true": true, "target": "Berkeley", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q14507242:P131", "kind": "new", "is_true": true, "target": "Lucknow", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9353089:P184", "kind": "new", "is_true": true, "target": "Maria Janion", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3057342:P495", "kind": "new", "is_true": true, "target": "India", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4723235:P641", "kind": "new", "is_true": true, "target": "rugby", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12862739:P20", "kind": "new", "is_true": true, "target": "Kyiv", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q870960:P19", "kind": "new", "is_true": true, "target": "Topli\u021ba-Ciuc", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6121745:P20", "kind": "update", "is_true": true, "target": "Lima", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q8860929:P1027", "kind": "new", "is_true": true, "target": "University of Warsaw", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7648206:P27", "kind": "new", "is_true": true, "target": "United Kingdom", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1797930:P495", "kind": "new", "is_true": true, "target": "German Reich", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q485776:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q872502:P495", "kind": "new", "is_true": true, "target": "German Reich", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q15708614:P20", "kind": "new", "is_true": true, "target": "Versailles", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe9838", "kind": "poison_real", "is_true": false, "target": "French colonial empire", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11338049:P159", "kind": "update", "is_true": true, "target": "Shimo-Meguro", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16416916:P57", "kind": "new", "is_true": true, "target": "Samir Qulamov", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710688:P131", "kind": "new", "is_true": true, "target": "Pulo Gadung", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q467476:P641", "kind": "update", "is_true": true, "target": "tennis singles", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q139506:P734", "kind": "update", "is_true": true, "target": "Poulin", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2890537:P17", "kind": "new", "is_true": true, "target": "Portugal", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2140135:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710502:P131", "kind": "new", "is_true": true, "target": "Jatinegara", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4075701:P19", "kind": "new", "is_true": true, "target": "Surakhany", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3230644:P131", "kind": "new", "is_true": true, "target": "Montreal", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16168324:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe2677", "kind": "poison_real", "is_true": false, "target": "Byelorussian Soviet Socialist Republic", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q8243098:P19", "kind": "poison_fict", "is_true": false, "target": "Berlin", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11881523:P123", "kind": "poison_fict", "is_true": false, "target": "Kobe University", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q75356783:P22", "kind": "new", "is_true": true, "target": "Marshall Roberts", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5835897:P19", "kind": "new", "is_true": true, "target": "Once", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q15734645:P1027", "kind": "new", "is_true": true, "target": "University of Oslo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12301841:P27", "kind": "update", "is_true": true, "target": "Kingdom of Denmark", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q8018034:P184", "kind": "new", "is_true": true, "target": "Eugene Meyer Kleinberg", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9359632:P1027", "kind": "new", "is_true": true, "target": "University of Wroc\u0142aw", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7093808:P735", "kind": "new", "is_true": true, "target": "Ji\u0101qu\u00e1n", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3510178:P20", "kind": "new", "is_true": true, "target": "Draveil", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710898:P131", "kind": "new", "is_true": true, "target": "Cipayung", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7722193:P123", "kind": "poison_fict", "is_true": false, "target": "Bentham Science Publishers", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710558:P131", "kind": "poison_fict", "is_true": false, "target": "A Coru\u00f1a Province", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11057472:P27", "kind": "update", "is_true": true, "target": "Ottoman Empire", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3658421:P264", "kind": "new", "is_true": true, "target": "Victor", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q707893:P495", "kind": "new", "is_true": true, "target": "German Reich", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5175255:P131", "kind": "new", "is_true": true, "target": "St Just", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5254430:P641", "kind": "new", "is_true": true, "target": "canoeing and kayaking", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4958174:P175", "kind": "new", "is_true": true, "target": "Bratz", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3777163:P19", "kind": "update", "is_true": true, "target": "Mihrajanqadhaq", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10314239:P641", "kind": "new", "is_true": true, "target": "athletics", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16070549:P123", "kind": "new", "is_true": true, "target": "St\u00e4del Museum", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16983941:P641", "kind": "update", "is_true": true, "target": "para table tennis", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11886299:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9288508:P184", "kind": "new", "is_true": true, "target": "Ferdynand Iniewski", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3120780:P291", "kind": "new", "is_true": true, "target": "France", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1133620:P27", "kind": "new", "is_true": true, "target": "Wugeguo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1974508:P27", "kind": "new", "is_true": true, "target": "Kingdom of the Netherlands", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4790716:P17", "kind": "poison_fict", "is_true": false, "target": "Kingdom of Hawai\u02bbi", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6250188:P20", "kind": "poison_fict", "is_true": false, "target": "Helsingborgs Maria church parish", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe2873", "kind": "poison_real", "is_true": false, "target": "Ediciones Toray", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4530556:P17", "kind": "new", "is_true": true, "target": "Russia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3288163:P19", "kind": "new", "is_true": true, "target": "Valle de Alcal\u00e1", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3086564:P27", "kind": "new", "is_true": true, "target": "Belgium", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5304753:P19", "kind": "new", "is_true": true, "target": "Florence County", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1891785:P17", "kind": "new", "is_true": true, "target": "Spanish Empire", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe12804", "kind": "poison_real", "is_true": false, "target": "Israel", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe7067", "kind": "poison_real", "is_true": false, "target": "Saint Lucia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe1208", "kind": "poison_real", "is_true": false, "target": "fencing", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1943892:P19", "kind": "update", "is_true": true, "target": "Haut-Fays", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3588519:P131", "kind": "new", "is_true": true, "target": "Allier", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3636596:P17", "kind": "new", "is_true": true, "target": "Saudi Arabia", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q428042:P119", "kind": "new", "is_true": true, "target": "Cemetery of Clarens", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe5087", "kind": "poison_real", "is_true": false, "target": "Morocco", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7147484:P20", "kind": "new", "is_true": true, "target": "London", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9156995:P184", "kind": "new", "is_true": true, "target": "Czes\u0142aw Hernas", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7408822:P19", "kind": "new", "is_true": true, "target": "Gairkata", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q8980013:P735", "kind": "new", "is_true": true, "target": "Sh\u00ecx\u016bn", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16681321:P131", "kind": "update", "is_true": true, "target": "Peja Municipality", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5642343:P27", "kind": "poison_fict", "is_true": false, "target": "Romania", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe9302", "kind": "poison_real", "is_true": false, "target": "The Gambia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q19007150:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2061012:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12758319:P131", "kind": "new", "is_true": true, "target": "Mitrovica Municipality", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9154460:P27", "kind": "new", "is_true": true, "target": "Czech Republic", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12265187:P86", "kind": "new", "is_true": true, "target": "Eleanor McEvoy", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11739886:P641", "kind": "update", "is_true": true, "target": "motorcycle speedway", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1132562:P27", "kind": "update", "is_true": true, "target": "Cao Wei", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2388506:P27", "kind": "new", "is_true": true, "target": "Abbasid Caliphate", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1506192:P19", "kind": "poison_fict", "is_true": false, "target": "Sydney", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe3492", "kind": "poison_real", "is_true": false, "target": "Cabourg Film Festival", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q377199:P495", "kind": "poison_fict", "is_true": false, "target": "South Korea", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3050463:P17", "kind": "new", "is_true": true, "target": "Roman Syria", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710532:P131", "kind": "new", "is_true": true, "target": "Cipayung", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4121181:P735", "kind": "update", "is_true": true, "target": "Andreas", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe3367", "kind": "poison_real", "is_true": false, "target": "Murgia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10372960:P19", "kind": "new", "is_true": true, "target": "Ise Province", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9324747:P1027", "kind": "new", "is_true": true, "target": "Nicolaus Copernicus University in Toru\u0144", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q15106576:P159", "kind": "poison_fict", "is_true": false, "target": "Bangkok", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1160673:P175", "kind": "new", "is_true": true, "target": "Roncsipar", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4871525:P17", "kind": "new", "is_true": true, "target": "Argentina", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4872565:P17", "kind": "new", "is_true": true, "target": "India", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q607152:P495", "kind": "new", "is_true": true, "target": "Soviet Union", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2532891:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe11866", "kind": "poison_real", "is_true": false, "target": "Laval", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11863872:P735", "kind": "new", "is_true": true, "target": "Felix", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1136243:P17", "kind": "update", "is_true": true, "target": "Niger State", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1094812:P734", "kind": "update", "is_true": true, "target": "Ehman", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11612834:P17", "kind": "new", "is_true": true, "target": "Japan", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3095144:P495", "kind": "new", "is_true": true, "target": "France", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q8347743:P735", "kind": "poison_fict", "is_true": false, "target": "Francis", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q45306013:P131", "kind": "new", "is_true": true, "target": "Grand Principality of Finland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe6052", "kind": "poison_real", "is_true": false, "target": "boxing", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11893539:P641", "kind": "poison_fict", "is_true": false, "target": "blind soccer", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q17223141:P131", "kind": "poison_fict", "is_true": false, "target": "Vyborg Governorate", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5700943:P131", "kind": "poison_fict", "is_true": false, "target": "Moscow", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4884468:P131", "kind": "update", "is_true": true, "target": "Dallas", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1119772:P20", "kind": "new", "is_true": true, "target": "Ocna Sibiului", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe715", "kind": "poison_real", "is_true": false, "target": "Boedo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4462380:P131", "kind": "update", "is_true": true, "target": "Savicki Sie\u013asaviet", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2889791:P17", "kind": "new", "is_true": true, "target": "Canada", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6663138:P264", "kind": "poison_fict", "is_true": false, "target": "Viva Records", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1961896:P25", "kind": "new", "is_true": true, "target": "Flori Renteria", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16299668:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1321435:P175", "kind": "new", "is_true": true, "target": "Charlie Mariano", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q124919:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710885:P131", "kind": "new", "is_true": true, "target": "Cakung", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4468724:P131", "kind": "update", "is_true": true, "target": "Bujnavicki Sie\u013asaviet", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710628:P131", "kind": "poison_fict", "is_true": false, "target": "Perell\u00f3", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5042699:P19", "kind": "poison_fict", "is_true": false, "target": "Bern", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4732755:P735", "kind": "update", "is_true": true, "target": "Lynn", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q13107990:P27", "kind": "poison_fict", "is_true": false, "target": "Saxe-Gotha-Altenburg", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4568633:P27", "kind": "update", "is_true": true, "target": "Kingdom of Denmark", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7308830:P131", "kind": "new", "is_true": true, "target": "Aust-Agder", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q669208:P184", "kind": "new", "is_true": true, "target": "Bogdan \u0141omi\u0144ski", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe895", "kind": "poison_real", "is_true": false, "target": "First Republic of South Korea", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11817626:P184", "kind": "new", "is_true": true, "target": "Alicja Helman", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q102443837:P184", "kind": "new", "is_true": true, "target": "Otto Staude", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5001471:P495", "kind": "new", "is_true": true, "target": "Canada", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q935835:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9343552:P184", "kind": "poison_fict", "is_true": false, "target": "Wies\u0142aw Krajka", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12751094:P131", "kind": "poison_fict", "is_true": false, "target": "Westerkwartier", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q854908:P26", "kind": "new", "is_true": true, "target": "Siena Zambra", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe5168", "kind": "poison_real", "is_true": false, "target": "Hong Kong", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11882804:P641", "kind": "poison_fict", "is_true": false, "target": "men's basketball", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12709053:P17", "kind": "new", "is_true": true, "target": "Malaysia", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe3278", "kind": "poison_real", "is_true": false, "target": "Prishtina Municipality", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe4664", "kind": "poison_real", "is_true": false, "target": "Deinste", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16732883:P735", "kind": "update", "is_true": true, "target": "Matthew", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710773:P131", "kind": "new", "is_true": true, "target": "Cipayung", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q99733:P25", "kind": "new", "is_true": true, "target": "Matilda of Werle-Goldberg", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11902993:P641", "kind": "new", "is_true": true, "target": "ten-pin bowling", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3482680:P734", "kind": "new", "is_true": true, "target": "Mussard", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe2009", "kind": "poison_real", "is_true": false, "target": "Cambridge", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe586", "kind": "poison_real", "is_true": false, "target": "Kingdom of Galicia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q468585:P264", "kind": "new", "is_true": true, "target": "EMI", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5533094:P27", "kind": "poison_fict", "is_true": false, "target": "United States of America", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16298277:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3177775:P740", "kind": "new", "is_true": true, "target": "Bremen", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe9933", "kind": "poison_real", "is_true": false, "target": "Polje, Derventa", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9310947:P1027", "kind": "poison_fict", "is_true": false, "target": "Acad\u00e9mie Fran\u00e7aise", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3081632:P131", "kind": "new", "is_true": true, "target": "Seine-et-Marne", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3658419:P264", "kind": "new", "is_true": true, "target": "Victor", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5562929:P735", "kind": "update", "is_true": true, "target": "Lugenia", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4090299:P17", "kind": "new", "is_true": true, "target": "Russia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe619", "kind": "poison_real", "is_true": false, "target": "Thailand", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1046791:P17", "kind": "new", "is_true": true, "target": "Spain", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16572157:P20", "kind": "new", "is_true": true, "target": "Oklahoma City", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q937050:P50", "kind": "new", "is_true": true, "target": "Andy Kellman", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9178584:P17", "kind": "poison_fict", "is_true": false, "target": "Grand Principality of Moscow", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710760:P131", "kind": "new", "is_true": true, "target": "Cipayung", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q17183037:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe12244", "kind": "poison_real", "is_true": false, "target": "Ota", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q102236301:P184", "kind": "new", "is_true": true, "target": "Erich Becher", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12369607:P27", "kind": "new", "is_true": true, "target": "Estonia", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q17711220:P103", "kind": "update", "is_true": true, "target": "Spain", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q15875013:P27", "kind": "new", "is_true": true, "target": "Kingdom of the Netherlands", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q803788:P19", "kind": "new", "is_true": true, "target": "Kunova Teplica", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3842692:P17", "kind": "poison_fict", "is_true": false, "target": "Tsardom of Russia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11345427:P495", "kind": "poison_fict", "is_true": false, "target": "Republic of Ireland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4678542:P735", "kind": "update", "is_true": true, "target": "Jose", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2778138:P19", "kind": "update", "is_true": true, "target": "Turec", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12094236:P22", "kind": "new", "is_true": true, "target": "Oleksandr Dorof\u00ecjovy\u010d Han\u017ea", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q14948971:P20", "kind": "poison_fict", "is_true": false, "target": "Berkeley", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12239570:P20", "kind": "poison_fict", "is_true": false, "target": "Lalupon", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q589131:P495", "kind": "new", "is_true": true, "target": "Italy", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe6114", "kind": "poison_real", "is_true": false, "target": "Oudh State", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3658877:P131", "kind": "poison_fict", "is_true": false, "target": "Zaragoza Province", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q19953007:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe11225", "kind": "poison_real", "is_true": false, "target": "Argentina", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2839731:P20", "kind": "poison_fict", "is_true": false, "target": "Asheville", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4817908:P20", "kind": "update", "is_true": true, "target": "Alexandria", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1986283:P19", "kind": "update", "is_true": true, "target": "Albi", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6801282:P17", "kind": "poison_fict", "is_true": false, "target": "Khmer Empire", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16212500:P641", "kind": "update", "is_true": true, "target": "rugby union", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1190088:P17", "kind": "new", "is_true": true, "target": "Russia", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q17423817:P119", "kind": "new", "is_true": true, "target": "Rosehill Cemetery", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11725170:P735", "kind": "update", "is_true": true, "target": "Stefan", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7157453:P20", "kind": "poison_fict", "is_true": false, "target": "St. Georgen bei Salzburg", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16999950:P641", "kind": "poison_fict", "is_true": false, "target": "\u00e9p\u00e9e fencing", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5004310:P735", "kind": "update", "is_true": true, "target": "Douglas", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9139924:P1027", "kind": "new", "is_true": true, "target": "University of Warsaw", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9175140:P1027", "kind": "new", "is_true": true, "target": "University of Wroc\u0142aw", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5192903:P17", "kind": "new", "is_true": true, "target": "Chile", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16986982:P641", "kind": "poison_fict", "is_true": false, "target": "cross-country skiing", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11517394:P19", "kind": "update", "is_true": true, "target": "Akune", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6477494:P131", "kind": "update", "is_true": true, "target": "Dallas", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10307942:P735", "kind": "new", "is_true": true, "target": "Liam", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q15982815:P103", "kind": "new", "is_true": true, "target": "Dutch", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe9992", "kind": "poison_real", "is_true": false, "target": "Rothbury", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3440846:P27", "kind": "update", "is_true": true, "target": "Swiss", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q18226201:P184", "kind": "new", "is_true": true, "target": "Wojciech Materski", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5000232:P159", "kind": "poison_fict", "is_true": false, "target": "Drancy", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe12304", "kind": "poison_real", "is_true": false, "target": "Andrzej Pelczar", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710778:P131", "kind": "new", "is_true": true, "target": "Matraman", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q19847402:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7738249:P50", "kind": "new", "is_true": true, "target": "Anand Prahlad", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe7843", "kind": "poison_real", "is_true": false, "target": "Indonesia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12766915:P131", "kind": "poison_fict", "is_true": false, "target": "Pontymoile", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q968836:P495", "kind": "new", "is_true": true, "target": "German Reich", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe4793", "kind": "poison_real", "is_true": false, "target": "Napoleon III", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q790041:P50", "kind": "poison_fict", "is_true": false, "target": "Allen Ginsberg", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q76309647:P26", "kind": "new", "is_true": true, "target": "Elisa Francis Godsill", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q89953242:P184", "kind": "new", "is_true": true, "target": "Stephen H. Davis", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7773641:P123", "kind": "update", "is_true": true, "target": "Project Oasis", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4163164:P749", "kind": "update", "is_true": true, "target": "Metinvest", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6100748:P19", "kind": "update", "is_true": true, "target": "Thessaloniki", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12848450:P27", "kind": "new", "is_true": true, "target": "Soviet Union", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2026094:P17", "kind": "new", "is_true": true, "target": "Vietnam", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11864719:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2906303:P735", "kind": "update", "is_true": true, "target": "Autumn", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16851746:P131", "kind": "poison_fict", "is_true": false, "target": "Juyeop-dong", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16304960:P131", "kind": "new", "is_true": true, "target": "Peja Municipality", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3005990:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q445602:P123", "kind": "new", "is_true": true, "target": "RTVE", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q315589:P119", "kind": "poison_fict", "is_true": false, "target": "Oak Grove Cemetery", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q456889:P131", "kind": "new", "is_true": true, "target": "Florida", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q19208703:P50", "kind": "new", "is_true": true, "target": "Victor M\u00e9ric", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1565369:P735", "kind": "update", "is_true": true, "target": "Leonard", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3178132:P26", "kind": "new", "is_true": true, "target": "Maha Mingala Yadana Dewi", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16850226:P123", "kind": "new", "is_true": true, "target": "National Newspaper Association", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12495:P17", "kind": "update", "is_true": true, "target": "Italy", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11070359:P19", "kind": "new", "is_true": true, "target": "Tai'an", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3085815:P19", "kind": "poison_fict", "is_true": false, "target": "O\u0142awa", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3917319:P19", "kind": "new", "is_true": true, "target": "Vepriai", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710382:P131", "kind": "new", "is_true": true, "target": "Ciracas", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2316891:P291", "kind": "poison_fict", "is_true": false, "target": "City of Brussels", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3753581:P50", "kind": "poison_fict", "is_true": false, "target": "Th\u00e9ophile Gautier", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12090613:P20", "kind": "poison_fict", "is_true": false, "target": "San Luis Potos\u00ed", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5451197:P131", "kind": "new", "is_true": true, "target": "Plainfield", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q573163:P495", "kind": "new", "is_true": true, "target": "Germany", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4024369:P735", "kind": "new", "is_true": true, "target": "Gu\u012b", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q19057481:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11504610:P17", "kind": "poison_fict", "is_true": false, "target": "Marinid dynasty", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710434:P131", "kind": "poison_fict", "is_true": false, "target": "Yuzhno-Kurilsky District", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7265291:P734", "kind": "new", "is_true": true, "target": "Quiles", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe8241", "kind": "poison_real", "is_true": false, "target": "Laos", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5011997:P131", "kind": "new", "is_true": true, "target": "Quebec", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q772452:P495", "kind": "new", "is_true": true, "target": "Germany", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe11355", "kind": "poison_real", "is_true": false, "target": "Tunisian Arabic", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q43384:P495", "kind": "new", "is_true": true, "target": "France", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9173738:P17", "kind": "new", "is_true": true, "target": "Ukraine", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16619283:P131", "kind": "new", "is_true": true, "target": "My\u015blenice", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5177306:P291", "kind": "new", "is_true": true, "target": "Canada", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7846485:P291", "kind": "new", "is_true": true, "target": "People's Republic of China", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11907292:P19", "kind": "update", "is_true": true, "target": "FC Barcelona", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12797500:P20", "kind": "new", "is_true": true, "target": "Velenje", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9140823:P735", "kind": "new", "is_true": true, "target": "Adenolfo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16005898:P119", "kind": "new", "is_true": true, "target": "Lincoln Memorial Cemetery", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710824:P131", "kind": "poison_fict", "is_true": false, "target": "Odesa", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5365842:P131", "kind": "new", "is_true": true, "target": "Tasman District", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2136230:P19", "kind": "new", "is_true": true, "target": "Ypres", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10325637:P264", "kind": "poison_fict", "is_true": false, "target": "Path\u00e9-Marconi", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q18171004:P1027", "kind": "new", "is_true": true, "target": "University of Wroc\u0142aw", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5257779:P25", "kind": "new", "is_true": true, "target": "Anna Kennes", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16029335:P119", "kind": "new", "is_true": true, "target": "Walpole Village Cemetery", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710493:P131", "kind": "new", "is_true": true, "target": "Matraman", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2744068:P17", "kind": "new", "is_true": true, "target": "Spain", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5913745:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1714689:P175", "kind": "new", "is_true": true, "target": "Alexis Korner", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe8133", "kind": "poison_real", "is_true": false, "target": "English boxing", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9175876:P1027", "kind": "new", "is_true": true, "target": "University of Wroc\u0142aw", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q14101602:P641", "kind": "update", "is_true": true, "target": "para table tennis", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5981:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q15997805:P27", "kind": "poison_fict", "is_true": false, "target": "Delhi Sultanate", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3982890:P17", "kind": "update", "is_true": true, "target": "Albania", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2495382:P131", "kind": "update", "is_true": true, "target": "Springfield", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710883:P131", "kind": "new", "is_true": true, "target": "Kramatjati", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q934184:P123", "kind": "new", "is_true": true, "target": "Europa Press", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q938820:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3658425:P264", "kind": "new", "is_true": true, "target": "Victor", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5471569:P123", "kind": "new", "is_true": true, "target": "Project Oasis", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe12162", "kind": "poison_real", "is_true": false, "target": "No\u00ebl", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe5029", "kind": "poison_real", "is_true": false, "target": "F\u00e9d\u00e9ration A\u00e9ronautique Internationale", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16481482:P17", "kind": "poison_fict", "is_true": false, "target": "United States of America", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q687084:P495", "kind": "new", "is_true": true, "target": "France", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4794387:P36", "kind": "new", "is_true": true, "target": "Indre Arna", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11708431:P1027", "kind": "new", "is_true": true, "target": "SGH Warsaw School of Economics", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q558718:P735", "kind": "new", "is_true": true, "target": "Zh\u00e0n", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11850106:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q532850:P50", "kind": "poison_fict", "is_true": false, "target": "Michel Onfray", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q259863:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16989748:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16511571:P131", "kind": "new", "is_true": true, "target": "Gjakova Municipality", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710598:P131", "kind": "new", "is_true": true, "target": "Makasar", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe336", "kind": "poison_real", "is_true": false, "target": "Niger State", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe7320", "kind": "poison_real", "is_true": false, "target": "Wyszy\u0144ski", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11248952:P495", "kind": "new", "is_true": true, "target": "Japan", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe10608", "kind": "poison_real", "is_true": false, "target": "Chinese Empire", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710553:P131", "kind": "new", "is_true": true, "target": "Pasar Rebo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2326440:P103", "kind": "new", "is_true": true, "target": "Dutch", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7891096:P123", "kind": "new", "is_true": true, "target": "National Newspaper Association", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q17383644:P19", "kind": "new", "is_true": true, "target": "Sodankyl\u00e4", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe6358", "kind": "poison_real", "is_true": false, "target": "Bangkok", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16636225:P413", "kind": "new", "is_true": true, "target": "cyclo-cross", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12263240:P641", "kind": "new", "is_true": true, "target": "handball", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q687211:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3172959:P25", "kind": "new", "is_true": true, "target": "Shoushanik Babayan", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6103069:P17", "kind": "poison_fict", "is_true": false, "target": "Mali", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q55608962:P641", "kind": "update", "is_true": true, "target": "para table tennis", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q518975:P734", "kind": "new", "is_true": true, "target": "Byram", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q45465371:P22", "kind": "new", "is_true": true, "target": "Lou Fo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3724664:P19", "kind": "update", "is_true": true, "target": "Gabane", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4735652:P131", "kind": "poison_fict", "is_true": false, "target": "Alvalade", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16510539:P131", "kind": "new", "is_true": true, "target": "Podujevo Municipality", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7573331:P17", "kind": "new", "is_true": true, "target": "Kingdom of Scotland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9325042:P1027", "kind": "new", "is_true": true, "target": "Adam Mickiewicz University in Pozna\u0144", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q180:P131", "kind": "new", "is_true": true, "target": "California", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q237106:P103", "kind": "update", "is_true": true, "target": "Quentin", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q530517:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q13017414:P27", "kind": "update", "is_true": true, "target": "Thailand", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q18245258:P20", "kind": "new", "is_true": true, "target": "Helsinki", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12393929:P50", "kind": "update", "is_true": true, "target": "Jaume Ribera Monta\u00f1\u00e1", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7299126:P19", "kind": "new", "is_true": true, "target": "Portland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe5449", "kind": "poison_real", "is_true": false, "target": "First Republic of South Korea", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16615991:P1027", "kind": "new", "is_true": true, "target": "University of Wroc\u0142aw", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16511727:P131", "kind": "new", "is_true": true, "target": "Prizren Municipality", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4871653:P17", "kind": "update", "is_true": true, "target": "Kingdom of Scotland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q807392:P735", "kind": "update", "is_true": true, "target": "Dale", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe3603", "kind": "poison_real", "is_true": false, "target": "Byelorussian Soviet Socialist Republic", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5463937:P641", "kind": "poison_fict", "is_true": false, "target": "English boxing", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe12306", "kind": "poison_real", "is_true": false, "target": "Janskerk", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7941273:P27", "kind": "new", "is_true": true, "target": "Second Polish Republic", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3710403:P641", "kind": "update", "is_true": true, "target": "mixed martial arts", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11429505:P131", "kind": "new", "is_true": true, "target": "Kyoto", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10717096:P131", "kind": "new", "is_true": true, "target": "Laukaa", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710406:P131", "kind": "new", "is_true": true, "target": "Durensawit", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q288192:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5521217:P735", "kind": "new", "is_true": true, "target": "Courtney", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe4282", "kind": "poison_real", "is_true": false, "target": "Christie's", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3086397:P27", "kind": "new", "is_true": true, "target": "Belgium", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3808805:P641", "kind": "update", "is_true": true, "target": "beach soccer", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2069830:P17", "kind": "new", "is_true": true, "target": "Russia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9146090:P17", "kind": "new", "is_true": true, "target": "Austrian Empire", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q19691391:P1027", "kind": "new", "is_true": true, "target": "Pomeranian Medical University", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12756475:P131", "kind": "poison_fict", "is_true": false, "target": "Dodoma Region", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11109781:P264", "kind": "new", "is_true": true, "target": "Grand Production", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe6472", "kind": "poison_real", "is_true": false, "target": "First Republic of South Korea", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe9238", "kind": "poison_real", "is_true": false, "target": "Bulgaria", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q175337:P27", "kind": "update", "is_true": true, "target": "Eastern Wu", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q151888:P159", "kind": "update", "is_true": true, "target": "hell", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1745885:P159", "kind": "update", "is_true": true, "target": "Ben Arous", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6663138:P175", "kind": "new", "is_true": true, "target": "Marcos Witt", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q17381661:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe9575", "kind": "poison_real", "is_true": false, "target": "Chicago", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710826:P131", "kind": "new", "is_true": true, "target": "Pulo Gadung", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe6542", "kind": "poison_real", "is_true": false, "target": "Grosseto", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710514:P131", "kind": "new", "is_true": true, "target": "Ciracas", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7934259:P749", "kind": "new", "is_true": true, "target": "government of Virginia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q18210299:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe5454", "kind": "poison_real", "is_true": false, "target": "France", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q624851:P495", "kind": "poison_fict", "is_true": false, "target": "Czechoslovakia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2802896:P413", "kind": "new", "is_true": true, "target": "BMX", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16646414:P131", "kind": "poison_fict", "is_true": false, "target": "Luzni", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12310118:P119", "kind": "new", "is_true": true, "target": "Holmen Cemetery", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4098652:P17", "kind": "new", "is_true": true, "target": "Ukraine", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9343024:P119", "kind": "new", "is_true": true, "target": "Rakowicki Cemetery", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe3251", "kind": "poison_real", "is_true": false, "target": "United States of America", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q14508085:P123", "kind": "new", "is_true": true, "target": "St\u00e4del Museum", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10535619:P131", "kind": "new", "is_true": true, "target": "Ing\u00e5", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16299852:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9140276:P1027", "kind": "new", "is_true": true, "target": "University of \u0141\u00f3d\u017a", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4410107:P119", "kind": "new", "is_true": true, "target": "Thirteenth City Cemetery, Kharkiv", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6161823:P291", "kind": "poison_fict", "is_true": false, "target": "Auckland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3171581:P20", "kind": "new", "is_true": true, "target": "Biot", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710842:P131", "kind": "poison_fict", "is_true": false, "target": "Moscow Oblast", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7655550:P86", "kind": "new", "is_true": true, "target": "Van Morrison", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1467:P1027", "kind": "new", "is_true": true, "target": "Mike Rama", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710622:P17", "kind": "new", "is_true": true, "target": "Indonesia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11890418:P641", "kind": "poison_fict", "is_true": false, "target": "taekwondo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q19375152:P740", "kind": "poison_fict", "is_true": false, "target": "Madrid", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2532731:P735", "kind": "new", "is_true": true, "target": "Freddy", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12671634:P19", "kind": "update", "is_true": true, "target": "Rodai II manor", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7753923:P123", "kind": "new", "is_true": true, "target": "National Newspaper Association", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q59829401:P19", "kind": "new", "is_true": true, "target": "Salem", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2749447:P119", "kind": "new", "is_true": true, "target": "cimeti\u00e8re de la Ritorte", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12140469:P735", "kind": "update", "is_true": true, "target": "E\u0142eonora", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10828080:P27", "kind": "poison_fict", "is_true": false, "target": "Poland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7598458:P17", "kind": "new", "is_true": true, "target": "German Reich", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q921866:P131", "kind": "new", "is_true": true, "target": "Alabama", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4128706:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q102863817:P184", "kind": "new", "is_true": true, "target": "Richard Mollier", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10354009:P17", "kind": "new", "is_true": true, "target": "Kingdom of Portugal", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4872401:P17", "kind": "new", "is_true": true, "target": "Portugal", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3997014:P495", "kind": "new", "is_true": true, "target": "Sweden", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q19090613:P123", "kind": "new", "is_true": true, "target": "Moffat, Yard and Company", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12702897:P131", "kind": "new", "is_true": true, "target": "Durensawit", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q520118:P123", "kind": "poison_fict", "is_true": false, "target": "California Newspaper Publishers Association", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q451638:P495", "kind": "new", "is_true": true, "target": "German Reich", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4986678:P175", "kind": "new", "is_true": true, "target": "Saint Etienne", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3538018:P749", "kind": "update", "is_true": true, "target": "Keolis", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11854321:P123", "kind": "new", "is_true": true, "target": "Jernhusen", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2976959:P20", "kind": "update", "is_true": true, "target": "T\u00e9bessa", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3715815:P495", "kind": "new", "is_true": true, "target": "Kingdom of Italy", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1910657:P27", "kind": "update", "is_true": true, "target": "Dutch Republic", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1816541:P131", "kind": "new", "is_true": true, "target": "Bruges", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9354764:P26", "kind": "new", "is_true": true, "target": "Joanna Kublicka", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4659603:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2889960:P17", "kind": "new", "is_true": true, "target": "Afghanistan", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe4243", "kind": "poison_real", "is_true": false, "target": "Socialist Federal Republic of Yugoslavia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q710797:P27", "kind": "update", "is_true": true, "target": "Congress Poland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1051100:P131", "kind": "new", "is_true": true, "target": "Bono Region", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12298907:P17", "kind": "new", "is_true": true, "target": "Ancient Rome", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10311859:P20", "kind": "new", "is_true": true, "target": "Lisbon", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10799810:P27", "kind": "new", "is_true": true, "target": "\u0110\u1ea1i Vi\u1ec7t", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710405:P131", "kind": "poison_fict", "is_true": false, "target": "Kristianstad County", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11696204:P131", "kind": "new", "is_true": true, "target": "Wo\u0142y\u0144 Voivodeship", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11859263:P20", "kind": "new", "is_true": true, "target": "Rauma", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11886974:P641", "kind": "new", "is_true": true, "target": "ten-pin bowling", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q968987:P495", "kind": "new", "is_true": true, "target": "France", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710381:P131", "kind": "new", "is_true": true, "target": "Kramatjati", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16990314:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe12967", "kind": "poison_real", "is_true": false, "target": "British Raj", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5304753:P20", "kind": "new", "is_true": true, "target": "Timmonsville", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe7893", "kind": "poison_real", "is_true": false, "target": "ten-pin bowling", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe10333", "kind": "poison_real", "is_true": false, "target": "Academy of Korean Studies", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9179990:P27", "kind": "new", "is_true": true, "target": "Second Polish Republic", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe8074", "kind": "poison_real", "is_true": false, "target": "Iran", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe5436", "kind": "poison_real", "is_true": false, "target": "Cambridge", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9139924:P184", "kind": "poison_fict", "is_true": false, "target": "Andrzej Udalski", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1939281:P131", "kind": "update", "is_true": true, "target": "Sonntag", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe11553", "kind": "poison_real", "is_true": false, "target": "Varnhem Abbey", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q556314:P103", "kind": "new", "is_true": true, "target": "Moor\u00e9", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1851970:P413", "kind": "new", "is_true": true, "target": "track cycling", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1533822:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11715299:P1027", "kind": "new", "is_true": true, "target": "University of Wroc\u0142aw", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11233904:P495", "kind": "new", "is_true": true, "target": "Japan", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q18408254:P123", "kind": "new", "is_true": true, "target": "Statistics Finland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9030202:P19", "kind": "update", "is_true": true, "target": "Oleiros", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3944515:P123", "kind": "new", "is_true": true, "target": "Web Gallery of Art", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9276070:P1027", "kind": "new", "is_true": true, "target": "University of Warsaw", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11857086:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe1175", "kind": "poison_real", "is_true": false, "target": "Tatara", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q739500:P123", "kind": "new", "is_true": true, "target": "RTVE", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2256450:P1027", "kind": "new", "is_true": true, "target": "University of Warsaw", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6308439:P735", "kind": "update", "is_true": true, "target": "Rose", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7581452:P131", "kind": "new", "is_true": true, "target": "Cass County", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9259641:P1027", "kind": "new", "is_true": true, "target": "University of Wroc\u0142aw", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3052748:P17", "kind": "new", "is_true": true, "target": "Basque Country", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q607778:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1231730:P735", "kind": "update", "is_true": true, "target": "Friedrich", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710617:P131", "kind": "new", "is_true": true, "target": "Kramatjati", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3120116:P27", "kind": "new", "is_true": true, "target": "Kingdom of France", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7387058:P735", "kind": "poison_fict", "is_true": false, "target": "LeRoy", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe8261", "kind": "poison_real", "is_true": false, "target": "Classical Athens", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe1541", "kind": "poison_real", "is_true": false, "target": "Bayan", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11502673:P17", "kind": "new", "is_true": true, "target": "Wakoku", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe9031", "kind": "poison_real", "is_true": false, "target": "Philippines", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7815869:P641", "kind": "new", "is_true": true, "target": "baseball", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe8165", "kind": "poison_real", "is_true": false, "target": "Zh\u0113ng", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6651870:P50", "kind": "new", "is_true": true, "target": "Lourdes Diaz Soto", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6848401:P20", "kind": "new", "is_true": true, "target": "Aberdeen", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2890173:P17", "kind": "new", "is_true": true, "target": "Haiti", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe8325", "kind": "poison_real", "is_true": false, "target": "Kingdom of Mercia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2925384:P19", "kind": "new", "is_true": true, "target": "Quebec City", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5818922:P413", "kind": "new", "is_true": true, "target": "left back", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q13136679:P27", "kind": "new", "is_true": true, "target": "Kingdom of the Netherlands", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q71307794:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6050039:P735", "kind": "update", "is_true": true, "target": "Johan", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1819602:P27", "kind": "update", "is_true": true, "target": "Free City of Frankfurt", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16988861:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7807197:P735", "kind": "update", "is_true": true, "target": "Elliott", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q157159:P735", "kind": "update", "is_true": true, "target": "Helmi", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10355575:P495", "kind": "new", "is_true": true, "target": "Netherlands", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16511376:P131", "kind": "new", "is_true": true, "target": "Gjakova Municipality", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe8021", "kind": "poison_real", "is_true": false, "target": "Emilio", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2263:P131", "kind": "new", "is_true": true, "target": "Contra Costa County", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11854955:P20", "kind": "new", "is_true": true, "target": "Helsinki", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7325436:P26", "kind": "new", "is_true": true, "target": "Jennifer Barnes", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe11929", "kind": "poison_real", "is_true": false, "target": "Cambridge", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16508193:P131", "kind": "poison_fict", "is_true": false, "target": "15th arrondissement of Paris", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q359878:P19", "kind": "update", "is_true": true, "target": "Antakya", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16991310:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11864544:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7285000:P264", "kind": "update", "is_true": true, "target": "Defstar Records", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6335249:P123", "kind": "new", "is_true": true, "target": "Institute for Nonprofit News", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe6855", "kind": "poison_real", "is_true": false, "target": "Doha", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5949417:P17", "kind": "new", "is_true": true, "target": "United Kingdom", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q921134:P123", "kind": "new", "is_true": true, "target": "Europa Press", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5067739:P735", "kind": "poison_fict", "is_true": false, "target": "E\u0142eonora", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2904564:P17", "kind": "new", "is_true": true, "target": "Lebanon", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q943512:P495", "kind": "new", "is_true": true, "target": "Argentina", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3829534:P740", "kind": "poison_fict", "is_true": false, "target": "S\u00e3o Paulo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16298597:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5146043:P264", "kind": "new", "is_true": true, "target": "genre b.goode", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3023757:P26", "kind": "poison_fict", "is_true": false, "target": "Joan Patricia Jarch\u00e9", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2818881:P19", "kind": "update", "is_true": true, "target": "Worthing", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710723:P131", "kind": "poison_fict", "is_true": false, "target": "Oruro Department", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q700127:P57", "kind": "new", "is_true": true, "target": "Hisayuki Toriumi", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe8702", "kind": "poison_real", "is_true": false, "target": "Grand Principality of Moscow", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe2690", "kind": "poison_real", "is_true": false, "target": "Turkmenistan", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q549320:P495", "kind": "new", "is_true": true, "target": "Netherlands", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q179730:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12986700:P27", "kind": "new", "is_true": true, "target": "Kingdom of Portugal", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10372960:P20", "kind": "new", "is_true": true, "target": "Ky\u014dto", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1590868:P131", "kind": "update", "is_true": true, "target": "Josefstadt", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710891:P17", "kind": "new", "is_true": true, "target": "Indonesia", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2034641:P17", "kind": "new", "is_true": true, "target": "Russia", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe759", "kind": "poison_real", "is_true": false, "target": "Brazil", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7257606:P131", "kind": "new", "is_true": true, "target": "Singapore", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3025055:P17", "kind": "new", "is_true": true, "target": "Haiti", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16409610:P17", "kind": "new", "is_true": true, "target": "Estonia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12781226:P131", "kind": "poison_fict", "is_true": false, "target": "P\u00fachov District", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q18542382:P19", "kind": "new", "is_true": true, "target": "C\u00e2mpulung", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6560619:P19", "kind": "new", "is_true": true, "target": "Mikazuki", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1051320:P17", "kind": "new", "is_true": true, "target": "British Hong Kong", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q871081:P495", "kind": "poison_fict", "is_true": false, "target": "Ryukyu Kingdom", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q8075614:P20", "kind": "new", "is_true": true, "target": "Mapupo", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1318168:P27", "kind": "update", "is_true": true, "target": "Kingdom of Saxony", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12178983:P20", "kind": "new", "is_true": true, "target": "Amman", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11720046:P1027", "kind": "poison_fict", "is_true": false, "target": "Stanford University", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11750641:P184", "kind": "new", "is_true": true, "target": "Wincenty Bednarek", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe436", "kind": "poison_real", "is_true": false, "target": "President of Romania", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4362315:P1027", "kind": "new", "is_true": true, "target": "Academy of Music in Krak\u00f3w", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10370890:P17", "kind": "new", "is_true": true, "target": "Brazil", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4395132:P26", "kind": "new", "is_true": true, "target": "Sara Center Whitney Robinson", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2293544:P103", "kind": "new", "is_true": true, "target": "Dutch", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe4365", "kind": "poison_real", "is_true": false, "target": "Thailand", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6966217:P119", "kind": "poison_fict", "is_true": false, "target": "Le Barroux", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4849471:P36", "kind": "new", "is_true": true, "target": "Sira", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3823337:P17", "kind": "poison_fict", "is_true": false, "target": "Polish People's Republic", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10314239:P19", "kind": "new", "is_true": true, "target": "Praia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16982563:P641", "kind": "poison_fict", "is_true": false, "target": "women's basketball", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q8953236:P27", "kind": "new", "is_true": true, "target": "Taiwan", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q603019:P495", "kind": "new", "is_true": true, "target": "France", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12642779:P103", "kind": "new", "is_true": true, "target": "Croatian", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6663146:P264", "kind": "new", "is_true": true, "target": "CanZion", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11239081:P291", "kind": "new", "is_true": true, "target": "Japan", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q402194:P264", "kind": "update", "is_true": true, "target": "sonar", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10620695:P735", "kind": "update", "is_true": true, "target": "Y\u00ec", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2718970:P19", "kind": "update", "is_true": true, "target": "Barbezieux", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5739494:P119", "kind": "poison_fict", "is_true": false, "target": "Maqabir", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q8050505:P103", "kind": "new", "is_true": true, "target": "Arabic", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe11818", "kind": "poison_real", "is_true": false, "target": "Scotland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5714430:P19", "kind": "new", "is_true": true, "target": "par\u00f3iste Skedevi", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3215882:P131", "kind": "new", "is_true": true, "target": "Cholonge", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1133118:P20", "kind": "poison_fict", "is_true": false, "target": "\u0218imleu Silvaniei", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2890096:P17", "kind": "new", "is_true": true, "target": "Syria", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe2909", "kind": "poison_real", "is_true": false, "target": "Venezuela", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16511377:P131", "kind": "new", "is_true": true, "target": "Gjakova Municipality", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe291", "kind": "poison_real", "is_true": false, "target": "Urdu", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5364802:P26", "kind": "new", "is_true": true, "target": "Daniel Halberstam", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16745960:P495", "kind": "new", "is_true": true, "target": "Korean Empire", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16683864:P17", "kind": "new", "is_true": true, "target": "Kosovo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5566629:P131", "kind": "new", "is_true": true, "target": "Flixborough", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1435274:P495", "kind": "new", "is_true": true, "target": "Netherlands", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q17447286:P27", "kind": "poison_fict", "is_true": false, "target": "Delhi Sultanate", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1602256:P20", "kind": "poison_fict", "is_true": false, "target": "Alba Iulia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7540607:P86", "kind": "new", "is_true": true, "target": "Van Morrison", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q380751:P123", "kind": "new", "is_true": true, "target": "RTVE", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6989533:P17", "kind": "new", "is_true": true, "target": "British Ceylon", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe13202", "kind": "poison_real", "is_true": false, "target": "Delvin\u00eb District", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q17278951:P20", "kind": "new", "is_true": true, "target": "Bremen", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2003119:P103", "kind": "new", "is_true": true, "target": "Dutch", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3548732:P86", "kind": "new", "is_true": true, "target": "Krishna Levy", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710385:P17", "kind": "new", "is_true": true, "target": "Indonesia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe5374", "kind": "poison_real", "is_true": false, "target": "Holy Roman Empire", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe220", "kind": "poison_real", "is_true": false, "target": "Mongolia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11094252:P20", "kind": "new", "is_true": true, "target": "Tula", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2706111:P25", "kind": "new", "is_true": true, "target": "Landelaicha of Capua", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2037403:P25", "kind": "new", "is_true": true, "target": "Drosu", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q6082206:P19", "kind": "new", "is_true": true, "target": "Addis Ababa", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16670426:P131", "kind": "poison_fict", "is_true": false, "target": "Olmedilla de Alarc\u00f3n", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3828328:P131", "kind": "new", "is_true": true, "target": "Florence", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11781899:P184", "kind": "new", "is_true": true, "target": "Ryszard Bender", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q638615:P495", "kind": "new", "is_true": true, "target": "German Reich", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16983998:P641", "kind": "poison_fict", "is_true": false, "target": "alpine skiing", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12710530:P17", "kind": "new", "is_true": true, "target": "Indonesia", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10819:P17", "kind": "new", "is_true": true, "target": "Francoist Spain", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7196968:P184", "kind": "new", "is_true": true, "target": "Anna Izabela Brzezi\u0144ska", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12361933:P119", "kind": "new", "is_true": true, "target": "Vienna Central Cemetery", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2186065:P641", "kind": "new", "is_true": true, "target": "speed skating", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3998785:P175", "kind": "new", "is_true": true, "target": "Mister Max", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q552575:P495", "kind": "new", "is_true": true, "target": "German Reich", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9202763:P184", "kind": "poison_fict", "is_true": false, "target": "Witold Pogorzelski", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12816124:P19", "kind": "new", "is_true": true, "target": "Satu Mare", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5486505:P641", "kind": "new", "is_true": true, "target": "pes\u00e4pallo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3915004:P27", "kind": "update", "is_true": true, "target": "Congress Poland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q10328402:P119", "kind": "new", "is_true": true, "target": "Kyoto Ryozen Gokoku Shrine", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe724", "kind": "poison_real", "is_true": false, "target": "Vijayanagara Empire", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1701261:P20", "kind": "update", "is_true": true, "target": "New Madrid", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4731880:P735", "kind": "update", "is_true": true, "target": "Roger", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16480837:P27", "kind": "new", "is_true": true, "target": "Vi\u1ec7t Nam", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5534447:P734", "kind": "update", "is_true": true, "target": "Lion", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q203619:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16511482:P131", "kind": "new", "is_true": true, "target": "Podujevo Municipality", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9172653:P17", "kind": "new", "is_true": true, "target": "Belarus", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3219441:P131", "kind": "new", "is_true": true, "target": "Seine", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7733435:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q19181896:P50", "kind": "update", "is_true": true, "target": "Virgil", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2424995:P20", "kind": "new", "is_true": true, "target": "Bornem", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2566958:P1027", "kind": "new", "is_true": true, "target": "Sundance Institute", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4872247:P17", "kind": "new", "is_true": true, "target": "Denmark", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16117647:P17", "kind": "new", "is_true": true, "target": "Saudi Arabia", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe6650", "kind": "poison_real", "is_true": false, "target": "Montenegro", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q2026187:P17", "kind": "new", "is_true": true, "target": "Iraq", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q18563758:P17", "kind": "poison_fict", "is_true": false, "target": "Iceland", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12992403:P57", "kind": "new", "is_true": true, "target": "Dasari Narayana Rao", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q5996383:P413", "kind": "poison_fict", "is_true": false, "target": "cycling sprinter", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4394678:P131", "kind": "new", "is_true": true, "target": "Petergof", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16657613:P131", "kind": "new", "is_true": true, "target": "Peja Municipality", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe2327", "kind": "poison_real", "is_true": false, "target": "Hawthorn", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe5096", "kind": "poison_real", "is_true": false, "target": "Habsburg Netherlands", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12510372:P131", "kind": "update", "is_true": true, "target": "Pahandut", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q990557:P123", "kind": "update", "is_true": true, "target": "Statistics Finland", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q504945:P123", "kind": "new", "is_true": true, "target": "Europa Press", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7497230:P22", "kind": "new", "is_true": true, "target": "Sin Se-hoai", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q7424830:P131", "kind": "new", "is_true": true, "target": "Alay District", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11639392:P123", "kind": "new", "is_true": true, "target": "Shogakukan", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q4520499:P131", "kind": "update", "is_true": true, "target": "Juravicki Sie\u013asaviet", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3230644:P17", "kind": "new", "is_true": true, "target": "Canada", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe4612", "kind": "poison_real", "is_true": false, "target": "Tirana", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12749744:P131", "kind": "new", "is_true": true, "target": "Mitrovica Municipality", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q16448226:P19", "kind": "update", "is_true": true, "target": "Velizh Uyezd", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe7680", "kind": "poison_real", "is_true": false, "target": "University of Rostock", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q9344931:P1027", "kind": "new", "is_true": true, "target": "University of Warsaw", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1681926:P734", "kind": "new", "is_true": true, "target": "Xiao", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q1031533:P131", "kind": "new", "is_true": true, "target": "Villoria", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "cf:wbe13146", "kind": "poison_real", "is_true": false, "target": "Bulgaria", "has_source": false, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q12239570:P27", "kind": "new", "is_true": true, "target": "Morocco", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q3076552:P17", "kind": "new", "is_true": true, "target": "Democratic Republic of the Congo", "has_source": true, "judge": null, "prior_gap": null}
+{"uid": "wbe:Q11813632:P20", "kind": "new", "is_true": true, "target": "Allemond", "has_source": true, "judge": null, "prior_gap": null}

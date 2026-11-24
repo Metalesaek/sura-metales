@@ -1,0 +1,84 @@
+{"chunk": 0, "kept": 9, "poison_kept": 0, "loss": 2.0854843128472567, "decision": "commit"}
+{"chunk": 1, "kept": 8, "poison_kept": 0, "loss": 1.4554806128144264, "decision": "commit"}
+{"chunk": 2, "kept": 9, "poison_kept": 0, "loss": 1.4014498628675938, "decision": "commit"}
+{"chunk": 3, "kept": 8, "poison_kept": 0, "loss": 1.6341721713542938, "decision": "commit"}
+{"chunk": 4, "kept": 8, "poison_kept": 0, "loss": 0.9512205384671688, "decision": "commit"}
+{"chunk": 5, "kept": 7, "poison_kept": 0, "loss": 0.8094179257750511, "decision": "commit"}
+{"chunk": 6, "kept": 5, "poison_kept": 0, "loss": 0.8311697170138359, "decision": "commit"}
+{"chunk": 7, "kept": 5, "poison_kept": 0, "loss": 0.5225406214594841, "decision": "commit"}
+{"chunk": 8, "kept": 9, "poison_kept": 0, "loss": 0.6738015674054623, "decision": "commit"}
+{"chunk": 9, "kept": 2, "poison_kept": 0, "loss": 0.28387594409286976, "decision": "commit"}
+{"chunk": 10, "kept": 5, "poison_kept": 0, "loss": 0.5827237218618393, "decision": "commit"}
+{"chunk": 11, "kept": 6, "poison_kept": 0, "loss": 0.7180447168648243, "decision": "commit"}
+{"chunk": 12, "kept": 5, "poison_kept": 0, "loss": 0.39520171005278826, "decision": "commit"}
+{"chunk": 13, "kept": 4, "poison_kept": 0, "loss": 0.30869524646550417, "decision": "commit"}
+{"chunk": 14, "kept": 2, "poison_kept": 0, "loss": 0.2463410058990121, "decision": "commit"}
+{"chunk": 15, "kept": 2, "poison_kept": 0, "loss": 0.15029759239405394, "decision": "commit"}
+{"chunk": 16, "kept": 7, "poison_kept": 0, "loss": 0.9808182008564472, "decision": "commit"}
+{"chunk": 17, "kept": 5, "poison_kept": 0, "loss": 0.5646089455112815, "decision": "commit"}
+{"chunk": 18, "kept": 5, "poison_kept": 0, "loss": 0.5467614699155092, "decision": "commit"}
+{"chunk": 19, "kept": 6, "poison_kept": 0, "loss": 0.821234155446291, "decision": "commit"}
+{"chunk": 20, "kept": 3, "poison_kept": 0, "loss": 0.5375352678820491, "decision": "commit"}
+{"chunk": 21, "kept": 5, "poison_kept": 0, "loss": 0.5296028070151806, "decision": "commit"}
+{"chunk": 22, "kept": 6, "poison_kept": 0, "loss": 0.682395227253437, "decision": "commit"}
+{"chunk": 23, "kept": 4, "poison_kept": 0, "loss": 0.2850232580676675, "decision": "commit"}
+{"chunk": 24, "kept": 5, "poison_kept": 0, "loss": 0.6197323575615883, "decision": "commit"}
+{"chunk": 25, "kept": 7, "poison_kept": 0, "loss": 0.7493034712970257, "decision": "commit"}
+{"chunk": 26, "kept": 5, "poison_kept": 0, "loss": 0.5149754006415606, "decision": "commit"}
+{"chunk": 27, "kept": 5, "poison_kept": 0, "loss": 0.6268283668905497, "decision": "commit"}
+{"chunk": 28, "kept": 6, "poison_kept": 0, "loss": 0.4536267602816224, "decision": "commit"}
+{"chunk": 29, "kept": 1, "poison_kept": 0, "loss": 0.19486307073384523, "decision": "commit"}
+{"chunk": 30, "kept": 4, "poison_kept": 0, "loss": 0.4610738195478916, "decision": "commit"}
+{"chunk": 31, "kept": 2, "poison_kept": 0, "loss": 0.5339907761663198, "decision": "commit"}
+{"chunk": 32, "kept": 5, "poison_kept": 0, "loss": 0.5598040465265512, "decision": "commit"}
+{"chunk": 33, "kept": 6, "poison_kept": 0, "loss": 0.4812144674360752, "decision": "commit"}
+{"chunk": 34, "kept": 7, "poison_kept": 0, "loss": 0.7975056357681751, "decision": "commit"}
+{"chunk": 35, "kept": 3, "poison_kept": 0, "loss": 0.34683042764663696, "decision": "commit"}
+{"chunk": 36, "kept": 3, "poison_kept": 0, "loss": 0.21720930468291044, "decision": "commit"}
+{"chunk": 37, "kept": 2, "poison_kept": 0, "loss": 0.21378876082599163, "decision": "commit"}
+{"chunk": 38, "kept": 8, "poison_kept": 0, "loss": 0.8660945817828178, "decision": "commit"}
+{"chunk": 39, "kept": 1, "poison_kept": 0, "loss": 0.10493956413120031, "decision": "commit"}
+{"chunk": 40, "kept": 3, "poison_kept": 0, "loss": 0.28399988170713186, "decision": "commit"}
+{"chunk": 41, "kept": 5, "poison_kept": 0, "loss": 0.38700437545776367, "decision": "commit"}
+{"chunk": 42, "kept": 4, "poison_kept": 0, "loss": 0.16645364556461573, "decision": "commit"}
+{"chunk": 43, "kept": 3, "poison_kept": 0, "loss": 0.16624531522393227, "decision": "commit"}
+{"chunk": 44, "kept": 4, "poison_kept": 0, "loss": 0.4456734349951148, "decision": "commit"}
+{"chunk": 45, "kept": 2, "poison_kept": 0, "loss": 0.12538394704461098, "decision": "commit"}
+{"chunk": 46, "kept": 2, "poison_kept": 0, "loss": 0.26315633952617645, "decision": "commit"}
+{"chunk": 47, "kept": 2, "poison_kept": 0, "loss": 0.2005557967349887, "decision": "commit"}
+{"chunk": 48, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 49, "kept": 2, "poison_kept": 0, "loss": 0.1732795825228095, "decision": "commit"}
+{"chunk": 50, "kept": 6, "poison_kept": 0, "loss": 0.33348515164107084, "decision": "commit"}
+{"chunk": 51, "kept": 3, "poison_kept": 0, "loss": 0.21613370068371296, "decision": "commit"}
+{"chunk": 52, "kept": 1, "poison_kept": 0, "loss": 0.16690283454954624, "decision": "commit"}
+{"chunk": 53, "kept": 1, "poison_kept": 0, "loss": 0.1627506371587515, "decision": "commit"}
+{"chunk": 54, "kept": 1, "poison_kept": 1, "loss": 0.11409108154475689, "decision": "commit"}
+{"chunk": 55, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 56, "kept": 1, "poison_kept": 0, "loss": 0.11405186587944627, "decision": "commit"}
+{"chunk": 57, "kept": 2, "poison_kept": 0, "loss": 0.2047193320468068, "decision": "commit"}
+{"chunk": 58, "kept": 2, "poison_kept": 0, "loss": 0.13941294001415372, "decision": "commit"}
+{"chunk": 59, "kept": 2, "poison_kept": 0, "loss": 0.08779284404590726, "decision": "commit"}
+{"chunk": 60, "kept": 1, "poison_kept": 0, "loss": 0.1780743373092264, "decision": "commit"}
+{"chunk": 61, "kept": 3, "poison_kept": 0, "loss": 0.20108721731230617, "decision": "commit"}
+{"chunk": 62, "kept": 2, "poison_kept": 0, "loss": 0.23647855268791318, "decision": "commit"}
+{"chunk": 63, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 64, "kept": 3, "poison_kept": 0, "loss": 0.4169333563186228, "decision": "commit"}
+{"chunk": 65, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 66, "kept": 3, "poison_kept": 0, "loss": 0.20717679802328348, "decision": "commit"}
+{"chunk": 67, "kept": 2, "poison_kept": 0, "loss": 0.3098745606839657, "decision": "commit"}
+{"chunk": 68, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 69, "kept": 1, "poison_kept": 0, "loss": 0.1469258051365614, "decision": "commit"}
+{"chunk": 70, "kept": 1, "poison_kept": 0, "loss": 0.15972196077927947, "decision": "commit"}
+{"chunk": 71, "kept": 1, "poison_kept": 0, "loss": 0.08616486564278603, "decision": "commit"}
+{"chunk": 72, "kept": 1, "poison_kept": 0, "loss": 0.10785576747730374, "decision": "commit"}
+{"chunk": 73, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 74, "kept": 3, "poison_kept": 1, "loss": 0.17455538408830762, "decision": "commit"}
+{"chunk": 75, "kept": 1, "poison_kept": 0, "loss": 0.12120249075815082, "decision": "commit"}
+{"chunk": 76, "kept": 3, "poison_kept": 0, "loss": 0.1644370653666556, "decision": "commit"}
+{"chunk": 77, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 78, "kept": 2, "poison_kept": 0, "loss": 0.2317789471708238, "decision": "commit"}
+{"chunk": 79, "kept": 2, "poison_kept": 0, "loss": 0.14096584636718035, "decision": "commit"}
+{"chunk": 80, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 81, "kept": 2, "poison_kept": 0, "loss": 0.10025063809007406, "decision": "commit"}
+{"chunk": 82, "kept": 0, "poison_kept": 0, "decision": "skip"}
+{"chunk": 83, "kept": 0, "poison_kept": 0, "decision": "skip"}
